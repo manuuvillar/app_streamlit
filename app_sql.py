@@ -32,11 +32,11 @@ def normalizar_nome(nome):
 def buscar_aluno(conn, nome_aluno):
     nome_aluno_normalizado = normalizar_nome(nome_aluno)  # Normalizar o nome pesquisado
     
-    # Consulta modificada para buscar apenas na tabela 'colocados'
+    # Consulta SQL para buscar na tabela 'colocados' com tratamento para espaços
     query_colocados = f"""
         SELECT codigo_estabelecimento, codigo_curso, "Nº Ordem (parcial)", cc, Nome, Nota, Opção, PI, "12º", "10º/11º", estabelecimento, escola, curso, regime_pos_laboral, regime_noturno
         FROM candidatos_que_foram_colocados
-        WHERE LOWER(Nome) LIKE '%{nome_aluno_normalizado}%'
+        WHERE LOWER(Nome) LIKE LOWER('%{nome_aluno_normalizado}%')
     """
     
     # Executando a consulta na tabela 'colocados'
