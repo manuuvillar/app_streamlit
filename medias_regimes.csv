@@ -1,0 +1,505 @@
+,curso,regime,Media_Nota
+0,Finanças,Pós-Laboral,144.94
+1,Engenharia Civil,Diurno,151.46
+2,Engenharia Física Aplicada,Diurno,131.01
+3,Biotecnologia,Diurno,144.59
+4,Engenharia de Redes e Sistemas de Computadores,Diurno,132.42
+5,Engenharia Eletrónica e Telecomunicações,Diurno,149.0
+6,Engenharia Informática Aplicada,Diurno,150.87
+7,Engenharia Eletrónica e Telecomunicações e de Computadores,Diurno,128.73
+8,Engenharia Alimentar,Diurno,131.73
+9,Gestão Turística,Diurno,147.93
+10,"Gestão Turística, Cultural e Patrimonial",Diurno,133.51
+11,Turismo e Gestão do Património Cultural,Diurno,126.87
+12,Tecnologia e Design de Mobiliário,Diurno,131.05
+13,"Tecnologias Digitais, Edifícios e Construção Sustentável",Diurno,140.17
+14,Jornalismo e Comunicação,Diurno,154.8
+15,Línguas e Literaturas,Diurno,153.22
+16,Sociologia,Pós-Laboral,137.6
+17,Segurança do Trabalho e Ambiente,Diurno,136.48
+18,Tecnologias Digitais e Gestão,Diurno,157.91
+19,Design Sustentável,Diurno,142.87
+20,Gestão,Pós-Laboral,152.2
+21,Engenharia do Ambiente,Diurno,147.02
+22,Engenharia Física Tecnológica,Diurno,188.14
+23,Bioquímica,Diurno,159.43
+24,Engenharia Mecatrónica,Diurno,145.33
+25,Tecnologias e Design de Multimédia,Diurno,137.27
+26,Comunicação e Media,Diurno,151.93
+27,Engenharia Zootécnica,Diurno,142.66
+28,Filosofia,Diurno,161.1
+29,Tecnologias e Gestão Municipal,Diurno,134.44
+30,Planeamento e Gestão do Território,Diurno,144.14
+31,Turismo,Diurno,134.35
+32,Organização e Gestão Empresariais,Diurno,146.66
+33,Gestão de Recursos Humanos e Comportamento Organizacional,Diurno,133.05
+34,Direção e Gestão Hoteleira,Diurno,151.48
+35,Design do Produto,Diurno,154.01
+36,Matemática Aplicada à Economia e à Gestão,Diurno,173.48
+37,Teatro e Artes Performativas,Diurno,133.93
+38,Gestão Comercial,Diurno,139.61
+39,Finanças Empresariais,Pós-Laboral,151.04
+40,Ciências Farmacêuticas,Diurno,160.91
+41,Solicitadoria,Diurno,151.8
+42,Jogos Digitais e Multimédia (ensino em inglês),Diurno,152.23
+43,Agronomia,Diurno,135.53
+44,Engenharia de Minas e Recursos Energéticos,Diurno,145.46
+45,Engenharia Informática,Pós-Laboral,143.35
+46,Estudos Clássicos,Diurno,139.24
+47,Biologia Marinha,Diurno,145.17
+48,Engenharia Informática e Telecomunicações,Diurno,133.06
+49,Ciências e Tecnologia do Ambiente,Diurno,146.23
+50,Biologia,Diurno,157.79
+51,Engenharia de Energias Renováveis,Diurno,138.45
+52,Ciências Empresariais,Diurno,160.84
+53,Engenharia da Energia e do Ambiente,Diurno,135.13
+54,Engenharia Informática,Diurno,159.17
+55,Gestão Hoteleira,Diurno,143.28
+56,Educação Social,Pós-Laboral,145.38
+57,Engenharia de Materiais,Diurno,156.02
+58,"Informática Web, Móvel e na Nuvem",Diurno,131.07
+59,Tradução,Diurno,158.28
+60,Design de Produto e Tecnologia,Diurno,161.02
+61,Engenharia Mecânica,Diurno,167.39
+62,Química Industrial,Diurno,127.57
+63,Finanças Empresariais,Diurno,162.71
+64,Proteção Civil e Gestão de Riscos,Diurno,143.56
+65,Terapia Ocupacional,Diurno,142.54
+66,Qualidade Alimentar e Nutrição Humana,Diurno,125.59
+67,Bioinformática,Diurno,156.66
+68,Eletrónica e Mecânica Industrial,Diurno,145.67
+69,Gestão Pública,Diurno,147.47
+70,Design de Interiores e Equipamento,Diurno,156.28
+71,Antropologia,Diurno,140.5
+72,Gestão do Desporto,Diurno,163.79
+73,Ciência da Informação,Diurno,151.13
+74,Marketing,Pós-Laboral,152.68
+75,Design Industrial,Diurno,152.36
+76,Estudos de Filosofia e de Cultura Contemporânea,Diurno,132.27
+77,"Línguas, Literaturas e Culturas",Diurno,156.08
+78,Engenharia Aeronáutica,Diurno,165.87
+79,Biologia Humana,Diurno,138.98
+80,Cidades Sustentáveis e Inteligentes,Diurno,118.0
+81,Engenharia da Computação Gráfica e Multimédia,Diurno,136.37
+82,Direito,Pós-Laboral,158.43
+83,Gestão e Administração Hoteleira,Diurno,159.23
+84,Solicitadoria,Pós-Laboral,146.0
+85,Administração Pública,Diurno,153.74
+86,Ortóptica e Ciências da Visão,Diurno,141.42
+87,Tecnologias Digitais e Automação,Diurno,141.38
+88,Enologia,Diurno,133.38
+89,Comunicação Social,Diurno,146.29
+90,Biologia e Biotecnologia,Diurno,121.92
+91,Multimédia,Diurno,158.44
+92,Tradução e Interpretação de Língua Gestual Portuguesa,Diurno,137.35
+93,Gestão do Lazer e Animação Turística,Diurno,154.99
+94,Desporto e Bem-Estar,Diurno,140.57
+95,Ciências da Comunicação,Diurno,167.26
+96,Segurança Informática em Redes de Computadores,Diurno,143.92
+97,Línguas Modernas,Diurno,167.72
+98,Gestão Industrial e Logística,Diurno,161.9
+99,Relações Humanas e Comunicação Organizacional,Pós-Laboral,128.49
+100,Engenharia Eletrotécnica,Diurno,135.23
+101,Gestão da Distribuição e Logística,Diurno,128.31
+102,Design de Jogos Digitais,Diurno,138.89
+103,Comunicação e Relações Públicas,Diurno,131.59
+104,Inteligência Artificial e Ciência de Dados,Diurno,171.86
+105,Dança,Diurno,148.75
+106,Gestão,Diurno,167.35
+107,Tradução e Interpretação em Língua Gestual Portuguesa,Diurno,151.0
+108,Informática,Diurno,146.05
+109,Português,Diurno,154.79
+110,Estudos de Cultura,Diurno,128.05
+111,Ciência e Tecnologia Animal,Diurno,143.09
+112,Design de Moda e Têxtil,Diurno,150.65
+113,Geografia,Diurno,148.38
+114,Sistemas de Informação para Gestão,Diurno,135.1
+115,Estudos Europeus,Diurno,156.08
+116,Engenharia Informática e de Computadores,Diurno,169.64
+117,Contabilidade e Finanças,Diurno,145.5
+118,Ciências da Nutrição,Diurno,156.78
+119,Finanças (ensino em inglês),Diurno,168.26
+120,Design de Comunicação e Audiovisual,Diurno,143.23
+121,Animação Sociocultural,Diurno,136.58
+122,Cultura e Transformação Digital,Diurno,133.81
+123,Matemática,Diurno,170.17
+124,Comércio e Negócios Internacionais,Pós-Laboral,149.16
+125,Línguas e Estudos Editoriais,Diurno,164.94
+126,Estudos Portugueses,Diurno,147.59
+127,Design de Moda,Diurno,169.89
+128,Gestão,Noturno,132.97
+129,Farmácia,Diurno,144.57
+130,Ciências Biomédicas e da Saúde,Diurno,151.46
+131,História da Arte,Diurno,159.72
+132,Cinema,Diurno,158.66
+133,Fiscalidade,Pós-Laboral,135.25
+134,Gestão de Atividades Turísticas,Diurno,140.06
+135,Física,Diurno,163.44
+136,Educação Social,Diurno,137.67
+137,Estudos Portugueses e Ingleses,Diurno,152.99
+138,Engenharia Eletrotécnica e de Computadores,Diurno,154.25
+139,Estudos Portugueses e Espanhóis,Diurno,137.72
+140,Gestão do Património Cultural,Diurno,140.89
+141,Sociologia,Diurno,150.42
+142,Economia,Diurno,170.96
+143,Biotecnologia Alimentar,Diurno,124.68
+144,Engenharia Agronómica,Diurno,139.41
+145,Gestão das Atividades Turísticas,Diurno,152.2
+146,Matemática Aplicada e Tecnologias Digitais,Diurno,144.39
+147,Artes Visuais,Diurno,155.84
+148,Saúde Digital,Diurno,143.44
+149,Direito,Diurno,174.08
+150,Genética e Biotecnologia,Diurno,142.07
+151,Gestão de Marketing,Diurno,151.54
+152,Contabilidade e Administração,Pós-Laboral,143.98
+153,Artes Visuais e Tecnologias Artísticas,Diurno,168.98
+154,Desenvolvimento de Software e Aplicações,Diurno,149.49
+155,Ciências Biomédicas,Diurno,165.52
+156,Dietética e Nutrição,Diurno,143.43
+157,Património Cultural e Arqueologia,Diurno,135.2
+158,Línguas e Relações Empresariais,Diurno,158.12
+159,Engenharia Informática e Multimédia,Diurno,142.44
+160,Marketing e Comunicação Empresarial,Diurno,151.76
+161,Gestão de Empresas,Pós-Laboral,143.05
+162,Enfermagem,Diurno,150.2
+163,Ciências do Desporto,Diurno,150.41
+164,Arquitetura,Diurno,176.24
+165,Fisioterapia,Diurno,161.36
+166,Contabilidade,Pós-Laboral,137.98
+167,Osteopatia,Diurno,153.44
+168,Gestão de Atividades Turísticas,Pós-Laboral,123.79
+169,Zootecnia,Diurno,132.2
+170,Ortoprotesia,Diurno,143.76
+171,Gestão das Atividades Turísticas,Pós-Laboral,129.57
+172,Ciências Agrárias,Diurno,128.22
+173,Computação Criativa e Realidade Virtual,Diurno,145.29
+174,Imagem Animada,Diurno,156.55
+175,Línguas e Culturas Estrangeiras,Diurno,166.24
+176,Educação Musical,Diurno,149.29
+177,Gestão da Restauração e Catering,Diurno,140.34
+178,Saúde Digital e Inovação Biomédica,Diurno,182.32
+179,Engenharia Mecânica Computacional,Diurno,165.8
+180,Engenharia Física,Diurno,167.81
+181,Gestão (ensino em Inglês),Diurno,177.15
+182,Biomecânica,Diurno,134.69
+183,Ciências da Linguagem,Diurno,149.66
+184,Direção e Gestão Hoteleira,Pós-Laboral,136.56
+185,Gestão Industrial,Diurno,130.02
+186,Medicina Veterinária (Preparatórios),Diurno,158.6
+187,Desporto e Atividade Física,Diurno,139.25
+188,Geografia e Planeamento Regional,Diurno,147.0
+189,Prótese Dentária,Diurno,150.59
+190,Ciências da Educação,Diurno,152.79
+191,Tecnologias Digitais e Segurança de Informação,Diurno,147.15
+192,Guias de Natureza e Património,Diurno,134.31
+193,Gestão Marinha e Costeira,Diurno,127.02
+194,Ortóptica,Diurno,141.84
+195,"Engenharia Informática, Redes e Telecomunicações",Diurno,139.86
+196,Ciências Biomédicas Laboratoriais,Diurno,157.8
+197,Design de Comunicação,Diurno,165.7
+198,Relações Internacionais,Diurno,169.79
+199,Negócios Internacionais,Diurno,150.27
+200,Gestão do Lazer e Animação Turística,Pós-Laboral,140.38
+201,Educação Básica,Diurno,149.05
+202,"Comunicação, Cultura e Organizações",Diurno,145.93
+203,Estudos Artísticos,Diurno,161.68
+204,Gestão Turística,Pós-Laboral,132.53
+205,Ciências do Ambiente,Diurno,136.34
+206,"Política, Economia e Sociedade",Diurno,157.32
+207,Secretariado,Diurno,128.48
+208,Engenharia Civil e do Ambiente,Diurno,136.95
+209,Matemática Aplicada e Computação,Diurno,187.04
+210,Finanças,Diurno,158.81
+211,Serviço Social,Diurno,141.97
+212,Serviço Social,Pós-Laboral,137.59
+213,Gestão e Informática,Diurno,134.08
+214,Ciências Musicais,Diurno,149.57
+215,Medicina,Diurno,184.93
+216,Contabilidade e Fiscalidade,Diurno,133.94
+217,Matemática Aplicada e Ciência de Dados,Diurno,140.18
+218,Ciências Empresariais,Pós-Laboral,150.98
+219,Psicologia,Diurno,170.2
+220,Engenharia Aeroespacial,Diurno,190.5
+221,Tecnologias do Petróleo,Diurno,128.65
+222,Arquitetura Paisagista,Diurno,157.46
+223,Tecnologias Digitais Educativas,Diurno,142.03
+224,Ciências da Educação e da Formação,Diurno,139.88
+225,Gestão e Administração Pública,Diurno,128.86
+226,Design Multimédia,Diurno,151.86
+227,Comunicação e Multimédia,Diurno,142.17
+228,Património Cultural,Diurno,130.51
+229,Secretariado de Administração,Diurno,126.13
+230,Matemática Aplicada à Tecnologia e à Empresa,Diurno,149.99
+231,Engenharia Eletromecânica,Diurno,147.75
+232,Tecnologias para a Educação STEAM,Diurno,135.04
+233,Tecnologias Digitais e Inteligência Artificial,Diurno,155.52
+234,Matemática e Aplicações,Diurno,155.5
+235,Biotecnologia Medicinal,Diurno,160.41
+236,Arqueologia,Diurno,152.2
+237,Design de Ambientes,Diurno,156.8
+238,Engenharia Automóvel,Diurno,143.23
+239,Educação Física e Desporto,Diurno,150.95
+240,Ciências da Cultura,Diurno,128.44
+241,Educação e Formação,Diurno,151.1
+242,Secretariado e Comunicação Empresarial,Diurno,146.52
+243,Produção Alimentar em Restauração,Pós-Laboral,119.77
+244,Saúde Ambiental,Diurno,132.9
+245,Enfermagem Veterinária,Diurno,143.14
+246,Relações Humanas e Comunicação Organizacional,Diurno,142.51
+247,Produção Multimédia em Educação,Diurno,133.12
+248,Ciências Farmacêuticas (Preparatórios),Diurno,145.6
+249,História,Diurno,168.32
+250,Higiene Oral,Diurno,155.06
+251,Engenharia e Gestão Industrial,Diurno,173.46
+252,Medicina Veterinária,Diurno,170.84
+253,Ciência Política e Relações Internacionais,Diurno,177.18
+254,Informação Turística,Diurno,133.77
+255,História e Arqueologia,Diurno,151.45
+256,Gestão da Qualidade,Diurno,140.29
+257,Desporto,Diurno,139.49
+258,Biologia e Geologia,Diurno,144.47
+259,Ciclo Básico de Medicina,Diurno,178.55
+260,Biologia e Biotecnologia Alimentar,Diurno,129.29
+261,Tecnologias Digitais e Saúde,Diurno,141.08
+262,Engenharia Biomédica,Diurno,173.55
+263,Audiologia,Diurno,135.89
+264,Contabilidade e Administração,Diurno,156.48
+265,Línguas e Comunicação Intercultural,Diurno,135.61
+266,Geologia,Diurno,138.44
+267,Gastronomia e Artes Culinárias,Diurno,137.27
+268,Optometria e Ciências da Visão,Diurno,136.51
+269,Imagem Médica e Radioterapia,Diurno,151.83
+270,Tecnologia e Produto de Moda Sustentável,Diurno,136.7
+271,Contabilidade,Diurno,147.3
+272,Ciênc de Engenharia-Eng Mecânica; Eng Eletrotécnica e de Computadores (Pre),Diurno,157.3
+273,Terapia da Fala,Diurno,144.86
+274,Automação e Sistemas de Produção,Diurno,141.2
+275,Fisiologia Clínica,Diurno,153.2
+276,Ciências do Mar,Diurno,140.78
+277,Engenharia Eletrotécnica e de Computadores,Noturno,159.1
+278,"Turismo, Território e Patrimónios",Diurno,147.73
+279,Educação Ambiental e Turismo de Natureza,Diurno,130.04
+280,Criminologia,Diurno,177.22
+281,Engenharia Biológica,Diurno,173.72
+282,Engenharia Naval e Oceânica,Diurno,176.96
+283,Economia (ensino em Inglês),Diurno,176.6
+284,Medicina Dentária,Diurno,178.51
+285,Gestão de Empresas,Diurno,151.5
+286,Produção Alimentar em Restauração,Diurno,139.78
+287,Engenharia Química,Diurno,160.6
+288,Design,Diurno,166.98
+289,Tradução e Interpretação: Português/Chinês - Chinês/Português,Diurno,153.47
+290,Marketing,Diurno,154.06
+291,Reabilitação Psicomotora,Diurno,141.91
+292,Bioengenharia,Diurno,176.47
+293,Engenharia Química e Biológica,Diurno,152.88
+294,Agronomia,Pós-Laboral,142.5
+295,Fiscalidade,Diurno,146.35
+296,Design Gráfico,Diurno,167.97
+297,Recursos Humanos,Diurno,167.94
+298,Informática e Gestão de Empresas,Diurno,166.38
+299,Línguas Aplicadas,Diurno,171.58
+300,Engenharia Geotécnica e Geoambiente,Diurno,135.23
+301,Engenharia de Sistemas,Diurno,155.36
+302,Biologia Aplicada,Diurno,161.06
+303,Relações Lusófonas e Língua Portuguesa,Diurno,131.1
+304,Restauração e Catering,Diurno,129.33
+305,"Desporto, Condição Física e Saúde",Diurno,133.38
+306,Design de Produto,Diurno,168.89
+307,Contabilidade e Gestão Pública,Diurno,143.15
+308,Matemática Aplicada à Gestão do Risco,Diurno,181.48
+309,Assessoria e Tradução,Diurno,164.31
+310,Atividade Física e Estilos de Vida Saudáveis,Diurno,130.18
+311,Publicidade e Marketing,Pós-Laboral,156.19
+312,Marketing e Negócios Internacionais,Diurno,155.91
+313,Educação Social Gerontológica,Diurno,133.26
+314,"Gestão de Negócios Internacionais (Curso Europeu, ensino em Inglês)",Diurno,134.4
+315,Gestão do Turismo e da Hospitalidade,Diurno,123.4
+316,Jornalismo,Diurno,164.1
+317,Estudos Gerais,Diurno,163.6
+318,Literatura e Estudos Interartes,Diurno,164.7
+319,Gestão e Biociências,Diurno,131.16
+320,Geografia e Planeamento,Diurno,147.33
+321,Engenharia Geoespacial,Diurno,136.22
+322,Arte Multimédia,Diurno,161.22
+323,Engenharia Biomédica e Biofísica,Diurno,165.66
+324,Animação Socioeducativa,Pós-Laboral,124.79
+325,Educação Ambiental,Diurno,138.13
+326,Sistemas e Tecnologias de Informação,Diurno,174.06
+327,Gestão de Recursos Humanos,Pós-Laboral,142.42
+328,Tecnologia e Gestão Ambiental,Diurno,125.04
+329,Design de Animação,Diurno,156.11
+330,Matemática Aplicada,Diurno,175.4
+331,Arte e Design,Diurno,153.6
+332,Engenharia Informática Médica,Diurno,141.76
+333,Design Audiovisual,Diurno,163.64
+334,Comunicação Empresarial,Diurno,170.16
+335,Artes Plásticas e Multimédia,Diurno,148.01
+336,Ciência de Dados,Pós-Laboral,153.81
+337,Engenharia em Desenvolvimento de Jogos Digitais,Diurno,145.76
+338,Engenharia de Sistemas Informáticos,Pós-Laboral,147.63
+339,Administração Pública,Pós-Laboral,142.13
+340,Ciência de Dados,Diurno,170.43
+341,Ciências da Computação,Diurno,159.16
+342,Engenharia de Computadores e Informática,Diurno,158.57
+343,Engenharia Geológica,Diurno,144.83
+344,Educação,Diurno,156.33
+345,Design e Marketing de Moda,Diurno,179.54
+346,Engenharia Florestal e dos Recursos Naturais,Diurno,134.37
+347,Design Gráfico e Multimédia,Diurno,159.45
+348,Ciências Florestais e Recursos Naturais,Diurno,124.07
+349,Ciência de Computadores,Diurno,171.78
+350,Pintura,Diurno,172.54
+351,Marketing Turístico,Diurno,126.46
+352,Gestão da Distribuição e da Logística,Pós-Laboral,128.39
+353,Tecnologia Biomédica,Diurno,140.42
+354,Engenharia e Ciência de Dados,Diurno,160.1
+355,Gestão de Informação,Diurno,177.55
+356,Administração de Publicidade e Marketing,Diurno,132.48
+357,Química Medicinal,Diurno,136.06
+358,Tecnologia Agro-Industrial,Diurno,139.13
+359,Gestão Sustentável das Cidades,Diurno,128.61
+360,Engenharia Eletrotécnica Marítima,Diurno,154.7
+361,Comércio Internacional,Diurno,169.51
+362,Estudos Comparatistas,Diurno,137.06
+363,Contabilidade e Auditoria,Diurno,146.5
+364,Engenharia Informática e Computação,Diurno,181.09
+365,Comunicação e Design Multimédia,Diurno,154.62
+366,Ciências da Arte e do Património,Diurno,159.97
+367,"Meteorologia, Oceanografia e Geofísica",Diurno,128.9
+368,Engenharia e Gestão de Sistemas de Informação,Diurno,157.64
+369,Design Gráfico e Multimédia,Pós-Laboral,140.83
+370,Educação,Pós-Laboral,142.86
+371,Engenharia Eletrónica,Diurno,143.87
+372,Artes Performativas,Diurno,138.55
+373,Design de Equipamento e Ambientes,Diurno,140.85
+374,Artes Visuais e Tecnologias,Diurno,158.1
+375,Estudos Africanos,Diurno,131.45
+376,Engenharia Informática (Curso Europeu),Diurno,147.92
+377,Contabilidade e Finanças,Noturno,137.71
+378,Som e Imagem,Diurno,153.98
+379,"Meteorologia, Oceanografia e Clima",Diurno,134.03
+380,Tecnologia Alimentar,Diurno,128.78
+381,Artes e Humanidades,Diurno,152.01
+382,Estudos Asiáticos,Diurno,153.93
+383,Design de Espaços,Diurno,153.11
+384,Gestão Turística e Hoteleira,Diurno,133.22
+385,Engenharia Eletrónica Industrial e Computadores,Diurno,141.87
+386,Informática e Multimédia,Diurno,139.65
+387,Ciência Política,Diurno,166.63
+388,Design Gráfico,Pós-Laboral,151.38
+389,Gestão e Planeamento em Turismo,Diurno,151.45
+390,Engenharia de Minas e Geo-Ambiente,Diurno,133.5
+391,Farmácia Biomédica,Diurno,150.09
+392,"Estudos Artísticos, variante de Artes do Espetáculo",Diurno,161.94
+393,Música em Contextos Comunitários,Diurno,169.1
+394,Relações Públicas e Comunicação Empresarial,Pós-Laboral,151.17
+395,Artes Plásticas,Diurno,172.79
+396,Gestão de Eventos,Diurno,135.59
+397,Informática e Tecnologias Multimédia,Diurno,132.35
+398,Engenharia Têxtil,Diurno,146.69
+399,Ciência de Dados para a Gestão,Diurno,144.39
+400,Informática Industrial,Diurno,132.63
+401,Animação e Produção Artística,Diurno,138.76
+402,Conservação - Restauro,Diurno,166.54
+403,Informática e Gestão de Empresas,Pós-Laboral,156.13
+404,Escultura,Diurno,156.76
+405,Estudos Orientais: Estudos Chineses e Japoneses,Diurno,157.73
+406,Audiovisual e Multimédia,Diurno,154.4
+407,Turismo em Espaços Rurais e Naturais,Diurno,120.56
+408,Língua Gestual Portuguesa,Diurno,132.38
+409,Engenharia de Automação Industrial,Diurno,137.7
+410,Engenharia da Energia e Ambiente,Diurno,140.23
+411,Biologia Celular e Molecular,Diurno,177.03
+412,Comércio e Relações Económicas Internacionais,Diurno,152.57
+413,Ciências e Tecnologias da Documentação e Informação,Diurno,152.23
+414,Engenharia de Sistemas e Tecnologias Informáticas,Diurno,130.77
+415,Educação Básica,Pós-Laboral,145.7
+416,Ciências Bioanalíticas,Diurno,141.1
+417,Mecânica e Informática Industrial,Diurno,129.85
+418,Turismo,Pós-Laboral,127.23
+419,Gestão de Transportes e Logística,Diurno,144.53
+420,Engenharia e Biotecnologia Florestal,Diurno,147.55
+421,Relações Internacionais,Pós-Laboral,158.75
+422,Solicitadoria e Administração,Diurno,155.63
+423,Engenharia de Máquinas Marítimas,Diurno,142.31
+424,Desporto e Lazer,Diurno,139.06
+425,Gestão de Sistemas de Informação,Diurno,146.96
+426,Animação Turística,Diurno,138.29
+427,Química Tecnológica,Diurno,132.81
+428,Animação Socioeducativa,Diurno,139.86
+429,Comércio Internacional,Pós-Laboral,154.1
+430,Programação e Produção Cultural,Diurno,141.52
+431,Línguas e Relações Internacionais,Diurno,184.86
+432,Publicidade e Marketing,Diurno,165.28
+433,Design e Multimédia,Diurno,163.84
+434,Química Aplicada,Diurno,157.89
+435,Gastronomia,Diurno,150.98
+436,Ciências do Meio Aquático,Diurno,160.23
+437,Tecnologias de Informação,Diurno,156.02
+438,Comunicação Empresarial,Pós-Laboral,154.45
+439,Equinicultura,Diurno,139.96
+440,Gestão das Organizações Desportivas,Diurno,139.37
+441,Estudos de Cultura e Comunicação Intercultural,Diurno,159.99
+442,Secretariado de Direção e Administração,Diurno,147.32
+443,Teatro,Diurno,154.28
+444,Informática de Gestão,Diurno,142.06
+445,Energia e Ambiente,Diurno,113.9
+446,Comunicação Organizacional,Diurno,153.89
+447,Desporto de Natureza e Turismo Ativo,Diurno,126.89
+448,Design de Produto - Cerâmica e Vidro,Diurno,151.74
+449,Gestão do Território,Diurno,121.54
+450,Línguas Estrangeiras: Inglês e Espanhol,Diurno,139.87
+451,Criatividade e Inovação Empresarial,Diurno,163.19
+452,Engenharia Computacional,Diurno,144.93
+453,Administração Público-Privada,Diurno,171.69
+454,Estatística Aplicada,Diurno,147.56
+455,Estudos Culturais,Diurno,158.3
+456,Engenharia de Polímeros,Diurno,143.53
+457,Assessoria e Tradução,Pós-Laboral,152.14
+458,Comunicação Organizacional,Pós-Laboral,139.24
+459,Administração Pública e Políticas do Território,Pós-Laboral,134.43
+460,Turismo e Lazer,Diurno,133.8
+461,Design de Equipamento,Diurno,170.72
+462,Proteção Civil e Gestão do Território,Diurno,140.3
+463,Línguas e Literaturas Europeias,Diurno,169.27
+464,Comunicação Multimédia,Diurno,132.12
+465,Relações Públicas e Comunicação Empresarial,Diurno,159.56
+466,Gestão de Cidades Sustentáveis e Inteligentes,Diurno,131.43
+467,Treino Desportivo,Diurno,130.75
+468,Finanças e Contabilidade,Diurno,161.11
+469,Multimédia e Tecnologias da Comunicação,Diurno,160.22
+470,Desenho,Diurno,175.59
+471,Línguas para Relações Internacionais,Diurno,143.31
+472,Ciência de Dados e Inteligência Artificial,Diurno,144.3
+473,Gestão da Distribuição e da Logística,Diurno,142.4
+474,Comunicação Social: Jornalismo e Comunicação Empresarial,Diurno,135.94
+475,Publicidade e Relações Públicas,Diurno,136.7
+476,Gestão Portuária,Diurno,148.34
+477,Pilotagem,Diurno,166.44
+478,Engenharia de Micro e Nanotecnologias,Diurno,139.26
+479,Engenharia Eletrotécnica - Sistemas Elétricos de Energia,Diurno,143.85
+480,Química,Diurno,153.59
+481,Criminologia e Justiça Criminal,Diurno,173.79
+482,Gestão de Recursos Humanos,Diurno,152.65
+483,História Moderna e Contemporânea,Diurno,151.88
+484,Mediação Artística e Cultural,Diurno,139.04
+485,Gerontologia Social,Diurno,135.21
+486,Engenharia de Telecomunicações e Informática,Diurno,144.79
+487,Engenharia de Sistemas Informáticos,Diurno,163.63
+488,Enfermagem (entrada no 2.º semestre),Diurno,130.72
+489,Tecnologias de Energia,Diurno,135.12
+490,Tecnologias do Ambiente e do Mar,Diurno,129.11
+491,Design e Tecnologia das Artes Gráficas,Diurno,138.28
+492,Tecnologia e Gestão Industrial,Noturno,126.49
+493,Tecnologias e Sistemas de Informação para a Web,Diurno,144.23
+494,Artes Plásticas e Tecnologias Artísticas,Diurno,155.32
+495,Engenharia Mecânica Automóvel,Diurno,158.49
+496,Fotografia,Diurno,148.12
+497,Tecnologia Química,Diurno,145.75
+498,Biorrecursos,Diurno,154.61
+499,Artes e Cinema Digital,Diurno,152.55
+500,Cinema e Audiovisual,Diurno,163.57
+501,Gerontologia,Diurno,131.3
+502,Conservação e Restauro,Diurno,150.24
+503,"Engenharia de Automação, Controlo e Instrumentação",Diurno,135.0

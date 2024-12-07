@@ -1,0 +1,168 @@
+{
+    "codigo_universidade": "7092",
+    "nome_universidade": "7092 - Universidade dos Açores - Escola Superior de Saúde - Angra do Heroísmo",
+    "cursos": [
+        {
+            "codigo_curso": "9500",
+            "nome_curso": "9500 - Enfermagem",
+            "colocados": [
+                {
+                    "codigo_aluno": "153(...)94",
+                    "nome_aluno": "AFONSO GOMES SOUSA"
+                },
+                {
+                    "codigo_aluno": "301(...)66",
+                    "nome_aluno": "ANA CATARINA MOTA FEIJÓ"
+                },
+                {
+                    "codigo_aluno": "313(...)48",
+                    "nome_aluno": "ANA LUISA MEDEIROS RESENDES"
+                },
+                {
+                    "codigo_aluno": "301(...)15",
+                    "nome_aluno": "ANDRE FALCAO PEREIRA"
+                },
+                {
+                    "codigo_aluno": "314(...)75",
+                    "nome_aluno": "BEATRIZ ALEXANDRA PIRES DE MENESES"
+                },
+                {
+                    "codigo_aluno": "300(...)03",
+                    "nome_aluno": "BEATRIZ GOMES NUNES"
+                },
+                {
+                    "codigo_aluno": "150(...)45",
+                    "nome_aluno": "BEATRIZ MARIA OLIVEIRA CRAVEIRO"
+                },
+                {
+                    "codigo_aluno": "155(...)17",
+                    "nome_aluno": "BIANCA DA CUNHA PINHÃO"
+                },
+                {
+                    "codigo_aluno": "308(...)43",
+                    "nome_aluno": "CAROLINA AGUIAR TOSTE"
+                },
+                {
+                    "codigo_aluno": "316(...)21",
+                    "nome_aluno": "CATARINA FURTADO VASCONCELOS"
+                },
+                {
+                    "codigo_aluno": "305(...)92",
+                    "nome_aluno": "DANIELA VIVEIROS BOTELHO"
+                },
+                {
+                    "codigo_aluno": "159(...)91",
+                    "nome_aluno": "ÉRICA MENDES DE ANDRADE"
+                },
+                {
+                    "codigo_aluno": "303(...)44",
+                    "nome_aluno": "INÊS SOUSA ARAÚJO"
+                },
+                {
+                    "codigo_aluno": "301(...)94",
+                    "nome_aluno": "JÚLIA SOUSA CARREIRO"
+                },
+                {
+                    "codigo_aluno": "156(...)85",
+                    "nome_aluno": "LARA VIEIRA PIMENTEL"
+                },
+                {
+                    "codigo_aluno": "310(...)50",
+                    "nome_aluno": "LEONOR CHIBANTE MARQUES"
+                },
+                {
+                    "codigo_aluno": "302(...)12",
+                    "nome_aluno": "LEONOR DIAS MARTINS"
+                },
+                {
+                    "codigo_aluno": "300(...)23",
+                    "nome_aluno": "LEONOR ESTEVES SOUSA"
+                },
+                {
+                    "codigo_aluno": "154(...)56",
+                    "nome_aluno": "LEONOR ROCHA SILVEIRA"
+                },
+                {
+                    "codigo_aluno": "154(...)49",
+                    "nome_aluno": "LILIANA MARIA ANDRADE REGO"
+                },
+                {
+                    "codigo_aluno": "311(...)63",
+                    "nome_aluno": "LÍVIA FLOR LEAL DINIZ"
+                },
+                {
+                    "codigo_aluno": "151(...)16",
+                    "nome_aluno": "MANUEL ANTÓNIO BORGES MENDONÇA"
+                },
+                {
+                    "codigo_aluno": "151(...)67",
+                    "nome_aluno": "MARIANA MELO RAIMUNDO"
+                },
+                {
+                    "codigo_aluno": "305(...)77",
+                    "nome_aluno": "MARTIM GARCIA MATOS"
+                },
+                {
+                    "codigo_aluno": "149(...)52",
+                    "nome_aluno": "MATILDE ANTUNES ROSA"
+                },
+                {
+                    "codigo_aluno": "306(...)68",
+                    "nome_aluno": "MATILDE RAIMUNDO CARREIRA"
+                },
+                {
+                    "codigo_aluno": "153(...)14",
+                    "nome_aluno": "NATACHA OURIQUE COUTO"
+                },
+                {
+                    "codigo_aluno": "152(...)81",
+                    "nome_aluno": "PEDRO MIGUEL CALDEIRA FREITAS"
+                },
+                {
+                    "codigo_aluno": "307(...)19",
+                    "nome_aluno": "PEDRO ROCHA SILVA"
+                },
+                {
+                    "codigo_aluno": "303(...)73",
+                    "nome_aluno": "RODRIGO ESTÊVÃO FERNANDES CORREIA"
+                },
+                {
+                    "codigo_aluno": "152(...)61",
+                    "nome_aluno": "RUBINA ALEXANDRA DOS SANTOS DE AGUIAR"
+                },
+                {
+                    "codigo_aluno": "304(...)08",
+                    "nome_aluno": "RUI FERNANDO RESENDES MOURA"
+                },
+                {
+                    "codigo_aluno": "309(...)61",
+                    "nome_aluno": "SANTIAGO LEAL SOARES"
+                },
+                {
+                    "codigo_aluno": "308(...)85",
+                    "nome_aluno": "SARA PIMENTEL LEITE"
+                },
+                {
+                    "codigo_aluno": "154(...)22",
+                    "nome_aluno": "SARA SANCHA PATO"
+                },
+                {
+                    "codigo_aluno": "154(...)75",
+                    "nome_aluno": "SIMAO DAS NEVES ESPINOLA"
+                },
+                {
+                    "codigo_aluno": "144(...)25",
+                    "nome_aluno": "SIMAO PEDRO VIEIRA BERNARDO"
+                },
+                {
+                    "codigo_aluno": "311(...)18",
+                    "nome_aluno": "TATIANA ARAÚJO PIRES"
+                },
+                {
+                    "codigo_aluno": "305(...)14",
+                    "nome_aluno": "TOMÁS GARCIA MATOS"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "codigo_universidade": "0140",
+    "nome_universidade": "0140 - Universidade dos Açores - Faculdade de Ciências Agrárias e do Ambiente",
+    "cursos": [
+        {
+            "codigo_curso": "9022",
+            "nome_curso": "9022 - Ciências Agrárias",
+            "colocados": [
+                {
+                    "codigo_aluno": "150(...)35",
+                    "nome_aluno": "BERNARDO COUTO MATOS"
+                },
+                {
+                    "codigo_aluno": "158(...)81",
+                    "nome_aluno": "ISAC SILVA MENDONÇA"
+                },
+                {
+                    "codigo_aluno": "307(...)38",
+                    "nome_aluno": "MÁRCIA DUARTE CARDOSO"
+                },
+                {
+                    "codigo_aluno": "150(...)99",
+                    "nome_aluno": "MARIA MENDES GREGÓRIO"
+                },
+                {
+                    "codigo_aluno": "301(...)83",
+                    "nome_aluno": "MIGUEL ÂNGELO VIVEIROS MARTINS"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "8031",
+            "nome_curso": "8031 - Ciências Farmacêuticas (Preparatórios)",
+            "colocados": [
+                {
+                    "codigo_aluno": "305(...)45",
+                    "nome_aluno": "FRANCISCO FRANÇA FERREIRA"
+                },
+                {
+                    "codigo_aluno": "151(...)95",
+                    "nome_aluno": "SOFIA PEREIRA MACHADO"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "L344",
+            "nome_curso": "L344 - Guias de Natureza e Património",
+            "colocados": [
+                {
+                    "codigo_aluno": "315(...)08",
+                    "nome_aluno": "CLÁUDIA ELISABETE DE MENESES PIRES FALCÃO MELO"
+                },
+                {
+                    "codigo_aluno": "312(...)01",
+                    "nome_aluno": "DANIEL GOMES SEZINANDO"
+                },
+                {
+                    "codigo_aluno": "150(...)45",
+                    "nome_aluno": "INÊS AGUIAR MAIATO"
+                },
+                {
+                    "codigo_aluno": "156(...)41",
+                    "nome_aluno": "IRINA GERARDO DE AZEVEDO"
+                },
+                {
+                    "codigo_aluno": "158(...)59",
+                    "nome_aluno": "LEO FERNANDO RODRIGUES BORBA"
+                },
+                {
+                    "codigo_aluno": "152(...)05",
+                    "nome_aluno": "LUANA ÁVILA MIRANDA"
+                },
+                {
+                    "codigo_aluno": "149(...)34",
+                    "nome_aluno": "MICHAEL SILVA MELO"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "8086",
+            "nome_curso": "8086 - Medicina Veterinária (Preparatórios)",
+            "colocados": [
+                {
+                    "codigo_aluno": "157(...)43",
+                    "nome_aluno": "ANA LEONOR FREITAS FERNANDES"
+                },
+                {
+                    "codigo_aluno": "152(...)43",
+                    "nome_aluno": "ANA RITA BLAYER ALVES SILVEIRA"
+                },
+                {
+                    "codigo_aluno": "151(...)00",
+                    "nome_aluno": "BÁRBARA COUTO FERNANDES"
+                },
+                {
+                    "codigo_aluno": "152(...)06",
+                    "nome_aluno": "CATARINA ÁVILA GOMES"
+                },
+                {
+                    "codigo_aluno": "301(...)00",
+                    "nome_aluno": "DIANA CATARINA RODRIGUES DE MOURA"
+                },
+                {
+                    "codigo_aluno": "156(...)57",
+                    "nome_aluno": "DIANA SOFIA COSTA NEVES"
+                },
+                {
+                    "codigo_aluno": "309(...)09",
+                    "nome_aluno": "FILIPA ALEXANDRA RODRIGUES OLIVEIRA"
+                },
+                {
+                    "codigo_aluno": "311(...)26",
+                    "nome_aluno": "FILIPA FREITAS MARQUES"
+                },
+                {
+                    "codigo_aluno": "151(...)58",
+                    "nome_aluno": "FILIPA FURTADO DA SILVA"
+                },
+                {
+                    "codigo_aluno": "152(...)80",
+                    "nome_aluno": "INÊS AGUIAR NOBRE DE CASTRO"
+                },
+                {
+                    "codigo_aluno": "307(...)16",
+                    "nome_aluno": "INÊS ALVES PEREIRA"
+                },
+                {
+                    "codigo_aluno": "307(...)69",
+                    "nome_aluno": "INÊS TEIXEIRA GIL NANQUES"
+                },
+                {
+                    "codigo_aluno": "304(...)70",
+                    "nome_aluno": "JOANA ANDRADE RUA"
+                },
+                {
+                    "codigo_aluno": "152(...)68",
+                    "nome_aluno": "JOÃO BERNARDO BRUM BOTELHO TAVARES RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "152(...)90",
+                    "nome_aluno": "MARIA EDUARDA VIANA LOPES"
+                },
+                {
+                    "codigo_aluno": "307(...)76",
+                    "nome_aluno": "MARIANA REBELO FÉLIX"
+                },
+                {
+                    "codigo_aluno": "154(...)18",
+                    "nome_aluno": "MARTA JOÃO DE SOUSA E COSTA"
+                },
+                {
+                    "codigo_aluno": "308(...)61",
+                    "nome_aluno": "PAULO JOSÉ DINIS CUNHA"
+                },
+                {
+                    "codigo_aluno": "154(...)77",
+                    "nome_aluno": "SARA ISABEL DA CUNHA BENITES"
+                },
+                {
+                    "codigo_aluno": "301(...)13",
+                    "nome_aluno": "TELMO REGO CARREIRO"
+                },
+                {
+                    "codigo_aluno": "148(...)78",
+                    "nome_aluno": "THIAGO RODRIGUES DE SOUZA BAKALBASSIS"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+{
+    "codigo_universidade": "3165",
+    "nome_universidade": "3165 - Instituto Politécnico de Viana do Castelo - Escola Superior de Desporto e Lazer",
+    "cursos": [
+        {
+            "codigo_curso": "9731",
+            "nome_curso": "9731 - Desporto e Lazer",
+            "colocados": [
+                {
+                    "codigo_aluno": "305(...)52",
+                    "nome_aluno": "ADOLFO BENEDITO MEIRA SIMÕES"
+                },
+                {
+                    "codigo_aluno": "307(...)69",
+                    "nome_aluno": "AFONSO JOÃO BARROS CUNHA"
+                },
+                {
+                    "codigo_aluno": "147(...)96",
+                    "nome_aluno": "AFONSO RIBEIRO DE OLIVEIRA QUEIROZ"
+                },
+                {
+                    "codigo_aluno": "313(...)38",
+                    "nome_aluno": "ANA ISABEL MANDIM DA SILVA ARAÚJO"
+                },
+                {
+                    "codigo_aluno": "154(...)90",
+                    "nome_aluno": "ANDRÉ AZEVEDO LIMA"
+                },
+                {
+                    "codigo_aluno": "154(...)11",
+                    "nome_aluno": "BEATRIZ ALVES FREITAS"
+                },
+                {
+                    "codigo_aluno": "309(...)16",
+                    "nome_aluno": "BERNARDO JOSÉ BARROS LACERDA"
+                },
+                {
+                    "codigo_aluno": "153(...)40",
+                    "nome_aluno": "CAROLINA GOUVEIA CORREIA"
+                },
+                {
+                    "codigo_aluno": "302(...)97",
+                    "nome_aluno": "CATARINA SOFIA SILVA ARAÚJO"
+                },
+                {
+                    "codigo_aluno": "313(...)97",
+                    "nome_aluno": "DIOGO GONÇALVES MARTINS"
+                },
+                {
+                    "codigo_aluno": "309(...)93",
+                    "nome_aluno": "DIOGO HENRIQUE ALVES GOMES"
+                },
+                {
+                    "codigo_aluno": "159(...)02",
+                    "nome_aluno": "DIOGO LUÍS RODRIGUES NOGUEIRA"
+                },
+                {
+                    "codigo_aluno": "306(...)37",
+                    "nome_aluno": "DIOGO MATOS MACIEL"
+                },
+                {
+                    "codigo_aluno": "312(...)11",
+                    "nome_aluno": "DIOGO MIGUEL RODRIGUES CARNEIRO"
+                },
+                {
+                    "codigo_aluno": "310(...)71",
+                    "nome_aluno": "DIOGO RAFAEL DA CRUZ ALVES"
+                },
+                {
+                    "codigo_aluno": "309(...)22",
+                    "nome_aluno": "EDUARDO MATOS RIBEIRO SOARES"
+                },
+                {
+                    "codigo_aluno": "306(...)72",
+                    "nome_aluno": "EUGENIO JORGE TORRES CORREIA FERREIRA ANDRADE"
+                },
+                {
+                    "codigo_aluno": "156(...)78",
+                    "nome_aluno": "FÁBIO CRISTIANO SIMÕES FERNANDES"
+                },
+                {
+                    "codigo_aluno": "306(...)34",
+                    "nome_aluno": "FRANCISCA MARIA GOMES FERREIRA"
+                },
+                {
+                    "codigo_aluno": "309(...)90",
+                    "nome_aluno": "FRANCISCO LUÍS ALVES DA CUNHA"
+                },
+                {
+                    "codigo_aluno": "157(...)41",
+                    "nome_aluno": "GABRIEL SANTOS CANITO"
+                },
+                {
+                    "codigo_aluno": "152(...)47",
+                    "nome_aluno": "GONÇALO ALEXANDRE PEREIRA DOS SANTOS DIAS"
+                },
+                {
+                    "codigo_aluno": "303(...)77",
+                    "nome_aluno": "GONÇALO DA COSTA MONTEIRO"
+                },
+                {
+                    "codigo_aluno": "310(...)63",
+                    "nome_aluno": "GONÇALO FERNANDO FRANCO PEDREIRA"
+                },
+                {
+                    "codigo_aluno": "312(...)71",
+                    "nome_aluno": "GUSTAVO CATARINO PINTO"
+                },
+                {
+                    "codigo_aluno": "304(...)38",
+                    "nome_aluno": "GUSTAVO MAIEIRO PIMENTA"
+                },
+                {
+                    "codigo_aluno": "240(...)03",
+                    "nome_aluno": "HELOÍSA FIGUEIREDO FERNANDES"
+                },
+                {
+                    "codigo_aluno": "308(...)41",
+                    "nome_aluno": "INÊS BARROS SOUSA"
+                },
+                {
+                    "codigo_aluno": "312(...)77",
+                    "nome_aluno": "INÊS DO MAR ABREU OLIVEIRA URJAIS"
+                },
+                {
+                    "codigo_aluno": "152(...)74",
+                    "nome_aluno": "INÊS PEREIRA ROCHA AZEVEDO"
+                },
+                {
+                    "codigo_aluno": "158(...)31",
+                    "nome_aluno": "JOANA ABREU BARBOSA"
+                },
+                {
+                    "codigo_aluno": "305(...)48",
+                    "nome_aluno": "JOANA PIRES REIS"
+                },
+                {
+                    "codigo_aluno": "310(...)68",
+                    "nome_aluno": "JOÃO GONÇALO CARDOSO DA SILVA"
+                },
+                {
+                    "codigo_aluno": "157(...)55",
+                    "nome_aluno": "JOÃO MARTIM MONTEIRO PACHECO"
+                },
+                {
+                    "codigo_aluno": "314(...)13",
+                    "nome_aluno": "JOÃO PEDRO RODRIGUES SOARES"
+                },
+                {
+                    "codigo_aluno": "152(...)23",
+                    "nome_aluno": "JOAO RODRIGO NUNES DA SILVA PEREIRA"
+                },
+                {
+                    "codigo_aluno": "304(...)03",
+                    "nome_aluno": "JOICE MOREIRA SILVA"
+                },
+                {
+                    "codigo_aluno": "302(...)36",
+                    "nome_aluno": "JORGE GONÇALO TOMÉ LOMBA"
+                },
+                {
+                    "codigo_aluno": "309(...)73",
+                    "nome_aluno": "JOSE DIOGO RODRIGUES FRANCO"
+                },
+                {
+                    "codigo_aluno": "306(...)83",
+                    "nome_aluno": "JOSE PAULO ABREU GUIMARÃES"
+                },
+                {
+                    "codigo_aluno": "152(...)55",
+                    "nome_aluno": "JOSÉ PEDRO RODRIGUES DA SILVA"
+                },
+                {
+                    "codigo_aluno": "306(...)43",
+                    "nome_aluno": "LEANDRO FILIPE CARVALHO CARDOSO"
+                },
+                {
+                    "codigo_aluno": "324(...)34",
+                    "nome_aluno": "LEONARDO QUIALHEIRO DA SILVA"
+                },
+                {
+                    "codigo_aluno": "305(...)78",
+                    "nome_aluno": "LEONOR GASPAR FERREIRA RIBEIRO PEDRO"
+                },
+                {
+                    "codigo_aluno": "309(...)31",
+                    "nome_aluno": "LETÍCIA PINHEIRO SEARA"
+                },
+                {
+                    "codigo_aluno": "316(...)54",
+                    "nome_aluno": "LUCAS PEREIRA OLIVEIRA"
+                },
+                {
+                    "codigo_aluno": "310(...)78",
+                    "nome_aluno": "MÁRCIO CRISTIANO FREITAS RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "312(...)68",
+                    "nome_aluno": "MARCO ANTUNES DE CAMPOS"
+                },
+                {
+                    "codigo_aluno": "305(...)04",
+                    "nome_aluno": "MARIA CAROLINA NOGUEIRA CRUZ"
+                },
+                {
+                    "codigo_aluno": "302(...)31",
+                    "nome_aluno": "MARIA CLARA MOREIRA DA SILVA"
+                },
+                {
+                    "codigo_aluno": "309(...)96",
+                    "nome_aluno": "MARIA MONTEIRO MIRANDA"
+                },
+                {
+                    "codigo_aluno": "304(...)96",
+                    "nome_aluno": "MARIANA ALVES FERNANDES"
+                },
+                {
+                    "codigo_aluno": "300(...)44",
+                    "nome_aluno": "MATILDE DA SILVA PEREIRA"
+                },
+                {
+                    "codigo_aluno": "306(...)11",
+                    "nome_aluno": "MATILDE FERREIRA ROCHA"
+                },
+                {
+                    "codigo_aluno": "303(...)76",
+                    "nome_aluno": "MATILDE MATIAS DOS SANTOS"
+                },
+                {
+                    "codigo_aluno": "306(...)55",
+                    "nome_aluno": "MIGUEL PARENTE LIMA"
+                },
+                {
+                    "codigo_aluno": "312(...)58",
+                    "nome_aluno": "PAULO CÉSAR FERNANDES TORRES"
+                },
+                {
+                    "codigo_aluno": "306(...)77",
+                    "nome_aluno": "PEDRO MACIEL MIRANDA"
+                },
+                {
+                    "codigo_aluno": "312(...)53",
+                    "nome_aluno": "RAFAEL CARVALHO CORREIA"
+                },
+                {
+                    "codigo_aluno": "300(...)82",
+                    "nome_aluno": "RICARDO CORREIA DA COSTA"
+                },
+                {
+                    "codigo_aluno": "158(...)81",
+                    "nome_aluno": "ROBERTO SILVEIRA SANTOS"
+                },
+                {
+                    "codigo_aluno": "154(...)54",
+                    "nome_aluno": "RÚBEN JORGE DA SILVA PROENÇA"
+                },
+                {
+                    "codigo_aluno": "301(...)56",
+                    "nome_aluno": "RÚBEN RAFAEL MARTINS ATAÍDE"
+                },
+                {
+                    "codigo_aluno": "312(...)29",
+                    "nome_aluno": "SANTIAGO DANTAS FARIA"
+                },
+                {
+                    "codigo_aluno": "152(...)59",
+                    "nome_aluno": "SIMÃO SAMPAIO OLIVEIRA"
+                },
+                {
+                    "codigo_aluno": "159(...)01",
+                    "nome_aluno": "SOFIA ALEXANDRA DA SILVA REIS BARBOSA"
+                },
+                {
+                    "codigo_aluno": "307(...)82",
+                    "nome_aluno": "TIAGO JOSÉ DA SILVA ARAÚJO"
+                },
+                {
+                    "codigo_aluno": "157(...)32",
+                    "nome_aluno": "TOMÁS FELGUEIRAS LIQUITO"
+                },
+                {
+                    "codigo_aluno": "306(...)09",
+                    "nome_aluno": "TOMAS OLIVEIRA RESENDE"
+                },
+                {
+                    "codigo_aluno": "155(...)20",
+                    "nome_aluno": "TÚLIO XAVIER CANCELA GONZALES"
+                },
+                {
+                    "codigo_aluno": "307(...)95",
+                    "nome_aluno": "VASCO RODRIGUES VIANA"
+                }
+            ]
+        }
+    ]
+}

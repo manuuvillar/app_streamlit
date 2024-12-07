@@ -1,0 +1,52 @@
+{
+    "codigo_universidade": "3046",
+    "nome_universidade": "3046 - Instituto Politécnico de Bragança - Escola Superior de Hotelaria e Bem-Estar",
+    "cursos": [
+        {
+            "codigo_curso": "9076",
+            "nome_curso": "9076 - Direção e Gestão Hoteleira",
+            "colocados": [
+                {
+                    "codigo_aluno": "300(...)02",
+                    "nome_aluno": "BÁRBARA FILIPA PAIS RIBEIRO"
+                },
+                {
+                    "codigo_aluno": "152(...)83",
+                    "nome_aluno": "CONSTANÇA BARREIRA PEREIRA"
+                },
+                {
+                    "codigo_aluno": "310(...)20",
+                    "nome_aluno": "ERIKA GABRIELA GONÇALVES DA COSTA"
+                },
+                {
+                    "codigo_aluno": "150(...)29",
+                    "nome_aluno": "HEIKE DE OLIVEIRA FABIAN"
+                },
+                {
+                    "codigo_aluno": "154(...)57",
+                    "nome_aluno": "HUGO DANIEL DE JESUS MARQUES"
+                },
+                {
+                    "codigo_aluno": "152(...)02",
+                    "nome_aluno": "LIANA TAMARA TROCIO DIAS"
+                },
+                {
+                    "codigo_aluno": "152(...)41",
+                    "nome_aluno": "MARIA MARGARIDA TEIXEIRA MACHADO"
+                },
+                {
+                    "codigo_aluno": "304(...)26",
+                    "nome_aluno": "MARIANA GÓIS PASSOS PEREIRA"
+                },
+                {
+                    "codigo_aluno": "152(...)04",
+                    "nome_aluno": "MARTIM CARDOSO MOUTINHO"
+                },
+                {
+                    "codigo_aluno": "158(...)46",
+                    "nome_aluno": "MATILDE DIAS DE ALMEIDA CARVALHO"
+                }
+            ]
+        }
+    ]
+}

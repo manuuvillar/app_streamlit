@@ -1,0 +1,454 @@
+,curso,frequencia
+0,Gestão,3545
+1,Engenharia Informática,2747
+2,Psicologia,2706
+3,Direito,2610
+4,Medicina,2193
+5,Enfermagem,1927
+6,Educação Básica,1322
+7,Engenharia Mecânica,1278
+8,Arquitetura,1185
+9,Economia,1134
+10,Fisioterapia,957
+11,Ciências do Desporto,936
+12,Ciências da Comunicação,895
+13,Marketing,843
+14,Ciências Farmacêuticas,777
+15,Engenharia e Gestão Industrial,763
+16,Biologia,755
+17,Engenharia Eletrotécnica e de Computadores,651
+18,Gestão de Empresas,619
+19,Bioquímica,586
+20,Medicina Veterinária,578
+21,Engenharia Aeroespacial,570
+22,Engenharia Informática e de Computadores,555
+23,História,544
+24,Engenharia Biomédica,526
+25,Design,502
+26,Medicina Dentária,490
+27,Engenharia Civil,482
+28,Solicitadoria,465
+29,"Línguas, Literaturas e Culturas",426
+30,Serviço Social,418
+31,Relações Internacionais,403
+32,Contabilidade e Administração,391
+33,Desporto,371
+34,Gestão de Recursos Humanos,359
+35,Sociologia,356
+36,Ciência Política e Relações Internacionais,350
+37,Publicidade e Marketing,342
+38,Educação Social,314
+39,Design de Comunicação,303
+40,Turismo,299
+41,Geografia,293
+42,Engenharia Informática e Computação,290
+43,Ciências Biomédicas Laboratoriais,280
+44,Ciências Biomédicas,265
+45,Contabilidade,259
+46,Design de Moda,251
+47,Imagem Médica e Radioterapia,248
+48,Línguas e Relações Internacionais,232
+49,Artes Plásticas,230
+50,Matemática,229
+51,Biotecnologia,225
+52,Engenharia Química,218
+53,Ciência de Dados,215
+54,Línguas e Relações Empresariais,213
+55,Audiovisual e Multimédia,204
+56,Tradução,193
+57,Administração Pública,191
+58,Jornalismo,189
+59,Filosofia,185
+60,Engenharia Física,180
+61,Bioengenharia,178
+62,Criminologia e Justiça Criminal,170
+63,Desenho,169
+64,Matemática Aplicada à Economia e à Gestão,168
+65,Línguas Aplicadas,168
+66,Enfermagem Veterinária,165
+67,Comunicação Social,158
+68,História da Arte,153
+69,Engenharia Física Tecnológica,153
+70,Direção e Gestão Hoteleira,152
+71,Ciência Política,142
+72,Inteligência Artificial e Ciência de Dados,139
+73,Criminologia,139
+74,Design Gráfico e Multimédia,136
+75,Dietética e Nutrição,135
+76,Ciências da Educação,134
+77,Matemática Aplicada,129
+78,Multimédia e Tecnologias da Comunicação,122
+79,Engenharia e Gestão de Sistemas de Informação,122
+80,Informática e Gestão de Empresas,119
+81,Arte e Design,117
+82,Design Gráfico,116
+83,Contabilidade e Finanças,114
+84,Farmácia,113
+85,Ciências da Nutrição,112
+86,Fisiologia Clínica,112
+87,Gestão de Marketing,111
+88,Geologia,110
+89,Desporto e Atividade Física,108
+90,Ciclo Básico de Medicina,108
+91,Biologia Marinha,107
+92,Línguas Modernas,107
+93,Comunicação Empresarial,107
+94,Gestão do Desporto,106
+95,Educação Física e Desporto,106
+96,Terapia da Fala,105
+97,Artes Visuais e Tecnologias,104
+98,Arqueologia,103
+99,Jornalismo e Comunicação,102
+100,Ciências Empresariais,101
+101,Física,100
+102,Matemática Aplicada e Computação,99
+103,Design e Marketing de Moda,98
+104,Relações Públicas e Comunicação Empresarial,98
+105,Educação e Formação,96
+106,Recursos Humanos,96
+107,Assessoria e Tradução,96
+108,Gestão do Lazer e Animação Turística,94
+109,Finanças e Contabilidade,94
+110,Engenharia de Sistemas Informáticos,93
+111,Gestão Turística,91
+112,Som e Imagem,91
+113,Comunicação Organizacional,90
+114,Design de Equipamento,90
+115,Engenharia Informática e Multimédia,89
+116,Design Industrial,89
+117,Finanças,88
+118,Gestão de Sistemas de Informação,88
+119,Pilotagem,87
+120,Comércio Internacional,87
+121,Gestão de Informação,86
+122,Saúde Digital e Inovação Biomédica,83
+123,Gestão Industrial e Logística,83
+124,Biologia Celular e Molecular,83
+125,Agronomia,82
+126,Estudos Europeus,81
+127,Arquitetura Paisagista,80
+128,Marketing e Negócios Internacionais,80
+129,Antropologia,79
+130,Educação,79
+131,Gestão da Distribuição e da Logística,79
+132,Engenharia do Ambiente,76
+133,Animação Sociocultural,76
+134,Multimédia,75
+135,Teatro,74
+136,Desporto e Lazer,73
+137,Arte Multimédia,73
+138,Gestão e Administração Hoteleira,71
+139,Cinema e Audiovisual,71
+140,Terapia Ocupacional,70
+141,"Desporto, Condição Física e Saúde",70
+142,Treino Desportivo,70
+143,Pintura,69
+144,Fotografia,69
+145,Engenharia de Telecomunicações e Informática,68
+146,Línguas e Literaturas Europeias,68
+147,Solicitadoria e Administração,68
+148,Estudos Gerais,68
+149,Engenharia Química e Biológica,67
+150,Jogos Digitais e Multimédia (ensino em inglês),67
+151,Química,67
+152,Design e Multimédia,66
+153,"Estudos Artísticos, variante de Artes do Espetáculo",66
+154,Cinema,65
+155,Artes Visuais,65
+156,Desporto e Bem-Estar,65
+157,Gestão Hoteleira,63
+158,Ciências da Linguagem,62
+159,Biologia Aplicada,62
+160,Tecnologias de Informação,62
+161,Finanças Empresariais,61
+162,Línguas e Culturas Estrangeiras,61
+163,Design de Interiores e Equipamento,60
+164,Engenharia Biológica,60
+165,Engenharia de Computadores e Informática,60
+166,Finanças (ensino em inglês),59
+167,Comunicação e Design Multimédia,59
+168,Engenharia Mecânica Automóvel,59
+169,Ciência de Computadores,58
+170,Engenharia Agronómica,57
+171,Sistemas e Tecnologias de Informação,57
+172,Gestão Pública,56
+173,Artes Plásticas e Multimédia,56
+174,Estudos de Cultura e Comunicação Intercultural,56
+175,Eletrónica e Mecânica Industrial,55
+176,Geografia e Planeamento Regional,54
+177,Biorrecursos,54
+178,Biologia e Geologia,53
+179,Contabilidade e Auditoria,53
+180,Design de Moda e Têxtil,52
+181,Gestão Comercial,51
+182,Gestão das Atividades Turísticas,51
+183,Imagem Animada,50
+184,Literatura e Estudos Interartes,50
+185,Conservação - Restauro,49
+186,Administração Público-Privada,49
+187,Engenharia de Materiais,48
+188,Relações Humanas e Comunicação Organizacional,48
+189,Estudos Portugueses,47
+190,Gestão (ensino em Inglês),46
+191,"Comunicação, Cultura e Organizações",46
+192,Comunicação e Media,46
+193,Reabilitação Psicomotora,45
+194,Engenharia Aeronáutica,45
+195,Estudos Asiáticos,45
+196,Tecnologia Biomédica,45
+197,Design Audiovisual,45
+198,Higiene Oral,44
+199,Design Multimédia,44
+200,Ciência da Informação,44
+201,Biotecnologia Medicinal,44
+202,Design de Ambientes,43
+203,Negócios Internacionais,42
+204,Línguas e Literaturas,42
+205,Engenharia e Ciência de Dados,42
+206,Publicidade e Relações Públicas,42
+207,Artes e Humanidades,42
+208,Contabilidade e Fiscalidade,41
+209,Ciências do Meio Aquático,41
+210,Ciências Musicais,40
+211,Comunicação e Multimédia,40
+212,Animação Socioeducativa,40
+213,Artes Visuais e Tecnologias Artísticas,39
+214,Planeamento e Gestão do Território,39
+215,Saúde Ambiental,39
+216,Genética e Biotecnologia,38
+217,Engenharia Naval e Oceânica,38
+218,Produção Alimentar em Restauração,38
+219,Gestão de Transportes e Logística,38
+220,Comércio e Negócios Internacionais,37
+221,Ciências da Computação,37
+222,Estudos Artísticos,36
+223,Estudos Orientais: Estudos Chineses e Japoneses,36
+224,Engenharia Eletrónica Industrial e Computadores,36
+225,Ciência de Dados para a Gestão,36
+226,Comunicação e Relações Públicas,35
+227,Design do Produto,35
+228,Estudos Portugueses e Ingleses,35
+229,Marketing e Comunicação Empresarial,35
+230,Ciências e Tecnologia do Ambiente,35
+231,Design de Produto e Tecnologia,33
+232,Administração Pública e Políticas do Território,32
+233,Comércio e Relações Económicas Internacionais,32
+234,Criatividade e Inovação Empresarial,32
+235,Tecnologias de Energia,32
+236,Informática,31
+237,História e Arqueologia,31
+238,Tecnologias Digitais e Segurança de Informação,31
+239,Geografia e Planeamento,31
+240,Gastronomia,31
+241,Conservação e Restauro,31
+242,Engenharia Informática Aplicada,30
+243,Engenharia em Desenvolvimento de Jogos Digitais,30
+244,Línguas para Relações Internacionais,30
+245,Design de Produto,29
+246,Design de Espaços,29
+247,Engenharia Biomédica e Biofísica,29
+248,Tecnologia Agro-Industrial,29
+249,História Moderna e Contemporânea,29
+250,Design de Animação,29
+251,Escultura,29
+252,Artes Plásticas e Tecnologias Artísticas,29
+253,Prótese Dentária,28
+254,Gestão de Atividades Turísticas,28
+255,Design de Comunicação e Audiovisual,28
+256,Português,28
+257,Gerontologia Social,28
+258,Ciências do Ambiente,27
+259,Línguas e Estudos Editoriais,27
+260,Fiscalidade,27
+261,Química Aplicada,27
+262,Gestão do Património Cultural,26
+263,Dança,26
+264,Informação Turística,26
+265,Engenharia Automóvel,26
+266,Tecnologias Digitais e Inteligência Artificial,26
+267,Tecnologias e Sistemas de Informação para a Web,26
+268,Tecnologias Digitais e Gestão,25
+269,"Política, Economia e Sociedade",25
+270,Bioinformática,25
+271,Medicina Veterinária (Preparatórios),25
+272,Gestão de Cidades Sustentáveis e Inteligentes,25
+273,Engenharia de Sistemas,25
+274,Contabilidade e Gestão Pública,25
+275,Biomecânica,24
+276,Optometria e Ciências da Visão,24
+277,Osteopatia,24
+278,Engenharia de Micro e Nanotecnologias,24
+279,Secretariado de Direção e Administração,24
+280,Informática de Gestão,23
+281,Economia (ensino em Inglês),22
+282,Matemática Aplicada à Gestão do Risco,22
+283,Ciências e Tecnologias da Documentação e Informação,22
+284,Educação Musical,21
+285,Produção Multimédia em Educação,21
+286,Design Sustentável,21
+287,Estatística Aplicada,21
+288,Administração de Publicidade e Marketing,21
+289,Ciências da Arte e do Património,21
+290,"Engenharia Informática, Redes e Telecomunicações",20
+291,Enologia,20
+292,Gestão de Recursos Humanos e Comportamento Organizacional,20
+293,Organização e Gestão Empresariais,20
+294,Tecnologias Digitais Educativas,20
+295,"Turismo, Território e Patrimónios",20
+296,Tecnologias e Design de Multimédia,20
+297,Gestão e Planeamento em Turismo,20
+298,Educação Social Gerontológica,20
+299,Automação e Sistemas de Produção,19
+300,Biologia Humana,19
+301,Ortóptica e Ciências da Visão,19
+302,Património Cultural e Arqueologia,19
+303,Ciências do Mar,19
+304,Tradução e Interpretação: Português/Chinês - Chinês/Português,19
+305,Língua Gestual Portuguesa,19
+306,Gestão Sustentável das Cidades,19
+307,Comunicação Social: Jornalismo e Comunicação Empresarial,19
+308,Design e Tecnologia das Artes Gráficas,19
+309,Gestão das Organizações Desportivas,18
+310,Engenharia Eletrotécnica - Sistemas Elétricos de Energia,18
+311,Ciência e Tecnologia Animal,17
+312,Línguas e Comunicação Intercultural,17
+313,Ciências Biomédicas e da Saúde,17
+314,"Tecnologias Digitais, Edifícios e Construção Sustentável",17
+315,Matemática Aplicada e Tecnologias Digitais,17
+316,Estudos Clássicos,17
+317,Ortóptica,17
+318,Proteção Civil e Gestão do Território,17
+319,Engenharia Informática (Curso Europeu),17
+320,Atividade Física e Estilos de Vida Saudáveis,17
+321,Marketing Turístico,17
+322,Línguas Estrangeiras: Inglês e Espanhol,17
+323,Engenharia Eletrotécnica,16
+324,Computação Criativa e Realidade Virtual,16
+325,Estudos Portugueses e Espanhóis,16
+326,Engenharia Zootécnica,16
+327,Desenvolvimento de Software e Aplicações,16
+328,Gestão da Restauração e Catering,16
+329,Gestão Portuária,16
+330,Gestão da Qualidade,15
+331,Design de Jogos Digitais,15
+332,Engenharia de Automação Industrial,15
+333,Design de Produto - Cerâmica e Vidro,15
+334,Gestão de Eventos,15
+335,Matemática Aplicada à Tecnologia e à Empresa,14
+336,Engenharia Eletromecânica,14
+337,Cultura e Transformação Digital,14
+338,Gestão Turística e Hoteleira,14
+339,Engenharia Mecatrónica,13
+340,Tradução e Interpretação em Língua Gestual Portuguesa,13
+341,Ciências da Educação e da Formação,13
+342,Tecnologias Digitais e Automação,13
+343,Engenharia de Máquinas Marítimas,13
+344,Engenharia Eletrónica e Telecomunicações e de Computadores,12
+345,Segurança Informática em Redes de Computadores,12
+346,Secretariado e Comunicação Empresarial,12
+347,Gestão Marinha e Costeira,12
+348,Tradução e Interpretação de Língua Gestual Portuguesa,12
+349,Informática Industrial,12
+350,Ciênc de Engenharia-Eng Mecânica; Eng Eletrotécnica e de Computadores (Pre),11
+351,"Meteorologia, Oceanografia e Clima",11
+352,Farmácia Biomédica,11
+353,Animação Turística,11
+354,Artes e Cinema Digital,11
+355,Gestão e Administração Pública,10
+356,Ortoprotesia,10
+357,Zootecnia,10
+358,Secretariado de Administração,10
+359,Engenharia Computacional,10
+360,Engenharia de Polímeros,10
+361,Química Medicinal,10
+362,Desporto de Natureza e Turismo Ativo,10
+363,Engenharia Informática Médica,10
+364,Turismo e Gestão do Património Cultural,9
+365,Mediação Artística e Cultural,9
+366,Programação e Produção Cultural,9
+367,Comunicação Multimédia,9
+368,Engenharia da Energia e Ambiente,9
+369,"Meteorologia, Oceanografia e Geofísica",9
+370,Proteção Civil e Gestão de Riscos,8
+371,Gastronomia e Artes Culinárias,8
+372,Biologia e Biotecnologia Alimentar,8
+373,Gestão e Informática,8
+374,Estudos Culturais,8
+375,Ciências Bioanalíticas,8
+376,Animação e Produção Artística,8
+377,Tecnologias do Ambiente e do Mar,8
+378,Segurança do Trabalho e Ambiente,7
+379,Gestão da Distribuição e Logística,7
+380,Tecnologias Digitais e Saúde,7
+381,Audiologia,7
+382,Mecânica e Informática Industrial,7
+383,Engenharia Eletrónica,7
+384,Estudos Comparatistas,7
+385,Sistemas de Informação para Gestão,6
+386,Tecnologias e Gestão Municipal,6
+387,Engenharia de Minas e Recursos Energéticos,6
+388,Engenharia da Computação Gráfica e Multimédia,6
+389,Qualidade Alimentar e Nutrição Humana,6
+390,Teatro e Artes Performativas,6
+391,Engenharia Alimentar,6
+392,Tecnologias do Petróleo,6
+393,Saúde Digital,6
+394,Guias de Natureza e Património,6
+395,Ciência de Dados e Inteligência Artificial,6
+396,Estudos Africanos,6
+397,Tecnologia e Gestão Industrial,6
+398,Secretariado,5
+399,Educação Ambiental e Turismo de Natureza,5
+400,Engenharia de Redes e Sistemas de Computadores,5
+401,Química Industrial,5
+402,Estudos de Filosofia e de Cultura Contemporânea,5
+403,Estudos de Cultura,5
+404,Engenharia Têxtil,5
+405,Ciências Agrárias,5
+406,Engenharia Geoespacial,5
+407,Engenharia Florestal e dos Recursos Naturais,5
+408,Engenharia Eletrotécnica Marítima,5
+409,Gestão do Território,5
+410,Equinicultura,5
+411,Gestão e Biociências,5
+412,"Informática Web, Móvel e na Nuvem",4
+413,Matemática e Aplicações,4
+414,Ciências da Cultura,4
+415,Matemática Aplicada e Ciência de Dados,4
+416,Património Cultural,4
+417,"Gestão Turística, Cultural e Patrimonial",4
+418,Design de Equipamento e Ambientes,4
+419,Tecnologia Alimentar,4
+420,Engenharia de Sistemas e Tecnologias Informáticas,4
+421,Artes Performativas,4
+422,Informática e Tecnologias Multimédia,4
+423,"Gestão de Negócios Internacionais (Curso Europeu, ensino em Inglês)",4
+424,Engenharia Geotécnica e Geoambiente,4
+425,Enfermagem (entrada no 2.º semestre),4
+426,Engenharia Física Aplicada,3
+427,Engenharia Civil e do Ambiente,3
+428,Engenharia Eletrónica e Telecomunicações,3
+429,Biotecnologia Alimentar,3
+430,Engenharia Informática e Telecomunicações,3
+431,Biologia e Biotecnologia,3
+432,Turismo em Espaços Rurais e Naturais,3
+433,Tecnologia e Gestão Ambiental,3
+434,Engenharia Geológica,3
+435,Tecnologias para a Educação STEAM,2
+436,Engenharia da Energia e do Ambiente,2
+437,Tecnologia e Design de Mobiliário,2
+438,Gestão Industrial,2
+439,Ciências Florestais e Recursos Naturais,2
+440,Educação Ambiental,2
+441,Engenharia de Minas e Geo-Ambiente,2
+442,Engenharia e Biotecnologia Florestal,2
+443,Turismo e Lazer,2
+444,"Engenharia de Automação, Controlo e Instrumentação",2
+445,Engenharia de Energias Renováveis,1
+446,Engenharia Mecânica Computacional,1
+447,Ciências Farmacêuticas (Preparatórios),1
+448,Informática e Multimédia,1
+449,Química Tecnológica,1
+450,Música em Contextos Comunitários,1
+451,Gestão do Turismo e da Hospitalidade,1
+452,Tecnologia Química,1

@@ -1,0 +1,1090 @@
+,codigo_estabelecimento,codigo_curso,estabelecimento,escola,curso,regime_pos_laboral,regime_noturno,media_Nota,media_PI,media_12º,media_10º/11º
+0,3163,9147,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Gestão,0,0,158.85,151.556,162.741,162.741
+1,150,L041,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,Estudos Portugueses e Ingleses,0,0,152.992,157.083,150.75,150.75
+2,3011,9888,Universidade de Aveiro,Instituto Superior de Contabilidade e Administração de Aveiro,Finanças,1,0,144.94,139.0,148.1,148.1
+3,1104,9081,Universidade do Porto,Faculdade de Economia,Economia,0,0,184.754,185.363,184.13,184.13
+4,1501,9069,Universidade de Lisboa,Faculdade de Arquitetura,Design,0,0,176.09,179.78,172.4,172.4
+5,602,9847,Universidade de Évora,Escola de Ciências e Tecnologia,Medicina Veterinária,0,0,167.189,148.623,177.158,177.158
+6,3163,9087,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Engenharia Alimentar,0,0,147.0,121.0,161.0,161.0
+7,1518,9455,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Biomédica,0,0,181.836,178.25,185.373,185.373
+8,7005,8138,Instituto Politécnico de Beja,Escola Superior de Saúde,Terapia Ocupacional,0,0,132.514,112.286,143.381,143.381
+9,7210,9549,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Farmácia,0,0,143.707,120.512,156.171,156.171
+10,505,9779,Universidade de Coimbra,Faculdade de Letras,Línguas Modernas,0,0,167.72,173.214,162.226,162.226
+11,3052,9485,Instituto Politécnico de Castelo Branco,Escola Superior de Educação de Castelo Branco,Secretariado,0,0,128.48,120.0,133.0,133.0
+12,1306,9069,Universidade da Madeira,Faculdade de Artes e Humanidades,Design,0,0,152.5,149.0,155.333,155.333
+13,3011,8005,Universidade de Aveiro,Instituto Superior de Contabilidade e Administração de Aveiro,Marketing,1,0,145.99,135.7,151.5,151.5
+14,3182,9709,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Ciências e Tecnologia do Ambiente,0,0,97.0,97.0,97.0,97.0
+15,1203,9089,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Engenharia Civil,0,0,131.213,108.813,143.25,143.25
+16,3117,9889,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Finanças Empresariais,1,0,151.039,149.913,151.609,151.609
+17,3031,8015,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Solicitadoria,1,0,149.126,136.6,155.829,155.829
+18,1202,9204,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,"Línguas, Literaturas e Culturas",0,0,153.692,151.436,154.872,154.872
+19,300,9119,Universidade de Aveiro,D,Engenharia Informática,0,0,182.021,185.769,178.269,178.269
+20,3138,8288,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Sistemas de Informação para Gestão,0,0,135.105,112.0,147.5,147.5
+21,3164,9498,Instituto Politécnico de Viana do Castelo,Escola Superior de Ciências Empresariais,Contabilidade e Fiscalidade,0,0,138.25,119.25,148.429,148.429
+22,3031,9994,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Gestão de Empresas,1,0,159.638,153.793,162.759,162.759
+23,1108,L307,Universidade do Porto,Faculdade de Medicina,Saúde Digital e Inovação Biomédica,0,0,182.323,175.671,188.943,188.943
+24,3013,9504,Universidade de Aveiro,Escola Superior de Saúde de Aveiro,Fisioterapia,0,0,163.97,153.2,171.15,171.15
+25,201,9817,Universidade do Algarve,Faculdade de Ciências Humanas e Sociais,Artes Visuais,0,0,145.752,152.667,142.0,142.0
+26,7230,8138,Instituto Politécnico do Porto,Escola Superior de Saúde,Terapia Ocupacional,0,0,149.478,132.522,166.435,166.435
+27,400,L295,Universidade da Beira Interior,D,Engenharia Mecânica Computacional,0,0,165.8,158.0,170.0,170.0
+28,3031,9152,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Gestão de Empresas,0,0,169.25,162.625,172.775,172.775
+29,300,9104,Universidade de Aveiro,D,Engenharia e Gestão Industrial,0,0,176.384,168.101,181.905,181.905
+30,505,9181,Universidade de Coimbra,Faculdade de Letras,História,0,0,167.627,168.302,166.952,166.952
+31,902,9252,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Tradução,0,0,165.968,176.889,155.048,155.048
+32,3013,9890,Universidade de Aveiro,Escola Superior de Saúde de Aveiro,Terapia da Fala,0,0,149.275,126.688,164.333,164.333
+33,150,9238,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,Serviço Social,0,0,132.292,123.222,137.139,137.139
+34,1203,L209,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Engenharia Eletrotécnica e de Computadores,0,0,146.98,125.0,158.8,158.8
+35,7220,8152,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Ortoprotesia,0,0,143.76,121.783,155.567,155.567
+36,605,9494,Universidade de Évora,Escola de Saúde e Desenvolvimento Humano,Ciências Farmacêuticas,0,0,163.28,152.075,169.3,169.3
+37,3041,L029,Instituto Politécnico de Bragança,Escola Superior Agrária de Bragança,Biologia e Biotecnologia,0,0,121.917,108.333,129.167,129.167
+38,3241,9056,Instituto Politécnico de Tomar,Escola Superior de Gestão de Tomar,Contabilidade,0,0,138.22,125.9,144.8,144.8
+39,3143,9785,Instituto Politécnico de Santarém,Escola Superior de Gestão e Tecnologia de Santarém,Negócios Internacionais,0,0,135.06,121.644,142.244,142.244
+40,602,9012,Universidade de Évora,Escola de Ciências e Tecnologia,Biologia e Geologia,0,0,136.56,117.467,146.8,146.8
+41,3081,9023,Universidade do Algarve,Escola Superior de Educação e Comunicação,Ciências da Comunicação,0,0,154.444,146.378,158.756,158.756
+42,3131,9853,Instituto Politécnico do Porto,Escola Superior de Educação,Educação Básica,0,0,165.473,156.411,170.342,170.342
+43,3055,L158,Instituto Politécnico de Castelo Branco,Escola Superior de Artes Aplicadas,Design de Comunicação e Audiovisual,0,0,143.23,134.967,147.639,147.639
+44,3045,9242,Instituto Politécnico de Bragança,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",Solicitadoria,0,0,146.305,131.695,154.136,154.136
+45,604,9787,Universidade de Évora,Escola de Ciências Sociais,Património Cultural,0,0,130.509,118.136,137.136,137.136
+46,1203,9052,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Comunicação e Multimédia,0,0,142.168,124.873,151.437,151.437
+47,7035,8149,Universidade do Algarve,Escola Superior de Saúde,Dietética e Nutrição,0,0,140.607,121.036,151.107,151.107
+48,7230,L136,Instituto Politécnico do Porto,Escola Superior de Saúde,Osteopatia,0,0,153.438,134.357,172.476,172.476
+49,3131,8002,Instituto Politécnico do Porto,Escola Superior de Educação,Línguas e Culturas Estrangeiras,0,0,166.242,168.421,165.035,165.035
+50,1307,9119,Universidade da Madeira,Faculdade de Ciências Exatas e da Engenharia,Engenharia Informática,0,0,149.107,138.122,158.056,158.056
+51,400,9139,Universidade da Beira Interior,D,Filosofia,0,0,147.45,140.636,151.091,151.091
+52,3101,L099,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Comunicação e Media,0,0,151.93,142.25,157.1,157.1
+53,7220,L066,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Imagem Médica e Radioterapia,0,0,151.905,133.438,161.813,161.813
+54,3185,9086,Instituto Politécnico de Viseu,Escola Superior Agrária de Viseu,Engenharia Agronómica,0,0,137.6,140.5,136.0,136.0
+55,3102,L266,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia Eletrotécnica e de Computadores,0,1,159.1,155.5,161.0,161.0
+56,503,9229,Universidade de Coimbra,Faculdade de Economia,Relações Internacionais,0,0,175.292,175.415,175.17,175.17
+57,3045,8309,Instituto Politécnico de Bragança,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",Design de Jogos Digitais,0,0,138.887,130.581,143.323,143.323
+58,3185,9016,Instituto Politécnico de Viseu,Escola Superior Agrária de Viseu,Biotecnologia,0,0,133.092,113.769,143.462,143.462
+59,6810,L274,ISCTE,Instituto Universitário de Lisboa (Sintra),"Política, Economia e Sociedade",0,0,157.324,145.632,165.118,165.118
+60,3138,9045,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Ciências Empresariais,0,0,160.839,153.854,164.561,164.561
+61,3182,9109,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Engenharia Eletrotécnica,0,0,154.32,142.3,160.8,160.8
+62,3031,9242,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Solicitadoria,0,0,160.38,149.175,166.375,166.375
+63,300,9089,Universidade de Aveiro,D,Engenharia Civil,0,0,156.424,143.62,164.96,164.96
+64,1321,9076,Universidade da Madeira,Escola Superior de Tecnologias e Gestão,Direção e Gestão Hoteleira,0,0,145.119,132.0,152.135,152.135
+65,3012,8405,Universidade de Aveiro,Escola Superior de Tecnologia e Gestão de Águeda,Gestão da Qualidade,0,0,140.288,119.375,151.5,151.5
+66,201,9219,Universidade do Algarve,Faculdade de Ciências Humanas e Sociais,Psicologia,0,0,165.114,162.0,166.754,166.754
+67,602,8262,Universidade de Évora,Escola de Ciências e Tecnologia,Biologia Humana,0,0,138.984,123.08,147.52,147.52
+68,602,9818,Universidade de Évora,Escola de Ciências e Tecnologia,Ciência e Tecnologia Animal,0,0,143.086,127.121,151.655,151.655
+69,1518,9345,Universidade de Lisboa,Instituto Superior Técnico,Matemática Aplicada e Computação,0,0,187.043,191.581,182.5,182.5
+70,3185,9129,Instituto Politécnico de Viseu,Escola Superior Agrária de Viseu,Engenharia Zootécnica,0,0,139.2,130.25,144.0,144.0
+71,204,9081,Universidade do Algarve,Faculdade de Economia,Economia,0,0,144.036,129.732,151.714,151.714
+72,902,9020,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Ciência Política e Relações Internacionais,0,0,180.182,182.293,178.071,178.071
+73,3081,9084,Universidade do Algarve,Escola Superior de Educação e Comunicação,Educação Social,0,0,137.82,125.943,144.171,144.171
+74,1113,9548,Universidade do Porto,Faculdade de Medicina Dentária,Medicina Dentária,0,0,175.65,165.477,185.773,185.773
+75,1518,9099,Universidade de Lisboa,Instituto Superior Técnico,Engenharia do Ambiente,0,0,154.59,145.581,163.548,163.548
+76,1203,L253,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Design Sustentável,0,0,142.87,132.92,148.18,148.18
+77,1514,8411,Universidade de Lisboa,Instituto de Geografia e Ordenamento do Território,Planeamento e Gestão do Território,0,0,144.135,141.542,146.729,146.729
+78,3102,9627,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Contabilidade e Finanças,0,0,144.056,139.792,146.313,146.313
+79,3118,L119,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,"Engenharia Informática, Redes e Telecomunicações",0,0,139.856,121.556,152.056,152.056
+80,3138,L091,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Segurança do Trabalho e Ambiente,0,0,136.48,124.4,142.95,142.95
+81,203,9013,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Biologia Marinha,0,0,150.886,139.25,157.109,157.109
+82,1518,9474,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Biológica,0,0,173.725,167.697,179.705,179.705
+83,1511,9219,Universidade de Lisboa,Faculdade de Psicologia,Psicologia,0,0,170.201,166.591,173.766,173.766
+84,3101,8014,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Serviço Social,1,0,124.261,110.444,131.667,131.667
+85,3139,9921,Instituto Politécnico do Porto,Escola Superior de Hotelaria e Turismo,Gestão das Atividades Turísticas,0,0,152.2,136.636,160.545,160.545
+86,602,9751,Universidade de Évora,Escola de Ciências e Tecnologia,Engenharia Mecatrónica,0,0,147.05,135.167,153.417,153.417
+87,3102,8015,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Solicitadoria,1,0,132.709,121.435,138.739,138.739
+88,201,8509,Universidade do Algarve,Faculdade de Ciências Humanas e Sociais,Património Cultural e Arqueologia,0,0,135.2,124.767,140.767,140.767
+89,150,9652,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,Comunicação e Relações Públicas,0,0,134.378,127.951,137.805,137.805
+90,400,9048,Universidade da Beira Interior,D,Cinema,0,0,158.658,146.96,164.92,164.92
+91,160,9011,Universidade dos Açores,Faculdade de Ciências e Tecnologia,Biologia,0,0,141.471,126.964,149.25,149.25
+92,3182,8296,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Gestão Industrial,0,0,130.022,123.389,133.556,133.556
+93,3182,9089,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Engenharia Civil,0,0,134.6,117.0,144.0,144.0
+94,505,9006,Universidade de Coimbra,Faculdade de Letras,Arqueologia,0,0,150.712,146.923,154.5,154.5
+95,3031,9990,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Fiscalidade,1,0,135.25,122.3,142.2,142.2
+96,902,9204,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,"Línguas, Literaturas e Culturas",0,0,170.987,178.24,163.733,163.733
+97,3045,9205,Instituto Politécnico de Bragança,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",Marketing,0,0,143.228,128.575,151.075,151.075
+98,505,9143,Universidade de Coimbra,Faculdade de Letras,Geografia,0,0,149.129,145.0,153.429,153.143
+99,3182,8517,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Tecnologia e Design de Mobiliário,0,0,131.055,120.455,136.727,136.727
+100,6810,L321,ISCTE,Instituto Universitário de Lisboa (Sintra),Matemática Aplicada e Tecnologias Digitais,0,0,144.394,128.485,155.0,155.0
+101,1517,A006,Universidade de Lisboa,Instituto Superior de Economia e Gestão,Economia (ensino em Inglês),0,0,176.597,177.267,175.9,175.9
+102,203,9210,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Matemática Aplicada à Economia e à Gestão,0,0,141.847,119.333,153.933,153.933
+103,1307,9209,Universidade da Madeira,Faculdade de Ciências Exatas e da Engenharia,Matemática,0,0,160.855,152.273,167.818,167.818
+104,7210,L067,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Fisiologia Clínica,0,0,156.821,140.658,165.5,165.5
+105,3101,9797,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Relações Humanas e Comunicação Organizacional,0,0,142.513,131.256,148.538,148.538
+106,3155,9500,Instituto Politécnico de Setúbal,Escola Superior de Saúde,Enfermagem,0,0,149.896,134.38,160.239,160.239
+107,6810,L278,ISCTE,Instituto Universitário de Lisboa (Sintra),Desenvolvimento de Software e Aplicações,0,0,149.487,140.563,155.438,155.438
+108,7005,9500,Instituto Politécnico de Beja,Escola Superior de Saúde,Enfermagem,0,0,142.222,121.486,153.361,153.361
+109,3182,9119,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Engenharia Informática,0,0,156.477,144.848,162.697,162.697
+110,3101,9851,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Desporto e Bem-Estar,0,0,140.567,127.192,147.731,147.731
+111,3131,9879,Instituto Politécnico do Porto,Escola Superior de Educação,Educação Social,1,0,145.38,127.833,154.8,154.8
+112,3138,8398,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Segurança Informática em Redes de Computadores,0,0,143.923,128.455,152.227,152.227
+113,505,9132,Universidade de Coimbra,Faculdade de Letras,Estudos Artísticos,0,0,161.684,165.553,157.816,157.816
+114,400,9071,Universidade da Beira Interior,D,Design de Moda,0,0,163.228,160.867,164.467,164.467
+115,902,9023,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Ciências da Comunicação,0,0,177.307,176.417,178.198,178.198
+116,3082,9148,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo",Gestão,0,1,135.165,132.462,136.577,136.577
+117,3141,9003,Instituto Politécnico de Santarém,Escola Superior Agrária de Santarém,Agronomia,0,0,138.173,123.2,146.2,146.2
+118,3081,9563,Universidade do Algarve,Escola Superior de Educação e Comunicação,Desporto,0,0,146.815,133.805,153.78,153.78
+119,503,9147,Universidade de Coimbra,Faculdade de Economia,Gestão,0,0,176.73,177.044,176.4,176.4
+120,3141,L080,Instituto Politécnico de Santarém,Escola Superior Agrária de Santarém,Qualidade Alimentar e Nutrição Humana,0,0,125.586,106.571,135.786,135.786
+121,3117,9476,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Finanças Empresariais,0,0,162.713,159.818,164.236,164.236
+122,1114,9066,Universidade do Porto,Faculdade de Direito,Criminologia,0,0,177.221,173.213,179.894,179.894
+123,400,L303,Universidade da Beira Interior,D,"Informática Web, Móvel e na Nuvem",0,0,131.071,117.357,138.429,138.429
+124,3139,8442,Instituto Politécnico do Porto,Escola Superior de Hotelaria e Turismo,Gestão das Atividades Turísticas,1,0,129.565,119.739,134.826,134.826
+125,3139,L131,Instituto Politécnico do Porto,Escola Superior de Hotelaria e Turismo,Gestão da Restauração e Catering,0,0,143.46,128.467,151.5,151.5
+126,902,9448,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Antropologia,0,0,146.628,142.0,151.256,151.256
+127,150,9219,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,Psicologia,0,0,158.333,154.818,160.182,160.182
+128,3102,9112,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia Eletrotécnica e de Computadores,0,0,143.614,134.25,148.643,148.643
+129,6810,L280,ISCTE,Instituto Universitário de Lisboa (Sintra),Tecnologias Digitais e Gestão,0,0,157.909,151.227,162.364,162.364
+130,3117,L035,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Comércio e Negócios Internacionais,1,0,149.157,140.259,153.897,153.897
+131,3164,9664,Instituto Politécnico de Viana do Castelo,Escola Superior de Ciências Empresariais,Marketing e Comunicação Empresarial,0,0,151.765,145.425,155.125,155.125
+132,3052,9850,Instituto Politécnico de Castelo Branco,Escola Superior de Educação de Castelo Branco,Desporto e Atividade Física,0,0,135.522,121.611,142.981,142.981
+133,3138,8015,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Solicitadoria,1,0,148.19,136.4,154.5,154.5
+134,150,9240,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,Sociologia,0,0,125.103,110.103,133.138,133.138
+135,3151,9853,Instituto Politécnico de Setúbal,Escola Superior de Educação,Educação Básica,0,0,145.562,131.49,154.942,154.942
+136,7230,L068,Instituto Politécnico do Porto,Escola Superior de Saúde,Ciências Biomédicas Laboratoriais,0,0,169.58,160.733,178.4,178.4
+137,3082,9173,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo",Gestão Hoteleira,0,0,140.98,125.42,149.32,149.32
+138,1114,9078,Universidade do Porto,Faculdade de Direito,Direito,0,0,184.773,184.058,185.25,185.25
+139,3011,9869,Universidade de Aveiro,Instituto Superior de Contabilidade e Administração de Aveiro,Contabilidade,1,0,135.757,118.619,144.952,144.952
+140,3164,8516,Instituto Politécnico de Viana do Castelo,Escola Superior de Ciências Empresariais,Organização e Gestão Empresariais,0,0,146.663,135.933,152.4,152.4
+141,7110,9217,Escola Superior de Hotelaria e Turismo do Estoril,D,Produção Alimentar em Restauração,0,0,139.78,122.0,151.634,151.634
+142,3155,9890,Instituto Politécnico de Setúbal,Escola Superior de Saúde,Terapia da Fala,0,0,142.431,126.462,153.077,153.077
+143,203,8258,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Arquitetura Paisagista,0,0,152.719,148.857,154.762,154.762
+144,1518,9257,Universidade de Lisboa,Instituto Superior Técnico,Arquitetura,0,0,168.9,169.255,168.489,168.489
+145,3041,9085,Instituto Politécnico de Bragança,Escola Superior Agrária de Bragança,Enfermagem Veterinária,0,0,132.621,110.667,144.405,144.405
+146,7230,8143,Instituto Politécnico do Porto,Escola Superior de Saúde,Ortóptica,0,0,141.836,124.795,158.864,158.864
+147,3155,9504,Instituto Politécnico de Setúbal,Escola Superior de Saúde,Fisioterapia,0,0,157.555,146.114,165.182,165.182
+148,3141,L259,Instituto Politécnico de Santarém,Escola Superior Agrária de Santarém,Biologia e Biotecnologia Alimentar,0,0,129.295,114.895,137.0,137.0
+149,400,9089,Universidade da Beira Interior,D,Engenharia Civil,0,0,137.283,120.083,146.5,146.5
+150,3186,L116,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Lamego,Secretariado de Administração,0,0,126.132,111.864,133.773,133.773
+151,503,9240,Universidade de Coimbra,Faculdade de Economia,Sociologia,0,0,154.0,149.425,158.575,158.575
+152,3102,9104,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia e Gestão Industrial,0,0,144.729,126.929,154.286,154.286
+153,3014,L138,Universidade de Aveiro,"Escola Superior de Design, Gestão e Tecnologia da Produção de Aveiro-Norte",Design de Produto e Tecnologia,0,0,161.021,162.5,160.184,160.184
+154,400,9105,Universidade da Beira Interior,D,Engenharia Eletromecânica,0,0,152.9,131.833,164.222,164.222
+155,1203,9113,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Engenharia Física,0,0,156.3,129.0,171.0,171.0
+156,1204,9011,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Biologia,0,0,143.623,122.457,154.971,154.971
+157,3117,9058,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Contabilidade e Administração,0,0,158.446,155.27,160.115,160.115
+158,1202,L312,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Cultura e Transformação Digital,0,0,133.811,125.694,138.139,138.139
+159,3186,L021,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Lamego,Gestão Comercial,0,0,131.866,117.257,139.686,139.686
+160,902,8109,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Sociologia,1,0,140.286,128.952,151.619,151.619
+161,902,9145,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Geografia e Planeamento Regional,0,0,147.0,144.862,149.138,149.138
+162,3182,9254,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Turismo,0,0,128.24,113.05,136.375,136.375
+163,6810,L273,ISCTE,Instituto Universitário de Lisboa (Sintra),Tecnologias Digitais e Automação,0,0,141.375,125.578,151.906,151.906
+164,604,9240,Universidade de Évora,Escola de Ciências Sociais,Sociologia,0,0,144.607,130.548,152.143,152.143
+165,1202,9023,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Ciências da Comunicação,0,0,156.117,143.188,163.043,163.043
+166,3186,9122,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Lamego,Engenharia Informática e Telecomunicações,0,0,133.056,122.556,138.667,138.667
+167,400,9104,Universidade da Beira Interior,D,Engenharia e Gestão Industrial,0,0,142.8,120.0,155.053,155.053
+168,3117,9991,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Gestão,1,0,156.508,155.364,157.091,157.091
+169,160,8524,Universidade dos Açores,Faculdade de Ciências e Tecnologia,Proteção Civil e Gestão de Riscos,0,0,143.564,128.0,151.909,151.909
+170,3241,9152,Instituto Politécnico de Tomar,Escola Superior de Gestão de Tomar,Gestão de Empresas,0,0,131.813,117.822,139.311,139.311
+171,6810,L277,ISCTE,Instituto Universitário de Lisboa (Sintra),Tecnologias Digitais e Inteligência Artificial,0,0,155.525,151.719,158.063,158.063
+172,1203,L345,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Cidades Sustentáveis e Inteligentes,0,0,118.0,99.5,136.5,136.5
+173,1306,L150,Universidade da Madeira,Faculdade de Artes e Humanidades,Estudos de Cultura,0,0,128.047,113.618,139.794,139.794
+174,140,9022,Universidade dos Açores,Faculdade de Ciências Agrárias e do Ambiente,Ciências Agrárias,0,0,128.22,107.8,139.2,139.2
+175,1510,9162,Universidade de Lisboa,Faculdade de Motricidade Humana,Gestão do Desporto,0,0,163.79,169.484,158.097,158.097
+176,3163,9254,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Turismo,0,0,138.735,124.436,146.4,146.4
+177,7110,9163,Escola Superior de Hotelaria e Turismo do Estoril,D,Gestão do Lazer e Animação Turística,0,0,154.987,158.8,152.444,152.444
+178,7110,9183,Escola Superior de Hotelaria e Turismo do Estoril,D,Informação Turística,0,0,133.774,126.729,138.457,138.457
+179,604,9081,Universidade de Évora,Escola de Ciências Sociais,Economia,0,0,143.576,132.041,149.757,149.757
+180,3151,9563,Instituto Politécnico de Setúbal,Escola Superior de Educação,Desporto,0,0,145.206,138.742,149.516,149.516
+181,3118,9123,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Mecânica,0,0,150.277,135.149,158.404,158.404
+182,3185,9085,Instituto Politécnico de Viseu,Escola Superior Agrária de Viseu,Enfermagem Veterinária,0,0,145.693,125.033,156.778,156.778
+183,1308,9147,Universidade da Madeira,Faculdade de Ciências Sociais,Gestão,0,0,162.431,160.0,164.382,164.382
+184,400,9016,Universidade da Beira Interior,D,Biotecnologia,0,0,134.471,112.647,146.176,146.176
+185,3118,L085,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Tecnologias e Gestão Municipal,0,0,134.443,114.543,145.13,145.13
+186,3117,8015,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Solicitadoria,1,0,148.992,135.137,156.647,156.255
+187,3142,L130,Instituto Politécnico de Santarém,Escola Superior de Educação de Santarém,Educação Ambiental e Turismo de Natureza,0,0,130.044,114.111,140.667,140.667
+188,505,L109,Universidade de Coimbra,Faculdade de Letras,"Turismo, Território e Patrimónios",0,0,147.727,141.97,153.485,153.485
+189,901,9554,Universidade Nova de Lisboa,Faculdade de Ciências Médicas,Ciências da Nutrição,0,0,166.23,153.05,179.35,179.35
+190,1307,9089,Universidade da Madeira,Faculdade de Ciências Exatas e da Engenharia,Engenharia Civil,0,0,150.017,133.417,163.583,163.583
+191,3013,L066,Universidade de Aveiro,Escola Superior de Saúde de Aveiro,Imagem Médica e Radioterapia,0,0,154.8,139.38,165.08,165.08
+192,3081,9070,Universidade do Algarve,Escola Superior de Educação e Comunicação,Design de Comunicação,0,0,152.095,151.013,152.641,152.641
+193,7220,9504,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Fisioterapia,0,0,168.604,158.573,173.979,173.979
+194,3102,9991,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Gestão,1,0,138.492,133.462,141.154,141.154
+195,3046,9076,Instituto Politécnico de Bragança,Escola Superior de Hotelaria e Bem-Estar,Direção e Gestão Hoteleira,0,0,127.85,113.6,135.5,135.5
+196,902,9046,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Ciências Musicais,0,0,149.57,144.512,154.628,154.628
+197,902,9917,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Estudos Portugueses,0,0,148.935,143.348,154.522,154.522
+198,1307,9107,Universidade da Madeira,Faculdade de Ciências Exatas e da Engenharia,Engenharia Eletrónica e Telecomunicações,0,0,149.0,144.5,152.667,152.667
+199,3241,9640,Instituto Politécnico de Tomar,Escola Superior de Gestão de Tomar,Gestão de Recursos Humanos e Comportamento Organizacional,0,0,133.051,116.0,142.179,142.179
+200,1518,L233,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Física Tecnológica,0,0,188.145,188.134,188.107,188.107
+201,1306,9817,Universidade da Madeira,Faculdade de Artes e Humanidades,Artes Visuais,0,0,147.256,147.389,147.111,147.111
+202,201,9204,Universidade do Algarve,Faculdade de Ciências Humanas e Sociais,"Línguas, Literaturas e Culturas",0,0,148.146,136.923,154.154,154.154
+203,1203,9119,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Engenharia Informática,0,0,144.897,125.449,155.338,155.338
+204,602,9210,Universidade de Évora,Escola de Ciências e Tecnologia,Matemática Aplicada à Economia e à Gestão,0,0,144.652,128.119,153.524,153.524
+205,1508,9791,Universidade de Lisboa,Faculdade de Medicina Dentária,Prótese Dentária,0,0,150.589,135.574,165.556,165.556
+206,1518,9125,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Química,0,0,167.972,161.213,174.68,174.68
+207,3141,8419,Instituto Politécnico de Santarém,Escola Superior Agrária de Santarém,Agronomia,1,0,142.5,136.0,146.0,146.0
+208,1501,9257,Universidade de Lisboa,Faculdade de Arquitetura,Arquitetura,0,0,177.547,184.226,170.868,170.868
+209,3138,9119,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Engenharia Informática,0,0,157.491,138.221,167.824,167.824
+210,7220,8149,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Dietética e Nutrição,0,0,153.315,137.304,161.913,161.913
+211,7110,9996,Escola Superior de Hotelaria e Turismo do Estoril,D,Gestão Turística,1,0,132.525,119.925,140.925,140.925
+212,1204,9761,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Genética e Biotecnologia,0,0,142.073,121.173,153.288,153.288
+213,3163,9148,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Gestão,0,1,132.358,115.375,141.458,141.458
+214,3055,9725,Instituto Politécnico de Castelo Branco,Escola Superior de Artes Aplicadas,Design de Interiores e Equipamento,0,0,156.28,151.0,159.089,159.089
+215,1518,9121,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Informática e de Computadores,0,0,185.264,189.766,180.761,180.761
+216,1510,9068,Universidade de Lisboa,Faculdade de Motricidade Humana,Dança,0,0,148.75,138.05,159.45,159.45
+217,3034,9173,Instituto Politécnico do Cávado e do Ave,Escola Superior de Hotelaria e Turismo,Gestão Hoteleira,0,0,149.818,140.879,154.606,154.606
+218,400,9813,Universidade da Beira Interior,D,Medicina,0,0,179.473,171.677,187.273,187.273
+219,7035,L066,Universidade do Algarve,Escola Superior de Saúde,Imagem Médica e Radioterapia,0,0,147.39,128.483,157.533,157.533
+220,1108,9813,Universidade do Porto,Faculdade de Medicina,Medicina,0,0,188.459,182.804,194.12,194.12
+221,3102,9741,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia Automóvel,0,0,143.229,126.486,152.229,152.229
+222,7210,L066,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Imagem Médica e Radioterapia,0,0,159.708,140.378,170.081,170.081
+223,3012,L021,Universidade de Aveiro,Escola Superior de Tecnologia e Gestão de Águeda,Gestão Comercial,0,0,152.437,139.0,159.633,159.633
+224,7220,L161,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Ortóptica e Ciências da Visão,0,0,141.419,124.75,150.361,150.361
+225,400,9112,Universidade da Beira Interior,D,Engenharia Eletrotécnica e de Computadores,0,0,141.6,111.0,158.0,158.0
+226,1204,9379,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Ciências do Ambiente,0,0,128.064,107.182,139.273,139.273
+227,3102,9147,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Gestão,0,0,152.279,145.0,156.151,156.151
+228,6810,L329,ISCTE,Instituto Universitário de Lisboa (Sintra),Tecnologias Digitais e Segurança de Informação,0,0,147.15,136.734,154.094,154.094
+229,3163,9119,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Engenharia Informática,0,0,150.572,139.37,156.568,156.568
+230,300,9113,Universidade de Aveiro,D,Engenharia Física,0,0,161.233,150.938,171.475,171.475
+231,1505,9494,Universidade de Lisboa,Faculdade de Farmácia,Ciências Farmacêuticas,0,0,159.979,147.065,172.847,172.847
+232,3138,L030,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Gestão Industrial e Logística,0,0,160.155,152.2,164.4,164.4
+233,1518,9096,Universidade de Lisboa,Instituto Superior Técnico,Engenharia de Materiais,0,0,162.352,153.42,171.24,171.24
+234,3102,9089,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia Civil,0,0,138.367,117.417,149.667,149.667
+235,140,L344,Universidade dos Açores,Faculdade de Ciências Agrárias e do Ambiente,Guias de Natureza e Património,0,0,134.314,112.571,146.0,146.0
+236,7210,9504,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Fisioterapia,0,0,166.442,153.198,173.558,173.558
+237,3101,9084,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Educação Social,0,0,135.717,120.537,143.854,143.854
+238,7035,9500,Universidade do Algarve,Escola Superior de Saúde,Enfermagem,0,0,155.068,139.738,163.275,163.275
+239,506,9548,Universidade de Coimbra,Faculdade de Medicina,Medicina Dentária,0,0,180.178,175.75,184.55,184.55
+240,1308,9736,Universidade da Madeira,Faculdade de Ciências Sociais,Educação Física e Desporto,0,0,150.952,136.935,162.387,162.387
+241,400,9494,Universidade da Beira Interior,D,Ciências Farmacêuticas,0,0,161.184,145.444,169.629,169.629
+242,3102,9123,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia Mecânica,0,0,143.744,124.891,153.875,153.875
+243,3014,L299,Universidade de Aveiro,"Escola Superior de Design, Gestão e Tecnologia da Produção de Aveiro-Norte",Automação e Sistemas de Produção,0,0,141.195,114.318,155.636,155.636
+244,3118,9126,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Química e Biológica,0,0,136.729,119.471,148.235,148.235
+245,150,9853,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,Educação Básica,0,0,155.395,143.614,161.727,161.727
+246,3051,L093,Instituto Politécnico de Castelo Branco,Escola Superior Agrária de Castelo Branco,Biotecnologia Alimentar,0,0,124.675,104.5,135.5,135.5
+247,3118,L117,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Matemática Aplicada à Tecnologia e à Empresa,0,0,149.993,141.448,155.69,155.69
+248,3031,9056,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Contabilidade,0,0,153.642,145.475,158.0,158.0
+249,3117,9870,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Contabilidade e Administração,1,0,145.328,137.53,149.49,149.49
+250,3131,9563,Instituto Politécnico do Porto,Escola Superior de Educação,Desporto,0,0,149.9,117.8,167.16,167.16
+251,400,9015,Universidade da Beira Interior,D,Bioquímica,0,0,138.611,117.667,149.844,149.844
+252,3118,9455,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Biomédica,0,0,156.354,136.904,166.808,166.808
+253,1518,L221,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Aeroespacial,0,0,190.78,189.89,191.618,191.618
+254,1306,9720,Universidade da Madeira,Faculdade de Artes e Humanidades,"Comunicação, Cultura e Organizações",0,0,145.929,134.763,155.026,155.026
+255,400,8184,Universidade da Beira Interior,D,Optometria e Ciências da Visão,0,0,132.596,112.6,143.32,143.32
+256,204,9240,Universidade do Algarve,Faculdade de Economia,Sociologia,0,0,142.817,131.643,148.786,148.786
+257,3186,9238,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Lamego,Serviço Social,0,0,134.071,116.943,143.257,143.257
+258,505,9133,Universidade de Coimbra,Faculdade de Letras,Estudos Clássicos,0,0,139.738,130.381,149.095,149.095
+259,1203,9455,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Engenharia Biomédica,0,0,158.2,131.031,172.813,172.813
+260,3131,8264,Instituto Politécnico do Porto,Escola Superior de Educação,Artes Visuais e Tecnologias Artísticas,0,0,168.982,168.679,169.107,169.107
+261,506,9813,Universidade de Coimbra,Faculdade de Medicina,Medicina,0,0,184.018,178.11,189.924,189.924
+262,1507,9554,Universidade de Lisboa,Faculdade de Medicina,Ciências da Nutrição,0,0,165.077,154.817,175.3,175.3
+263,1202,9147,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Gestão,0,0,168.138,162.887,170.93,170.93
+264,1504,9078,Universidade de Lisboa,Faculdade de Direito,Direito,0,0,166.767,160.653,172.834,172.834
+265,3163,9123,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Engenharia Mecânica,0,0,144.368,125.658,154.421,154.421
+266,3118,L213,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Física Aplicada,0,0,131.011,114.778,147.222,147.222
+267,604,L047,Universidade de Évora,Escola de Ciências Sociais,Línguas e Literaturas,0,0,153.224,156.473,151.436,151.436
+268,3151,9054,Instituto Politécnico de Setúbal,Escola Superior de Educação,Comunicação Social,0,0,145.303,129.121,156.091,156.091
+269,3118,9108,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Eletrónica e Telecomunicações e de Computadores,0,0,128.731,108.143,139.8,139.8
+270,3102,9648,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia da Energia e do Ambiente,0,0,135.133,121.667,142.333,142.333
+271,1202,9196,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Línguas e Relações Empresariais,0,0,157.385,154.85,158.717,158.717
+272,7230,L304,Instituto Politécnico do Porto,Escola Superior de Saúde,Saúde Digital,0,0,143.442,124.917,161.917,161.917
+273,602,9209,Universidade de Évora,Escola de Ciências e Tecnologia,Matemática,0,0,148.25,134.083,155.833,155.833
+274,902,9040,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Ciências da Linguagem,0,0,154.95,163.15,146.75,146.75
+275,1510,9707,Universidade de Lisboa,Faculdade de Motricidade Humana,Ciências do Desporto,0,0,149.082,142.146,156.018,156.018
+276,1513,L040,Universidade de Lisboa,Instituto de Educação,Educação e Formação,0,0,151.096,148.973,153.219,153.219
+277,7230,8141,Instituto Politécnico do Porto,Escola Superior de Saúde,Audiologia,0,0,136.18,120.65,151.7,151.7
+278,7230,L101,Instituto Politécnico do Porto,Escola Superior de Saúde,Biotecnologia Medicinal,0,0,175.609,172.688,178.531,178.531
+279,3012,9235,Universidade de Aveiro,Escola Superior de Tecnologia e Gestão de Águeda,Secretariado e Comunicação Empresarial,0,0,146.516,138.64,150.72,150.72
+280,3045,9165,Instituto Politécnico de Bragança,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",Gestão e Administração Pública,0,0,128.863,113.406,137.156,137.156
+281,3164,8464,Instituto Politécnico de Viana do Castelo,Escola Superior de Ciências Empresariais,Gestão da Distribuição e Logística,0,0,128.31,111.517,137.31,137.31
+282,203,9011,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Biologia,0,0,144.767,129.714,152.833,152.833
+283,1508,9548,Universidade de Lisboa,Faculdade de Medicina Dentária,Medicina Dentária,0,0,179.783,177.743,181.771,181.771
+284,3082,9147,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo",Gestão,0,0,150.969,146.662,153.247,153.247
+285,602,9003,Universidade de Évora,Escola de Ciências e Tecnologia,Agronomia,0,0,134.536,117.386,143.727,143.727
+286,1510,9841,Universidade de Lisboa,Faculdade de Motricidade Humana,Reabilitação Psicomotora,0,0,142.194,132.224,152.163,152.163
+287,3082,9254,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo",Turismo,0,0,134.28,124.0,139.785,139.785
+288,7110,9076,Escola Superior de Hotelaria e Turismo do Estoril,D,Direção e Gestão Hoteleira,0,0,158.959,155.73,161.111,161.111
+289,7110,9177,Escola Superior de Hotelaria e Turismo do Estoril,D,Gestão Turística,0,0,147.926,139.323,153.661,153.661
+290,204,9152,Universidade do Algarve,Faculdade de Economia,Gestão de Empresas,0,0,157.866,156.028,158.817,158.817
+291,400,9225,Universidade da Beira Interior,D,Química Industrial,0,0,127.567,108.417,137.833,137.833
+292,300,9002,Universidade de Aveiro,D,Administração Pública,0,0,156.529,153.464,158.571,158.571
+293,6810,L311,ISCTE,Instituto Universitário de Lisboa (Sintra),"Tecnologias Digitais, Edifícios e Construção Sustentável",0,0,140.169,121.953,152.313,152.313
+294,3052,9238,Instituto Politécnico de Castelo Branco,Escola Superior de Educação de Castelo Branco,Serviço Social,0,0,136.715,123.639,143.721,143.721
+295,1517,A013,Universidade de Lisboa,Instituto Superior de Economia e Gestão,Finanças (ensino em inglês),0,0,168.259,168.063,168.438,168.438
+296,604,9229,Universidade de Évora,Escola de Ciências Sociais,Relações Internacionais,0,0,159.949,160.522,159.597,159.597
+297,1504,8358,Universidade de Lisboa,Faculdade de Direito,Direito,1,0,155.91,147.146,164.634,164.634
+298,3031,9759,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Fiscalidade,0,0,146.348,135.323,152.258,152.258
+299,3186,9179,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Lamego,"Gestão Turística, Cultural e Patrimonial",0,0,133.514,121.429,140.0,140.0
+300,505,9139,Universidade de Coimbra,Faculdade de Letras,Filosofia,0,0,158.611,156.926,160.296,160.296
+301,3186,9168,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Lamego,Gestão e Informática,0,0,134.075,115.2,144.2,144.2
+302,3051,9085,Instituto Politécnico de Castelo Branco,Escola Superior Agrária de Castelo Branco,Enfermagem Veterinária,0,0,139.24,121.0,149.023,149.023
+303,604,9853,Universidade de Évora,Escola de Ciências Sociais,Educação Básica,0,0,143.228,126.328,152.31,152.31
+304,300,9081,Universidade de Aveiro,D,Economia,0,0,171.034,163.585,176.0,176.0
+305,3102,9205,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Marketing,0,0,150.676,142.98,154.78,154.78
+306,901,9813,Universidade Nova de Lisboa,Faculdade de Ciências Médicas,Medicina,0,0,184.375,180.159,188.591,188.591
+307,1202,9005,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Animação Sociocultural,0,0,129.586,111.864,139.091,139.091
+308,6810,L282,ISCTE,Instituto Universitário de Lisboa (Sintra),Tecnologias Digitais e Saúde,0,0,141.08,129.629,148.714,148.714
+309,150,9181,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,História,0,0,154.01,157.05,152.35,152.35
+310,1518,L239,Universidade de Lisboa,Instituto Superior Técnico,Engenharia de Minas e Recursos Energéticos,0,0,145.459,135.088,155.765,155.765
+311,1518,L209,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Eletrotécnica e de Computadores,0,0,160.81,153.059,168.514,168.514
+312,400,9240,Universidade da Beira Interior,D,Sociologia,0,0,146.285,134.809,152.426,152.426
+313,3012,L194,Universidade de Aveiro,Escola Superior de Tecnologia e Gestão de Águeda,Eletrónica e Mecânica Industrial,0,0,145.669,128.543,154.857,154.857
+314,1204,9351,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Ciências Biomédicas,0,0,160.866,140.921,171.579,171.579
+315,3081,9853,Universidade do Algarve,Escola Superior de Educação e Comunicação,Educação Básica,0,0,147.382,133.667,154.727,154.727
+316,1308,9853,Universidade da Madeira,Faculdade de Ciências Sociais,Educação Básica,0,0,146.824,136.12,155.56,155.56
+317,7210,8141,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Audiologia,0,0,135.697,113.083,147.833,147.833
+318,400,9023,Universidade da Beira Interior,D,Ciências da Comunicação,0,0,153.217,145.71,157.232,157.232
+319,400,9074,Universidade da Beira Interior,D,Design Industrial,0,0,145.035,138.481,148.519,148.519
+320,604,8251,Universidade de Évora,Escola de Ciências Sociais,História e Arqueologia,0,0,151.454,147.513,153.538,153.538
+321,1306,9219,Universidade da Madeira,Faculdade de Artes e Humanidades,Psicologia,0,0,160.767,153.667,166.533,166.533
+322,3182,9491,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Tecnologias e Design de Multimédia,0,0,137.269,126.688,142.917,142.917
+323,7001,9500,Escola Superior de Enfermagem de Coimbra,D,Enfermagem,0,0,147.742,130.6,159.17,159.17
+324,3013,9500,Universidade de Aveiro,Escola Superior de Saúde de Aveiro,Enfermagem,0,0,155.941,138.128,167.817,167.817
+325,3117,9242,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Solicitadoria,0,0,157.598,145.364,164.145,164.145
+326,3117,9147,Instituto Politécnico de Lisboa,Instituto Superior de Contabilidade e Administração de Lisboa,Gestão,0,0,165.082,163.234,166.037,166.037
+327,3142,9084,Instituto Politécnico de Santarém,Escola Superior de Educação de Santarém,Educação Social,0,0,137.505,126.825,144.625,144.625
+328,7220,L067,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Fisiologia Clínica,0,0,154.809,139.791,162.86,162.86
+329,3081,8337,Universidade do Algarve,Escola Superior de Educação e Comunicação,Imagem Animada,0,0,156.554,156.459,156.568,156.568
+330,602,9015,Universidade de Évora,Escola de Ciências e Tecnologia,Bioquímica,0,0,139.569,123.615,148.115,148.115
+331,1202,9254,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Turismo,0,0,140.346,127.877,147.018,147.018
+332,7230,L066,Instituto Politécnico do Porto,Escola Superior de Saúde,Imagem Médica e Radioterapia,0,0,152.198,139.262,165.131,165.131
+333,1517,9210,Universidade de Lisboa,Instituto Superior de Economia e Gestão,Matemática Aplicada à Economia e à Gestão,0,0,191.482,194.908,188.05,188.05
+334,3163,9743,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Engenharia Civil e do Ambiente,0,0,136.95,113.5,149.5,149.5
+335,3154,9687,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia do Barreiro,Bioinformática,0,0,125.147,106.667,135.067,135.067
+336,604,9026,Universidade de Évora,Escola de Ciências Sociais,Ciências da Educação,0,0,139.425,126.219,146.5,146.5
+337,902,9182,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,História da Arte,0,0,159.293,158.878,159.707,159.707
+338,3102,9885,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia Informática,1,0,135.75,121.904,143.154,143.154
+339,3182,9205,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Marketing,0,0,148.059,139.63,152.565,152.565
+340,400,9119,Universidade da Beira Interior,D,Engenharia Informática,0,0,140.684,121.809,150.816,150.816
+341,3151,9005,Instituto Politécnico de Setúbal,Escola Superior de Educação,Animação Sociocultural,0,0,136.906,122.0,146.844,146.844
+342,160,9185,Universidade dos Açores,Faculdade de Ciências e Tecnologia,Informática,0,0,148.676,133.143,157.0,157.0
+343,3185,9087,Instituto Politécnico de Viseu,Escola Superior Agrária de Viseu,Engenharia Alimentar,0,0,143.7,124.5,154.0,154.0
+344,300,9011,Universidade de Aveiro,D,Biologia,0,0,163.461,155.459,168.796,168.796
+345,7210,L068,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Ciências Biomédicas Laboratoriais,0,0,163.318,148.224,171.421,171.421
+346,203,L123,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Gestão Marinha e Costeira,0,0,127.023,112.038,135.038,135.038
+347,3101,9238,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Serviço Social,0,0,142.3,123.525,152.375,152.375
+348,3011,9205,Universidade de Aveiro,Instituto Superior de Contabilidade e Administração de Aveiro,Marketing,0,0,164.561,157.939,168.091,168.091
+349,3154,9016,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia do Barreiro,Biotecnologia,0,0,142.651,125.889,151.644,151.644
+350,201,L252,Universidade do Algarve,Faculdade de Ciências Humanas e Sociais,Línguas e Comunicação Intercultural,0,0,135.606,124.063,141.781,141.781
+351,300,9125,Universidade de Aveiro,D,Engenharia Química,0,0,149.687,130.795,162.282,162.282
+352,1204,9707,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Ciências do Desporto,0,0,148.745,127.54,160.127,160.127
+353,160,8571,Universidade dos Açores,Faculdade de Ciências e Tecnologia,Ciênc de Engenharia-Eng Mecânica; Eng Eletrotécnica e de Computadores (Pre),0,0,157.3,148.625,165.917,165.917
+354,1518,9123,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Mecânica,0,0,182.464,180.572,184.306,184.306
+355,400,9219,Universidade da Beira Interior,D,Psicologia,0,0,165.138,159.273,168.255,168.255
+356,400,L227,Universidade da Beira Interior,D,Inteligência Artificial e Ciência de Dados,0,0,148.135,130.5,157.588,157.588
+357,1203,L193,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Matemática Aplicada e Ciência de Dados,0,0,140.177,125.154,148.231,148.231
+358,300,9099,Universidade de Aveiro,D,Engenharia do Ambiente,0,0,132.575,107.375,149.375,149.375
+359,1508,9556,Universidade de Lisboa,Faculdade de Medicina Dentária,Higiene Oral,0,0,159.625,152.92,166.273,166.273
+360,3011,9056,Universidade de Aveiro,Instituto Superior de Contabilidade e Administração de Aveiro,Contabilidade,0,0,151.327,142.947,155.8,155.8
+361,6810,L281,ISCTE,Instituto Universitário de Lisboa (Sintra),Tecnologias Digitais Educativas,0,0,142.029,129.214,150.571,150.571
+362,3182,9152,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Gestão de Empresas,0,0,151.913,139.7,158.443,158.443
+363,602,9016,Universidade de Évora,Escola de Ciências e Tecnologia,Biotecnologia,0,0,139.42,124.84,147.24,147.24
+364,140,8031,Universidade dos Açores,Faculdade de Ciências Agrárias e do Ambiente,Ciências Farmacêuticas (Preparatórios),0,0,145.6,120.0,166.5,166.5
+365,3139,9164,Instituto Politécnico do Porto,Escola Superior de Hotelaria e Turismo,Gestão e Administração Hoteleira,0,0,159.233,150.822,163.733,163.733
+366,1307,9015,Universidade da Madeira,Faculdade de Ciências Exatas e da Engenharia,Bioquímica,0,0,137.359,120.091,151.455,151.455
+367,3034,8341,Instituto Politécnico do Cávado e do Ave,Escola Superior de Hotelaria e Turismo,Gestão de Atividades Turísticas,1,0,123.793,109.4,131.5,131.5
+368,3241,L207,Instituto Politécnico de Tomar,Escola Superior de Gestão de Tomar,Turismo e Gestão do Património Cultural,0,0,126.867,113.25,134.167,134.167
+369,1518,9089,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Civil,0,0,156.691,146.996,166.333,166.333
+370,505,9694,Universidade de Coimbra,Faculdade de Letras,Ciência da Informação,0,0,145.855,137.103,151.69,151.69
+371,3163,8407,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Engenharia da Computação Gráfica e Multimédia,0,0,136.367,120.125,145.083,145.083
+372,7110,9875,Escola Superior de Hotelaria e Turismo do Estoril,D,Direção e Gestão Hoteleira,1,0,136.561,124.036,144.911,144.911
+373,3055,9726,Instituto Politécnico de Castelo Branco,Escola Superior de Artes Aplicadas,Design de Moda e Têxtil,0,0,150.648,144.523,153.909,153.909
+374,1204,9554,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Ciências da Nutrição,0,0,142.721,125.155,160.286,160.286
+375,203,9015,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Bioquímica,0,0,136.364,117.864,146.273,146.273
+376,3045,9213,Instituto Politécnico de Bragança,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",Multimédia,0,0,132.045,110.273,143.727,143.727
+377,604,L173,Universidade de Évora,Escola de Ciências Sociais,Estudos de Filosofia e de Cultura Contemporânea,0,0,132.269,125.75,135.75,135.75
+378,605,9841,Universidade de Évora,Escola de Saúde e Desenvolvimento Humano,Reabilitação Psicomotora,0,0,141.195,127.711,148.421,148.421
+379,3163,L261,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Gastronomia e Artes Culinárias,0,0,137.273,120.818,146.091,146.091
+380,3118,9109,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Eletrotécnica,0,0,132.578,113.25,142.972,142.972
+381,604,9147,Universidade de Évora,Escola de Ciências Sociais,Gestão,0,0,159.917,154.486,162.8,162.8
+382,300,9041,Universidade de Aveiro,D,Ciências do Mar,0,0,140.783,124.733,156.833,156.833
+383,3138,9242,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Solicitadoria,0,0,163.011,150.158,169.895,169.895
+384,3011,9140,Universidade de Aveiro,Instituto Superior de Contabilidade e Administração de Aveiro,Finanças,0,0,164.185,162.7,164.95,164.95
+385,604,9219,Universidade de Évora,Escola de Ciências Sociais,Psicologia,0,0,166.824,163.782,168.418,168.418
+386,140,8086,Universidade dos Açores,Faculdade de Ciências Agrárias e do Ambiente,Medicina Veterinária (Preparatórios),0,0,158.605,136.429,170.524,170.524
+387,602,9119,Universidade de Évora,Escola de Ciências e Tecnologia,Engenharia Informática,0,0,152.461,142.295,157.902,157.902
+388,3045,9254,Instituto Politécnico de Bragança,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",Turismo,0,0,124.867,109.333,133.2,133.2
+389,7210,8149,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Dietética e Nutrição,0,0,145.14,127.64,154.535,154.535
+390,400,L331,Universidade da Beira Interior,D,Computação Criativa e Realidade Virtual,0,0,145.289,136.684,149.895,149.895
+391,3031,9869,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Contabilidade,1,0,139.484,123.613,148.0,148.0
+392,602,9143,Universidade de Évora,Escola de Ciências e Tecnologia,Geografia,0,0,141.907,132.8,146.767,146.767
+393,602,9752,Universidade de Évora,Escola de Ciências e Tecnologia,Enologia,0,0,130.0,112.714,139.286,139.286
+394,1204,9540,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Bioengenharia,0,0,152.842,131.711,164.211,164.211
+395,3102,9690,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Biomecânica,0,0,134.688,116.96,144.2,144.2
+396,7035,9504,Universidade do Algarve,Escola Superior de Saúde,Fisioterapia,0,0,156.046,141.288,163.962,163.962
+397,505,9182,Universidade de Coimbra,Faculdade de Letras,História da Arte,0,0,159.458,159.958,158.958,158.958
+398,7085,9500,Instituto Politécnico de Viseu,Escola Superior de Saúde de Viseu,Enfermagem,0,0,141.051,120.811,154.544,154.544
+399,300,9141,Universidade de Aveiro,D,Física,0,0,154.056,143.5,164.556,164.556
+400,3051,9003,Instituto Politécnico de Castelo Branco,Escola Superior Agrária de Castelo Branco,Agronomia,0,0,131.033,112.167,141.167,141.167
+401,7110,8011,Escola Superior de Hotelaria e Turismo do Estoril,D,Produção Alimentar em Restauração,1,0,119.767,109.917,126.333,126.333
+402,1202,9238,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Serviço Social,0,0,153.365,142.239,159.326,159.326
+403,300,9147,Universidade de Aveiro,D,Gestão,0,0,179.036,180.128,178.308,178.308
+404,3118,L052,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Informática e Multimédia,0,0,142.438,135.5,149.375,149.375
+405,400,9025,Universidade da Beira Interior,D,Ciências da Cultura,0,0,128.437,114.185,136.074,136.074
+406,605,L256,Universidade de Évora,Escola de Saúde e Desenvolvimento Humano,Ciências Biomédicas e da Saúde,0,0,151.464,134.679,160.464,160.464
+407,300,9096,Universidade de Aveiro,D,Engenharia de Materiais,0,0,141.52,121.2,155.067,155.067
+408,1202,9853,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Educação Básica,0,0,150.704,133.837,159.761,159.761
+409,1507,9813,Universidade de Lisboa,Faculdade de Medicina,Medicina,0,0,182.734,178.424,187.04,187.04
+410,3101,9853,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Educação Básica,0,0,148.544,138.597,153.875,153.875
+411,3163,9727,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Design do Produto,0,0,154.012,147.024,157.732,157.732
+412,1517,A001,Universidade de Lisboa,Instituto Superior de Economia e Gestão,Gestão (ensino em Inglês),0,0,177.15,176.25,178.033,178.033
+413,3131,9878,Instituto Politécnico do Porto,Escola Superior de Educação,Educação Musical,0,0,149.29,140.2,157.9,157.9
+414,1308,9026,Universidade da Madeira,Faculdade de Ciências Sociais,Ciências da Educação,0,0,144.031,132.966,153.034,153.034
+415,3143,9156,Instituto Politécnico de Santarém,Escola Superior de Gestão e Tecnologia de Santarém,Gestão de Marketing,0,0,137.932,125.684,144.491,144.491
+416,1104,9147,Universidade do Porto,Faculdade de Economia,Gestão,0,0,187.153,187.288,187.01,187.01
+417,3031,9140,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Finanças,0,0,155.453,145.406,160.813,160.813
+418,3102,A014,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Jogos Digitais e Multimédia (ensino em inglês),0,0,152.227,141.851,157.776,157.776
+419,300,9015,Universidade de Aveiro,D,Bioquímica,0,0,160.837,149.817,168.183,168.183
+420,3118,9121,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Informática e de Computadores,0,0,149.833,143.818,155.848,155.848
+421,203,9119,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Engenharia Informática,0,0,143.872,128.049,152.354,152.354
+422,1517,9081,Universidade de Lisboa,Instituto Superior de Economia e Gestão,Economia,0,0,172.476,171.405,173.523,173.523
+423,3131,L272,Instituto Politécnico do Porto,Escola Superior de Educação,Tecnologias para a Educação STEAM,0,0,135.036,120.393,142.929,142.929
+424,300,9012,Universidade de Aveiro,D,Biologia e Geologia,0,0,154.489,141.667,163.037,163.037
+425,3102,9002,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Administração Pública,0,0,145.831,135.517,151.345,151.345
+426,400,L258,Universidade da Beira Interior,D,Tecnologia e Produto de Moda Sustentável,0,0,136.7,128.0,141.333,141.333
+427,3101,L306,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Relações Humanas e Comunicação Organizacional,1,0,128.49,116.857,134.714,134.714
+428,3102,9242,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Solicitadoria,0,0,151.865,142.371,156.935,156.935
+429,400,9707,Universidade da Beira Interior,D,Ciências do Desporto,0,0,146.151,130.585,154.492,154.492
+430,3131,9084,Instituto Politécnico do Porto,Escola Superior de Educação,Educação Social,0,0,160.7,156.204,163.074,163.074
+431,7110,9995,Escola Superior de Hotelaria e Turismo do Estoril,D,Gestão do Lazer e Animação Turística,1,0,140.379,138.949,141.333,141.333
+432,400,9918,Universidade da Beira Interior,D,Estudos Portugueses e Espanhóis,0,0,137.721,126.786,143.571,143.571
+433,7220,9549,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Farmácia,0,0,154.898,140.75,162.481,162.481
+434,203,9016,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Biotecnologia,0,0,135.795,112.429,148.333,148.333
+435,1204,9015,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Bioquímica,0,0,145.575,124.176,157.059,157.059
+436,3141,L003,Instituto Politécnico de Santarém,Escola Superior Agrária de Santarém,Zootecnia,0,0,124.89,107.4,134.3,134.3
+437,7092,9500,Universidade dos Açores,Escola Superior de Saúde,Enfermagem,0,0,132.179,114.359,141.744,141.744
+438,505,9135,Universidade de Coimbra,Faculdade de Letras,Estudos Europeus,0,0,163.029,159.0,167.057,167.057
+439,1501,9071,Universidade de Lisboa,Faculdade de Arquitetura,Design de Moda,0,0,177.88,183.4,172.36,172.36
+440,7035,9549,Universidade do Algarve,Escola Superior de Saúde,Farmácia,0,0,130.92,111.76,141.2,141.2
+441,7230,9549,Instituto Politécnico do Porto,Escola Superior de Saúde,Farmácia,0,0,150.532,137.82,163.24,163.24
+442,150,9135,Universidade dos Açores,Faculdade de Ciências Sociais e Humanas,Estudos Europeus,0,0,128.959,113.941,137.0,137.0
+443,400,9257,Universidade da Beira Interior,D,Arquitetura,0,0,167.209,165.75,167.953,167.953
+444,7230,L067,Instituto Politécnico do Porto,Escola Superior de Saúde,Fisiologia Clínica,0,0,155.719,140.917,170.521,170.521
+445,7220,9861,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Saúde Ambiental,0,0,139.038,121.5,148.448,148.448
+446,3154,L100,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia do Barreiro,Tecnologias do Petróleo,0,0,128.652,109.952,138.667,138.667
+447,3036,9563,Instituto Politécnico do Cávado e do Ave,"Escola Superior de Desporto, Bem-Estar e Sistemas Biomédicos",Desporto,0,0,159.392,153.25,162.667,162.667
+448,602,9011,Universidade de Évora,Escola de Ciências e Tecnologia,Biologia,0,0,142.747,128.25,150.528,150.528
+449,3138,8097,Instituto Politécnico do Porto,Escola Superior de Tecnologia e Gestão,Ciências Empresariais,1,0,150.981,140.619,156.524,156.524
+450,602,L227,Universidade de Évora,Escola de Ciências e Tecnologia,Inteligência Artificial e Ciência de Dados,0,0,138.9,121.0,148.5,148.5
+451,902,9181,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,História,0,0,169.989,169.733,170.244,170.244
+452,1517,9147,Universidade de Lisboa,Instituto Superior de Economia e Gestão,Gestão,0,0,176.821,179.985,173.642,173.642
+453,160,8083,Universidade dos Açores,Faculdade de Ciências e Tecnologia,Ciclo Básico de Medicina,0,0,176.216,168.334,184.1,184.1
+454,3102,9119,Instituto Politécnico de Leiria,Escola Superior de Tecnologia e Gestão,Engenharia Informática,0,0,153.937,145.641,158.367,158.367
+455,400,9835,Universidade da Beira Interior,D,Matemática e Aplicações,0,0,155.5,140.714,163.429,163.429
+456,602,9910,Universidade de Évora,Escola de Ciências e Tecnologia,Engenharia de Energias Renováveis,0,0,138.45,118.75,149.0,149.0
+457,3143,9185,Instituto Politécnico de Santarém,Escola Superior de Gestão e Tecnologia de Santarém,Informática,0,0,142.373,130.367,148.8,148.8
+458,400,9147,Universidade da Beira Interior,D,Gestão,0,0,160.973,158.904,162.048,162.048
+459,1204,9012,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências da Vida e do Ambiente,Biologia e Geologia,0,0,135.467,114.0,147.0,147.0
+460,400,9075,Universidade da Beira Interior,D,Design Multimédia,0,0,151.862,147.96,153.92,153.92
+461,605,9707,Universidade de Évora,Escola de Saúde e Desenvolvimento Humano,Ciências do Desporto,0,0,142.061,135.071,145.786,145.786
+462,1514,9143,Universidade de Lisboa,Instituto de Geografia e Ordenamento do Território,Geografia,0,0,141.949,137.991,145.963,145.869
+463,902,9006,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Arqueologia,0,0,152.696,149.893,155.5,155.5
+464,3012,L346,Universidade de Aveiro,Escola Superior de Tecnologia e Gestão de Águeda,Engenharia Informática Aplicada,0,0,150.87,136.741,158.444,158.444
+465,3034,8156,Instituto Politécnico do Cávado e do Ave,Escola Superior de Hotelaria e Turismo,Gestão de Atividades Turísticas,0,0,140.059,124.818,148.227,148.227
+466,203,9003,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Agronomia,0,0,137.741,119.235,147.647,147.647
+467,400,9020,Universidade da Beira Interior,D,Ciência Política e Relações Internacionais,0,0,168.155,170.576,166.818,166.818
+468,3142,9853,Instituto Politécnico de Santarém,Escola Superior de Educação de Santarém,Educação Básica,0,0,140.913,128.574,149.128,149.128
+469,3182,9123,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Engenharia Mecânica,0,0,146.678,131.389,154.889,154.889
+470,400,9205,Universidade da Beira Interior,D,Marketing,0,0,143.423,132.907,149.07,149.07
+471,3101,9492,Instituto Politécnico de Leiria,Escola Superior de Educação e Ciências Sociais,Tradução e Interpretação: Português/Chinês - Chinês/Português,0,0,153.465,161.846,148.923,148.923
+472,7230,9504,Instituto Politécnico do Porto,Escola Superior de Saúde,Fisioterapia,0,0,169.221,163.476,174.952,174.952
+473,503,9081,Universidade de Coimbra,Faculdade de Economia,Economia,0,0,166.063,162.139,169.96,169.96
+474,3131,9807,Instituto Politécnico do Porto,Escola Superior de Educação,Tradução e Interpretação em Língua Gestual Portuguesa,0,0,150.995,144.227,154.591,154.591
+475,201,9821,Universidade do Algarve,Faculdade de Ciências Humanas e Sociais,Ciências da Educação e da Formação,0,0,139.885,124.061,148.364,148.364
+476,3131,L246,Instituto Politécnico do Porto,Escola Superior de Educação,Gestão do Património Cultural,0,0,140.893,124.822,149.511,149.511
+477,3163,L153,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Engenharia de Redes e Sistemas de Computadores,0,0,132.421,118.429,139.929,139.929
+478,300,9069,Universidade de Aveiro,D,Design,0,0,174.892,175.019,174.808,174.808
+479,902,9139,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Filosofia,0,0,171.296,172.481,170.111,170.111
+480,3182,9056,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Contabilidade,0,0,139.903,126.225,147.225,147.225
+481,604,9254,Universidade de Évora,Escola de Ciências Sociais,Turismo,0,0,136.08,126.378,141.267,141.267
+482,1202,9081,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Economia,0,0,152.523,135.028,161.906,161.906
+483,400,9740,Universidade da Beira Interior,D,Engenharia Aeronáutica,0,0,165.868,150.733,174.0,174.0
+484,902,9240,Universidade Nova de Lisboa,Faculdade de Ciências Sociais e Humanas,Sociologia,0,0,156.233,156.224,156.241,156.241
+485,3118,9089,Instituto Politécnico de Lisboa,Instituto Superior de Engenharia de Lisboa,Engenharia Civil,0,0,134.91,114.598,145.829,145.829
+486,3143,9994,Instituto Politécnico de Santarém,Escola Superior de Gestão e Tecnologia de Santarém,Gestão de Empresas,1,0,120.314,101.214,130.571,130.571
+487,400,9081,Universidade da Beira Interior,D,Economia,0,0,143.71,127.959,152.163,152.163
+488,505,8393,Universidade de Coimbra,Faculdade de Letras,Português,0,0,154.792,147.75,161.833,161.833
+489,3012,L140,Universidade de Aveiro,Escola Superior de Tecnologia e Gestão de Águeda,Gestão Pública,0,0,145.963,134.105,152.316,152.316
+490,3052,9853,Instituto Politécnico de Castelo Branco,Escola Superior de Educação de Castelo Branco,Educação Básica,0,0,140.397,127.529,147.314,147.314
+491,7003,9500,Escola Superior de Enfermagem do Porto,D,Enfermagem,0,0,162.307,150.628,173.973,173.973
+492,203,9494,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Ciências Farmacêuticas,0,0,151.326,132.0,161.7,161.7
+493,3031,L140,Instituto Politécnico do Cávado e do Ave,Escola Superior de Gestão,Gestão Pública,0,0,148.176,134.902,155.732,155.0
+494,7035,L068,Universidade do Algarve,Escola Superior de Saúde,Ciências Biomédicas Laboratoriais,0,0,152.878,138.056,160.815,160.815
+495,3082,9205,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo",Marketing,0,0,154.212,148.576,157.212,157.212
+496,1308,9081,Universidade da Madeira,Faculdade de Ciências Sociais,Economia,0,0,139.452,127.759,148.966,148.966
+497,400,9351,Universidade da Beira Interior,D,Ciências Biomédicas,0,0,158.831,143.444,167.083,167.083
+498,3151,9633,Instituto Politécnico de Setúbal,Escola Superior de Educação,Tradução e Interpretação de Língua Gestual Portuguesa,0,0,137.352,136.095,138.19,138.19
+499,7230,9861,Instituto Politécnico do Porto,Escola Superior de Saúde,Saúde Ambiental,0,0,133.729,115.571,151.886,151.886
+500,7230,9890,Instituto Politécnico do Porto,Escola Superior de Saúde,Terapia da Fala,0,0,144.784,128.189,161.378,161.378
+501,300,9194,Universidade de Aveiro,D,Línguas e Estudos Editoriais,0,0,164.944,172.24,160.08,160.08
+502,1518,L162,Universidade de Lisboa,Instituto Superior Técnico,Engenharia Naval e Oceânica,0,0,176.963,171.2,182.667,182.667
+503,3182,9994,Instituto Politécnico de Viseu,Escola Superior de Tecnologia e Gestão de Viseu,Gestão de Empresas,1,0,134.27,116.5,143.8,143.8
+504,7210,9861,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia da Saúde de Coimbra,Saúde Ambiental,0,0,125.762,109.621,134.414,134.414
+505,1203,9123,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Engenharia Mecânica,0,0,147.168,125.232,158.964,158.964
+506,3163,9751,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Engenharia Mecatrónica,0,0,124.7,111.0,132.0,132.0
+507,505,9773,Universidade de Coimbra,Faculdade de Letras,Jornalismo e Comunicação,0,0,168.5,166.154,170.846,170.846
+508,1306,9196,Universidade da Madeira,Faculdade de Artes e Humanidades,Línguas e Relações Empresariais,0,0,153.931,155.667,152.467,152.467
+509,300,9016,Universidade de Aveiro,D,Biotecnologia,0,0,171.476,165.052,175.759,175.759
+510,3142,L179,Instituto Politécnico de Santarém,Escola Superior de Educação de Santarém,Produção Multimédia em Educação,0,0,133.119,117.963,143.222,143.222
+511,3163,9723,Instituto Politécnico de Viana do Castelo,Escola Superior de Tecnologia e Gestão,Design de Ambientes,0,0,156.8,152.714,158.964,158.964
+512,1202,9803,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Teatro e Artes Performativas,0,0,133.931,116.875,143.063,143.063
+513,3143,9498,Instituto Politécnico de Santarém,Escola Superior de Gestão e Tecnologia de Santarém,Contabilidade e Fiscalidade,0,0,131.198,115.795,139.455,139.455
+514,7220,L068,Instituto Politécnico de Lisboa,Escola Superior de Tecnologia da Saúde de Lisboa,Ciências Biomédicas Laboratoriais,0,0,166.11,156.918,171.016,171.016
+515,203,9540,Universidade do Algarve,Faculdade de Ciências e Tecnologia,Bioengenharia,0,0,141.178,119.333,152.889,152.889
+516,3143,9152,Instituto Politécnico de Santarém,Escola Superior de Gestão e Tecnologia de Santarém,Gestão de Empresas,0,0,141.469,126.433,149.522,149.522
+517,1203,9104,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências e Tecnologia,Engenharia e Gestão Industrial,0,0,145.985,120.075,159.9,159.9
+518,1202,9219,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Humanas e Sociais,Psicologia,0,0,167.75,160.806,171.458,171.458
+519,300,9146,Universidade de Aveiro,D,Geologia,0,0,135.11,120.35,144.95,144.95
+520,1000,9219,Universidade do Minho,D,Psicologia,0,0,172.496,163.343,178.597,178.597
+521,3103,L257,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Design de Espaços,0,0,153.115,148.926,155.333,155.333
+522,3065,9119,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,Engenharia Informática,0,0,130.383,108.672,142.034,142.034
+523,1503,9015,Universidade de Lisboa,Faculdade de Ciências,Bioquímica,0,0,168.143,162.707,173.529,173.529
+524,3091,L034,Instituto Politécnico da Guarda,"Escola Superior de Educação, Comunicação e Desporto","Desporto, Condição Física e Saúde",0,0,131.857,114.821,141.0,141.0
+525,3061,9003,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Agronomia,0,0,137.464,116.318,148.818,148.818
+526,3023,9242,Instituto Politécnico de Beja,Escola Superior de Tecnologia e de Gestão,Solicitadoria,0,0,143.907,130.844,150.911,150.911
+527,501,9123,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia Mecânica,0,0,152.363,139.899,164.78,164.78
+528,1506,9139,Universidade de Lisboa,Faculdade de Letras,Filosofia,0,0,161.67,162.34,161.0,161.0
+529,1107,9197,Universidade do Porto,Faculdade de Letras,Línguas e Relações Internacionais,0,0,184.865,186.013,184.1,184.1
+530,6800,9257,ISCTE,Instituto Universitário de Lisboa,Arquitetura,0,0,171.118,175.265,166.961,166.961
+531,1107,9204,Universidade do Porto,Faculdade de Letras,"Línguas, Literaturas e Culturas",0,0,178.04,180.013,176.725,176.725
+532,1516,9240,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Sociologia,0,0,148.656,142.479,154.833,154.833
+533,6800,9156,ISCTE,Instituto Universitário de Lisboa,Gestão de Marketing,0,0,170.456,168.39,172.512,172.512
+534,300,L223,Universidade de Aveiro,D,Engenharia Computacional,0,0,144.932,127.5,162.32,162.32
+535,1000,L221,Universidade do Minho,D,Engenharia Aeroespacial,0,0,193.361,189.645,195.839,195.839
+536,3053,L275,Instituto Politécnico de Castelo Branco,Escola Superior de Tecnologia de Castelo Branco,Informática e Multimédia,0,0,139.65,113.0,154.0,154.0
+537,1103,9687,Universidade do Porto,Faculdade de Ciências,Bioinformática,0,0,172.423,162.983,181.8,181.8
+538,1000,9195,Universidade do Minho,D,Línguas e Literaturas Europeias,0,0,169.273,178.383,163.2,163.2
+539,1000,9113,Universidade do Minho,D,Engenharia Física,0,0,173.091,162.086,180.429,180.429
+540,507,9238,Universidade de Coimbra,Faculdade de Psicologia e de Ciências da Educação,Serviço Social,0,0,161.364,157.848,164.879,164.879
+541,1000,9146,Universidade do Minho,D,Geologia,0,0,134.4,117.15,145.9,145.9
+542,903,9123,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Mecânica,0,0,173.358,167.993,176.934,176.934
+543,1000,9381,Universidade do Minho,D,Estatística Aplicada,0,0,140.152,118.84,154.36,154.36
+544,3087,9147,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",Gestão,0,0,137.629,126.613,143.516,143.516
+545,3181,9850,Instituto Politécnico de Viseu,Escola Superior de Educação de Viseu,Desporto e Atividade Física,0,0,144.695,130.054,152.541,152.541
+546,1105,9104,Universidade do Porto,Faculdade de Engenharia,Engenharia e Gestão Industrial,0,0,190.326,186.696,193.911,193.911
+547,1000,9181,Universidade do Minho,D,História,0,0,167.34,163.767,169.721,169.721
+548,1515,9087,Universidade de Lisboa,Instituto Superior de Agronomia,Engenharia Alimentar,0,0,129.638,118.808,140.462,140.462
+549,6800,L189,ISCTE,Instituto Universitário de Lisboa,Ciência de Dados,1,0,153.813,145.633,159.267,159.267
+550,3064,L226,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Informática Industrial,0,0,132.627,114.233,142.5,142.5
+551,3112,8307,Instituto Politécnico de Lisboa,Escola Superior de Educação,Artes Visuais e Tecnologias,0,0,158.105,161.035,155.174,155.174
+552,6800,L030,ISCTE,Instituto Universitário de Lisboa,Gestão Industrial e Logística,0,0,162.77,162.75,162.775,162.775
+553,1201,9752,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Agrárias e Veterinárias,Enologia,0,0,134.413,114.522,145.087,145.087
+554,3153,9628,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Contabilidade e Finanças,0,1,137.71,131.233,141.167,141.167
+555,6800,9157,ISCTE,Instituto Universitário de Lisboa,Gestão de Recursos Humanos,0,0,169.646,171.61,167.683,167.683
+556,6800,9885,ISCTE,Instituto Universitário de Lisboa,Engenharia Informática,1,0,152.686,149.457,155.914,155.914
+557,1107,9192,Universidade do Porto,Faculdade de Letras,Línguas Aplicadas,0,0,175.239,178.967,172.754,172.754
+558,3022,9563,Instituto Politécnico de Beja,Escola Superior de Educação,Desporto,0,0,137.388,125.152,143.939,143.939
+559,3112,9876,Instituto Politécnico de Lisboa,Escola Superior de Educação,Educação Básica,1,0,145.7,137.568,153.5,153.955
+560,1103,9709,Universidade do Porto,Faculdade de Ciências,Ciências e Tecnologia do Ambiente,0,0,147.463,137.2,157.725,157.725
+561,1506,9914,Universidade de Lisboa,Faculdade de Letras,Estudos Asiáticos,0,0,153.926,151.667,156.185,156.185
+562,3032,8417,Instituto Politécnico do Cávado e do Ave,Escola Superior de Tecnologia,Engenharia de Sistemas Informáticos,1,0,147.63,135.894,153.909,153.909
+563,3125,9085,Instituto Politécnico de Portalegre,Escola Superior de Biociências de Elvas,Enfermagem Veterinária,0,0,133.52,113.817,144.1,144.1
+564,300,9123,Universidade de Aveiro,D,Engenharia Mecânica,0,0,168.262,161.252,175.218,175.218
+565,6800,9081,ISCTE,Instituto Universitário de Lisboa,Economia,0,0,170.35,168.861,171.819,171.819
+566,1502,9072,Universidade de Lisboa,Faculdade de Belas-Artes,Design de Equipamento,0,0,170.718,180.164,161.273,161.273
+567,3124,9670,Instituto Politécnico de Portalegre,"Escola Superior de Tecnologia, Gestão e Design",Administração de Publicidade e Marketing,0,0,132.477,123.774,137.129,137.129
+568,6800,8109,ISCTE,Instituto Universitário de Lisboa,Sociologia,1,0,137.714,132.514,142.914,142.914
+569,7105,9789,Escola Superior Náutica Infante D. Henrique,D,Pilotagem,0,0,166.441,161.844,168.875,168.875
+570,1110,9847,Universidade do Porto,Instituto de Ciências Biomédicas Abel Salazar,Medicina Veterinária,0,0,176.698,165.825,187.524,187.524
+571,1503,9381,Universidade de Lisboa,Faculdade de Ciências,Estatística Aplicada,0,0,153.73,150.15,157.3,157.3
+572,507,9219,Universidade de Coimbra,Faculdade de Psicologia e de Ciências da Educação,Psicologia,0,0,175.479,176.221,174.985,174.985
+573,3062,L095,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Gastronomia,0,0,150.98,128.2,163.2,163.2
+574,3134,9829,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Assessoria e Tradução,1,0,152.137,155.296,150.407,150.407
+575,1000,9688,Universidade do Minho,D,Biologia Aplicada,0,0,161.06,145.149,171.667,171.667
+576,3054,9242,Instituto Politécnico de Castelo Branco,Escola Superior de Gestão de Idanha-a-Nova,Solicitadoria,0,0,141.741,129.878,148.098,148.098
+577,6800,9219,ISCTE,Instituto Universitário de Lisboa,Psicologia,0,0,173.562,177.103,170.021,170.021
+578,1509,9847,Universidade de Lisboa,Faculdade de Medicina Veterinária,Medicina Veterinária,0,0,169.868,160.45,179.239,179.239
+579,300,L254,Universidade de Aveiro,D,Multimédia e Tecnologias da Comunicação,0,0,160.218,153.372,164.782,164.782
+580,1000,9006,Universidade do Minho,D,Arqueologia,0,0,155.86,154.975,156.45,156.45
+581,3064,9104,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia e Gestão Industrial,0,0,148.336,128.76,158.84,158.84
+582,501,9209,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Matemática,0,0,169.525,167.7,171.35,171.35
+583,3095,9255,Instituto Politécnico da Guarda,Escola Superior de Turismo e Hotelaria,Turismo e Lazer,0,0,133.8,121.0,140.667,140.667
+584,3063,L056,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Comércio e Relações Económicas Internacionais,0,0,152.567,144.5,156.861,156.861
+585,1000,9397,Universidade do Minho,D,Ciências da Computação,0,0,159.161,150.948,164.636,164.636
+586,903,9089,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Civil,0,0,149.791,134.543,159.957,159.957
+587,520,9013,Universidade de Coimbra (Campus Figueira da Foz),D,Biologia Marinha,0,0,138.042,125.458,150.583,150.583
+588,903,L286,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Tecnologia Agro-Industrial,0,0,139.126,119.0,149.921,149.921
+589,3042,8323,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Línguas Estrangeiras: Inglês e Espanhol,0,0,139.869,141.256,139.077,139.077
+590,3042,8374,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Línguas para Relações Internacionais,0,0,143.308,139.164,145.508,145.508
+591,3134,9870,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Contabilidade e Administração,1,0,141.337,122.0,151.706,151.706
+592,300,9252,Universidade de Aveiro,D,Tradução,0,0,151.846,151.314,152.2,152.2
+593,1109,9219,Universidade do Porto,Faculdade de Psicologia e de Ciências da Educação,Psicologia,0,0,173.086,167.398,178.732,178.732
+594,3054,9254,Instituto Politécnico de Castelo Branco,Escola Superior de Gestão de Idanha-a-Nova,Turismo,0,0,133.92,125.267,138.533,138.533
+595,3121,9773,Instituto Politécnico de Portalegre,Escola Superior de Educação e Ciências Sociais,Jornalismo e Comunicação,0,0,137.424,122.902,145.22,145.22
+596,6800,9238,ISCTE,Instituto Universitário de Lisboa,Serviço Social,0,0,160.231,157.577,162.885,162.885
+597,1506,9006,Universidade de Lisboa,Faculdade de Letras,Arqueologia,0,0,147.663,144.875,150.45,150.45
+598,1000,9499,Universidade do Minho,D,Design e Marketing de Moda,0,0,179.54,181.9,177.967,177.967
+599,903,9119,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Informática,0,0,172.405,173.109,171.935,171.935
+600,3022,9853,Instituto Politécnico de Beja,Escola Superior de Educação,Educação Básica,0,0,134.975,117.766,144.219,144.219
+601,1000,9205,Universidade do Minho,D,Marketing,0,0,172.698,172.644,172.733,172.733
+602,501,9099,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia do Ambiente,0,0,133.367,117.0,149.667,149.667
+603,300,L221,Universidade de Aveiro,D,Engenharia Aeroespacial,0,0,186.384,181.98,189.32,189.32
+604,1101,9554,Universidade do Porto,Faculdade de Ciências da Nutrição e da Alimentação,Ciências da Nutrição,0,0,159.126,143.362,174.846,174.846
+605,1107,9006,Universidade do Porto,Faculdade de Letras,Arqueologia,0,0,156.779,152.0,159.966,159.966
+606,3145,9808,Instituto Politécnico de Santarém,Escola Superior de Desporto de Rio Maior,Treino Desportivo,0,0,130.747,116.177,140.46,140.46
+607,903,9126,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Química e Biológica,0,0,151.669,134.716,162.97,162.97
+608,903,9096,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia de Materiais,0,0,152.209,135.826,163.13,163.13
+609,3105,9207,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Marketing Turístico,0,0,126.455,114.552,132.828,132.828
+610,3061,L009,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Ciências Florestais e Recursos Naturais,0,0,124.067,119.167,126.667,126.667
+611,3243,L297,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Abrantes,Comunicação Social: Jornalismo e Comunicação Empresarial,0,0,135.939,125.5,141.526,141.526
+612,1107,9143,Universidade do Porto,Faculdade de Letras,Geografia,0,0,160.234,155.614,163.314,163.314
+613,3113,9010,Instituto Politécnico de Lisboa,Escola Superior de Comunicação Social,Audiovisual e Multimédia,0,0,160.803,157.865,163.742,163.742
+614,1105,9123,Universidade do Porto,Faculdade de Engenharia,Engenharia Mecânica,0,0,183.779,179.274,188.238,188.238
+615,1519,9098,Universidade de Lisboa,Instituto Superior Técnico (Tagus Park),Engenharia de Telecomunicações e Informática,0,0,148.35,136.545,160.091,160.091
+616,3022,9010,Instituto Politécnico de Beja,Escola Superior de Educação,Audiovisual e Multimédia,0,0,136.597,118.531,146.281,146.281
+617,3061,L024,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Tecnologia e Gestão Ambiental,0,0,125.044,107.333,134.556,134.556
+618,3083,L209,Universidade do Algarve,Instituto Superior de Engenharia,Engenharia Eletrotécnica e de Computadores,0,0,151.636,142.636,156.455,156.455
+619,1506,9917,Universidade de Lisboa,Faculdade de Letras,Estudos Portugueses,0,0,146.525,146.35,146.7,146.7
+620,3032,8311,Instituto Politécnico do Cávado e do Ave,Escola Superior de Tecnologia,Engenharia em Desenvolvimento de Jogos Digitais,0,0,145.765,130.5,153.946,153.946
+621,3043,9112,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Engenharia Eletrotécnica e de Computadores,0,0,130.8,107.25,143.5,143.5
+622,1503,9011,Universidade de Lisboa,Faculdade de Ciências,Biologia,0,0,168.082,166.149,170.006,170.006
+623,3042,9563,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Desporto,0,0,129.569,114.196,137.804,137.804
+624,3092,9157,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Gestão de Recursos Humanos,0,0,130.622,116.5,138.196,138.196
+625,3121,9254,Instituto Politécnico de Portalegre,Escola Superior de Educação e Ciências Sociais,Turismo,0,0,124.285,112.769,130.462,130.462
+626,3054,L021,Instituto Politécnico de Castelo Branco,Escola Superior de Gestão de Idanha-a-Nova,Gestão Comercial,0,0,129.245,118.636,134.909,134.909
+627,3103,9243,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Teatro,0,0,154.517,157.625,152.792,152.792
+628,3042,9853,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Educação Básica,0,0,130.207,116.708,137.472,137.472
+629,3032,8409,Instituto Politécnico do Cávado e do Ave,Escola Superior de Tecnologia,Engenharia de Sistemas Informáticos,0,0,163.634,154.039,168.763,168.763
+630,3087,9254,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",Turismo,0,0,121.752,106.68,129.84,129.84
+631,1103,9011,Universidade do Porto,Faculdade de Ciências,Biologia,0,0,164.756,156.229,173.282,173.282
+632,3134,9867,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Comunicação Empresarial,1,0,154.446,145.0,159.5,159.5
+633,3065,L305,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,Gestão e Biociências,0,0,131.158,113.417,140.667,140.667
+634,3064,9770,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Informática (Curso Europeu),0,0,147.925,128.675,158.25,158.25
+635,501,9015,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Bioquímica,0,0,160.2,150.323,170.031,170.031
+636,3065,9058,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,Contabilidade e Administração,0,0,137.318,117.763,147.816,147.816
+637,903,9113,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Física,0,0,179.376,176.64,181.2,181.2
+638,3033,9074,Instituto Politécnico do Cávado e do Ave,Escola Superior de Design,Design Industrial,0,0,160.449,154.846,163.436,163.436
+639,300,L202,Universidade de Aveiro,D,Engenharia de Automação Industrial,0,0,137.7,122.775,152.575,152.575
+640,904,9081,Universidade Nova de Lisboa,Faculdade de Economia,Economia,0,0,183.018,185.403,180.633,180.633
+641,1516,9002,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Administração Pública,0,0,154.463,154.265,154.662,154.662
+642,170,9081,Universidade dos Açores,Faculdade de Economia e Gestão,Economia,0,0,159.0,145.929,166.0,166.0
+643,501,9146,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Geologia,0,0,125.6,111.88,139.32,139.32
+644,3042,L088,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Relações Lusófonas e Língua Portuguesa,0,0,131.1,115.667,139.333,139.333
+645,3022,9238,Instituto Politécnico de Beja,Escola Superior de Educação,Serviço Social,0,0,129.154,113.615,137.481,137.481
+646,3064,L209,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Eletrotécnica e de Computadores,0,0,139.521,121.105,149.421,149.421
+647,3065,9895,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,Gestão do Território,0,0,121.543,108.429,128.571,128.571
+648,300,L217,Universidade de Aveiro,D,Engenharia de Computadores e Informática,0,0,158.571,153.475,163.66,163.66
+649,3053,9089,Instituto Politécnico de Castelo Branco,Escola Superior de Tecnologia de Castelo Branco,Engenharia Civil,0,0,137.9,106.0,155.0,155.0
+650,1000,9012,Universidade do Minho,D,Biologia e Geologia,0,0,143.029,125.041,155.02,155.02
+651,1503,L204,Universidade de Lisboa,Faculdade de Ciências,Engenharia Biomédica e Biofísica,0,0,165.656,158.023,173.233,173.233
+652,3103,8525,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Design de Produto - Cerâmica e Vidro,0,0,151.736,155.32,149.76,149.76
+653,3042,9084,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Educação Social,0,0,130.56,117.425,137.589,137.589
+654,1000,9089,Universidade do Minho,D,Engenharia Civil,0,0,163.271,149.118,172.706,172.706
+655,1515,8377,Universidade de Lisboa,Instituto Superior de Agronomia,Engenharia Florestal e dos Recursos Naturais,0,0,134.371,120.071,148.571,148.571
+656,6800,9119,ISCTE,Instituto Universitário de Lisboa,Engenharia Informática,0,0,168.648,173.025,164.272,164.272
+657,6800,9098,ISCTE,Instituto Universitário de Lisboa,Engenharia de Telecomunicações e Informática,0,0,140.25,124.525,155.917,155.917
+658,1506,9204,Universidade de Lisboa,Faculdade de Letras,"Línguas, Literaturas e Culturas",0,0,144.298,141.33,147.217,147.217
+659,3105,9254,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Turismo,0,0,132.735,121.878,138.551,138.551
+660,3062,9254,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Turismo,0,0,146.151,133.743,152.8,152.8
+661,3181,9853,Instituto Politécnico de Viseu,Escola Superior de Educação de Viseu,Educação Básica,0,0,145.535,133.317,152.096,152.096
+662,3043,9089,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Engenharia Civil,0,0,144.65,124.5,155.5,155.5
+663,3061,9085,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Enfermagem Veterinária,0,0,160.427,148.233,166.967,166.967
+664,3103,9457,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Som e Imagem,0,0,153.976,147.0,157.687,157.687
+665,300,L209,Universidade de Aveiro,D,Engenharia Eletrotécnica e de Computadores,0,0,150.711,132.652,162.75,162.75
+666,3042,L175,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Música em Contextos Comunitários,0,0,169.1,183.0,162.0,162.0
+667,1000,9455,Universidade do Minho,D,Engenharia Biomédica,0,0,178.735,168.577,185.508,185.508
+668,1503,L079,Universidade de Lisboa,Faculdade de Ciências,Tecnologias de Informação,0,0,156.02,153.246,158.785,158.785
+669,1516,8109,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Sociologia,1,0,135.645,129.194,142.677,141.71
+670,3062,9675,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Animação Socioeducativa,0,0,139.859,120.821,150.077,150.077
+671,300,9204,Universidade de Aveiro,D,"Línguas, Literaturas e Culturas",0,0,153.386,145.179,158.857,158.857
+672,1000,9126,Universidade do Minho,D,Engenharia Química e Biológica,0,0,161.566,140.939,175.317,175.317
+673,1000,9127,Universidade do Minho,D,Engenharia Têxtil,0,0,146.691,122.5,162.818,162.818
+674,1503,9385,Universidade de Lisboa,Faculdade de Ciências,Matemática Aplicada,0,0,174.057,177.292,170.818,170.818
+675,7105,9745,Escola Superior Náutica Infante D. Henrique,D,Engenharia de Máquinas Marítimas,0,0,142.314,125.636,151.273,151.273
+676,3095,9173,Instituto Politécnico da Guarda,Escola Superior de Turismo e Hotelaria,Gestão Hoteleira,0,0,134.155,112.909,145.545,145.545
+677,3135,9125,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Química,0,0,151.062,126.481,164.283,164.283
+678,1107,9240,Universidade do Porto,Faculdade de Letras,Sociologia,0,0,164.036,154.886,170.136,170.136
+679,3053,9119,Instituto Politécnico de Castelo Branco,Escola Superior de Tecnologia de Castelo Branco,Engenharia Informática,0,0,142.134,131.938,147.594,147.594
+680,3083,L269,Universidade do Algarve,Instituto Superior de Engenharia,Engenharia de Sistemas e Tecnologias Informáticas,0,0,130.771,120.143,136.429,136.429
+681,3103,9007,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Artes Plásticas,0,0,163.335,161.981,164.019,164.019
+682,1107,9182,Universidade do Porto,Faculdade de Letras,História da Arte,0,0,162.589,159.605,164.579,164.579
+683,1515,8258,Universidade de Lisboa,Instituto Superior de Agronomia,Arquitetura Paisagista,0,0,155.786,154.857,156.714,156.714
+684,3092,L196,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Mecânica e Informática Industrial,0,0,129.847,105.067,143.133,143.133
+685,603,9257,Universidade de Évora,Escola de Artes,Arquitetura,0,0,162.058,159.556,163.361,163.361
+686,1105,9125,Universidade do Porto,Faculdade de Engenharia,Engenharia Química,0,0,173.327,163.484,183.127,183.127
+687,1000,9104,Universidade do Minho,D,Engenharia e Gestão Industrial,0,0,181.326,172.419,187.265,187.265
+688,1000,L218,Universidade do Minho,D,Engenharia Eletrónica Industrial e Computadores,0,0,141.873,121.551,155.42,155.42
+689,3145,L008,Instituto Politécnico de Santarém,Escola Superior de Desporto de Rio Maior,Atividade Física e Estilos de Vida Saudáveis,0,0,130.184,112.28,142.12,142.12
+690,1103,9385,Universidade do Porto,Faculdade de Ciências,Matemática Aplicada,0,0,177.284,176.764,177.8,177.8
+691,3092,9119,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Engenharia Informática,0,0,133.444,112.722,144.556,144.556
+692,3125,9003,Instituto Politécnico de Portalegre,Escola Superior de Biociências de Elvas,Agronomia,0,0,123.217,105.917,132.5,132.5
+693,1000,8183,Universidade do Minho,D,Geografia e Planeamento,0,0,147.335,140.37,151.978,151.978
+694,1111,9707,Universidade do Porto,Faculdade de Desporto,Ciências do Desporto,0,0,163.325,158.228,168.423,168.423
+695,1516,9448,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Antropologia,0,0,139.756,133.146,146.366,146.366
+696,3062,8093,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Animação Socioeducativa,1,0,124.787,112.533,131.333,131.333
+697,3062,9731,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Desporto e Lazer,0,0,137.367,120.2,146.567,146.567
+698,3153,9205,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Marketing,0,0,151.211,140.8,156.782,156.782
+699,3153,9630,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Gestão de Sistemas de Informação,0,0,146.962,138.043,151.725,151.725
+700,3134,9053,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Comunicação Empresarial,0,0,170.163,164.651,173.093,173.093
+701,3021,9003,Instituto Politécnico de Beja,Escola Superior Agrária,Agronomia,0,0,137.789,124.333,145.0,145.0
+702,3062,9668,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Gerontologia Social,0,0,135.207,124.293,141.049,141.049
+703,501,L285,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Gestão de Cidades Sustentáveis e Inteligentes,0,0,131.433,122.25,140.617,140.617
+704,1515,9099,Universidade de Lisboa,Instituto Superior de Agronomia,Engenharia do Ambiente,0,0,128.455,118.045,138.818,138.818
+705,6800,9147,ISCTE,Instituto Universitário de Lisboa,Gestão,0,0,173.743,174.474,173.0,173.0
+706,1109,9026,Universidade do Porto,Faculdade de Psicologia e de Ciências da Educação,Ciências da Educação,0,0,162.926,161.064,164.787,164.787
+707,1000,L112,Universidade do Minho,D,Proteção Civil e Gestão do Território,0,0,140.295,127.238,149.0,149.0
+708,501,9257,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Arquitetura,0,0,169.866,168.033,171.639,171.639
+709,501,L209,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia Eletrotécnica e de Computadores,0,0,141.297,127.068,155.47,155.47
+710,903,L167,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Matemática Aplicada à Gestão do Risco,0,0,181.482,189.227,176.318,176.318
+711,300,9455,Universidade de Aveiro,D,Engenharia Biomédica,0,0,172.534,165.357,179.657,179.657
+712,1000,9056,Universidade do Minho,D,Contabilidade,0,0,170.789,173.0,169.314,169.314
+713,7093,9500,Universidade dos Açores,Escola Superior de Saúde,Enfermagem,0,0,144.235,126.188,153.925,153.925
+714,1103,L096,Universidade do Porto,Faculdade de Ciências,Engenharia Geoespacial,0,0,129.133,105.833,152.333,152.333
+715,3065,9205,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,Marketing,0,0,141.082,129.848,147.091,147.091
+716,3121,9238,Instituto Politécnico de Portalegre,Escola Superior de Educação e Ciências Sociais,Serviço Social,0,0,128.15,113.875,135.8,135.8
+717,6800,8366,ISCTE,Instituto Universitário de Lisboa,Informática e Gestão de Empresas,1,0,156.126,153.257,158.971,158.971
+718,3043,A004,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,"Gestão de Negócios Internacionais (Curso Europeu, ensino em Inglês)",0,0,134.4,114.222,145.222,145.222
+719,3043,9147,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Gestão,0,0,141.828,127.117,149.712,149.712
+720,1105,9540,Universidade do Porto,Faculdade de Engenharia,Bioengenharia,0,0,187.887,184.245,191.469,191.469
+721,3043,L069,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Tecnologia Biomédica,0,0,137.813,111.625,151.875,151.875
+722,3063,9801,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Solicitadoria e Administração,0,0,155.626,145.439,161.076,161.076
+723,3121,8014,Instituto Politécnico de Portalegre,Escola Superior de Educação e Ciências Sociais,Serviço Social,1,0,120.05,113.5,123.5,123.5
+724,1000,8184,Universidade do Minho,D,Optometria e Ciências da Visão,0,0,140.757,117.174,156.478,156.478
+725,3124,9147,Instituto Politécnico de Portalegre,"Escola Superior de Tecnologia, Gestão e Design",Gestão,0,0,136.344,120.721,144.721,144.721
+726,170,9254,Universidade dos Açores,Faculdade de Economia e Gestão,Turismo,0,0,137.125,125.292,143.458,143.458
+727,3095,L061,Instituto Politécnico da Guarda,Escola Superior de Turismo e Hotelaria,Gestão do Turismo e da Hospitalidade,0,0,123.4,139.0,115.0,115.0
+728,1516,8363,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Administração Pública e Políticas do Território,1,0,134.432,128.838,140.027,140.027
+729,3153,8111,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Gestão de Recursos Humanos,1,0,134.328,120.326,141.826,141.826
+730,5402,9070,Universidade do Porto,Faculdade de Belas-Artes,Design de Comunicação,0,0,184.035,185.895,182.175,182.175
+731,1201,L237,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Agrárias e Veterinárias,Engenharia e Biotecnologia Florestal,0,0,147.55,121.5,161.5,161.5
+732,3063,9152,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Gestão de Empresas,0,0,163.162,157.578,166.137,166.137
+733,3095,9484,Instituto Politécnico da Guarda,Escola Superior de Turismo e Hotelaria,Restauração e Catering,0,0,129.333,119.333,134.667,134.667
+734,300,9813,Universidade de Aveiro,D,Medicina,0,0,183.37,176.168,190.575,190.575
+735,1000,9229,Universidade do Minho,D,Relações Internacionais,0,0,171.546,170.731,172.09,172.09
+736,3113,9222,Instituto Politécnico de Lisboa,Escola Superior de Comunicação Social,Publicidade e Marketing,0,0,165.283,164.933,165.633,165.633
+737,1506,8104,Universidade de Lisboa,Faculdade de Letras,"Estudos Artísticos, variante de Artes do Espetáculo",0,0,161.94,165.18,158.7,158.7
+738,1000,9209,Universidade do Minho,D,Matemática,0,0,179.036,180.818,177.848,177.848
+739,1000,L078,Universidade do Minho,D,Criminologia e Justiça Criminal,0,0,173.789,169.314,176.771,176.771
+740,3113,9231,Instituto Politécnico de Lisboa,Escola Superior de Comunicação Social,Relações Públicas e Comunicação Empresarial,0,0,159.559,156.831,162.288,162.288
+741,3063,9722,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Contabilidade e Gestão Pública,0,0,143.15,130.4,149.975,149.975
+742,3135,8316,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia de Sistemas,0,0,155.363,133.675,167.025,167.025
+743,300,9219,Universidade de Aveiro,D,Psicologia,0,0,173.924,173.606,174.242,174.242
+744,3145,9763,Instituto Politécnico de Santarém,Escola Superior de Desporto de Rio Maior,Gestão das Organizações Desportivas,0,0,139.365,125.435,148.652,148.652
+745,501,9223,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Química,0,0,152.686,138.393,166.929,166.929
+746,904,9147,Universidade Nova de Lisboa,Faculdade de Economia,Gestão,0,0,186.284,189.128,183.439,183.439
+747,1000,9078,Universidade do Minho,D,Direito,0,0,178.975,175.009,181.618,181.618
+748,3062,9898,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Arte e Design,0,0,169.309,172.121,167.758,167.758
+749,3092,L283,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Ciência de Dados e Inteligência Artificial,0,0,144.3,131.75,151.0,151.0
+750,3065,9147,Instituto Politécnico de Coimbra,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,Gestão,0,0,149.428,139.861,154.528,154.528
+751,3135,9104,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia e Gestão Industrial,0,0,179.875,166.988,186.8,186.8
+752,3023,9119,Instituto Politécnico de Beja,Escola Superior de Tecnologia e de Gestão,Engenharia Informática,0,0,138.989,122.389,147.889,147.889
+753,903,L209,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Eletrotécnica e de Computadores,0,0,146.481,129.075,158.084,158.084
+754,1502,9070,Universidade de Lisboa,Faculdade de Belas-Artes,Design de Comunicação,0,0,169.631,165.375,173.833,173.833
+755,1515,9129,Universidade de Lisboa,Instituto Superior de Agronomia,Engenharia Zootécnica,0,0,140.555,127.45,153.6,153.6
+756,3023,9994,Instituto Politécnico de Beja,Escola Superior de Tecnologia e de Gestão,Gestão de Empresas,1,0,105.55,106.5,105.0,105.0
+757,5402,8399,Universidade do Porto,Faculdade de Belas-Artes,Desenho,0,0,181.96,189.04,174.88,174.88
+758,7105,9926,Escola Superior Náutica Infante D. Henrique,D,Gestão Portuária,0,0,148.338,141.095,152.19,152.19
+759,3033,9873,Instituto Politécnico do Cávado e do Ave,Escola Superior de Design,Design Gráfico,1,0,151.379,137.929,158.571,158.571
+760,1516,9023,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Ciências da Comunicação,0,0,169.237,167.316,171.158,171.158
+761,7105,L118,Escola Superior Náutica Infante D. Henrique,D,Engenharia Eletrotécnica Marítima,0,0,154.7,139.6,162.8,162.8
+762,1000,9192,Universidade do Minho,D,Línguas Aplicadas,0,0,167.196,174.431,162.373,162.373
+763,1106,9494,Universidade do Porto,Faculdade de Farmácia,Ciências Farmacêuticas,0,0,163.537,145.103,178.594,178.594
+764,6800,9448,ISCTE,Instituto Universitário de Lisboa,Antropologia,0,0,141.481,131.667,151.296,151.296
+765,3064,9123,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Mecânica,0,0,139.076,120.744,148.933,148.933
+766,3153,9629,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Gestão da Distribuição e da Logística,0,0,142.398,132.34,147.766,147.766
+767,3134,9227,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Recursos Humanos,0,0,167.943,160.696,171.804,171.804
+768,3181,9054,Instituto Politécnico de Viseu,Escola Superior de Educação de Viseu,Comunicação Social,0,0,139.659,127.625,146.109,146.109
+769,903,9455,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Biomédica,0,0,175.165,167.412,180.333,180.333
+770,3043,9119,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Engenharia Informática,0,0,135.317,113.806,146.861,146.861
+771,1000,9015,Universidade do Minho,D,Bioquímica,0,0,167.272,153.639,176.361,176.361
+772,3062,8114,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Turismo,1,0,127.232,112.364,135.182,135.182
+773,1110,9813,Universidade do Porto,Instituto de Ciências Biomédicas Abel Salazar,Medicina,0,0,189.27,183.837,194.71,194.71
+774,3105,9848,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Animação Turística,0,0,138.286,127.857,143.857,143.857
+775,1000,9379,Universidade do Minho,D,Ciências do Ambiente,0,0,138.61,115.825,153.8,153.8
+776,1000,L188,Universidade do Minho,D,Ciência de Dados,0,0,161.37,152.242,167.455,167.455
+777,3023,9254,Instituto Politécnico de Beja,Escola Superior de Tecnologia e de Gestão,Turismo,0,0,124.048,109.238,132.0,132.0
+778,501,9119,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia Informática,0,0,165.97,164.363,167.573,167.573
+779,3181,9084,Instituto Politécnico de Viseu,Escola Superior de Educação de Viseu,Educação Social,0,0,131.162,117.172,138.656,138.656
+780,6800,8014,ISCTE,Instituto Universitário de Lisboa,Serviço Social,1,0,147.071,140.286,153.857,153.857
+781,6800,9927,ISCTE,Instituto Universitário de Lisboa,História Moderna e Contemporânea,0,0,151.882,153.029,150.735,150.735
+782,903,8036,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Conservação - Restauro,0,0,166.536,167.04,166.2,166.2
+783,3105,L131,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Gestão da Restauração e Catering,0,0,126.971,118.571,131.429,131.429
+784,906,8259,Universidade Nova de Lisboa,Instituto Superior de Estatística e Gestão de Informação,Sistemas e Tecnologias de Informação,0,0,174.056,171.86,175.209,175.209
+785,3064,9885,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Informática,1,0,137.205,122.238,145.238,145.238
+786,3091,9473,Instituto Politécnico da Guarda,"Escola Superior de Educação, Comunicação e Desporto",Educação Social Gerontológica,0,0,124.9,111.0,132.333,132.333
+787,3061,L178,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Turismo em Espaços Rurais e Naturais,0,0,120.56,106.3,128.2,128.2
+788,3113,8439,Instituto Politécnico de Lisboa,Escola Superior de Comunicação Social,Publicidade e Marketing,1,0,156.188,156.875,155.5,155.5
+789,3145,9730,Instituto Politécnico de Santarém,Escola Superior de Desporto de Rio Maior,Desporto de Natureza e Turismo Ativo,0,0,126.891,110.5,137.818,137.818
+790,502,9078,Universidade de Coimbra,Faculdade de Direito,Direito,0,0,175.635,174.847,176.424,176.424
+791,1107,9023,Universidade do Porto,Faculdade de Letras,Ciências da Comunicação,0,0,176.051,167.627,181.667,181.667
+792,1503,9113,Universidade de Lisboa,Faculdade de Ciências,Engenharia Física,0,0,168.6,164.113,173.025,173.025
+793,1503,L096,Universidade de Lisboa,Faculdade de Ciências,Engenharia Geoespacial,0,0,139.257,125.0,153.429,153.429
+794,3054,9147,Instituto Politécnico de Castelo Branco,Escola Superior de Gestão de Idanha-a-Nova,Gestão,0,0,126.316,113.839,133.0,133.0
+795,3092,9205,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Marketing,0,0,138.241,131.031,142.094,142.094
+796,3103,L127,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Programação e Produção Cultural,0,0,141.517,133.609,145.739,145.739
+797,3181,9347,Instituto Politécnico de Viseu,Escola Superior de Educação de Viseu,Artes Plásticas e Multimédia,0,0,144.578,138.489,147.822,147.822
+798,501,9011,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Biologia,0,0,153.86,145.7,162.01,162.01
+799,3134,9716,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Comércio Internacional,0,0,169.514,162.457,173.286,173.286
+800,3153,9157,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Gestão de Recursos Humanos,0,0,148.128,133.019,156.222,156.222
+801,504,9832,Universidade de Coimbra,Faculdade de Farmácia,Farmácia Biomédica,0,0,150.087,129.817,163.6,163.6
+802,3063,9061,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Contabilidade e Auditoria,0,0,146.499,135.355,152.461,152.461
+803,3105,9013,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Biologia Marinha,0,0,139.568,123.32,148.28,148.28
+804,1516,8014,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Serviço Social,1,0,142.031,135.5,148.563,148.563
+805,3153,9627,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Contabilidade e Finanças,0,0,146.711,138.0,151.368,151.368
+806,501,9141,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Física,0,0,171.21,166.925,175.45,175.45
+807,3043,9186,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Informática de Gestão,0,0,133.8,100.0,152.0,152.0
+808,1000,9123,Universidade do Minho,D,Engenharia Mecânica,0,0,176.051,166.241,182.59,182.59
+809,3053,9104,Instituto Politécnico de Castelo Branco,Escola Superior de Tecnologia de Castelo Branco,Engenharia e Gestão Industrial,0,0,132.2,99.0,150.0,150.0
+810,1105,9089,Universidade do Porto,Faculdade de Engenharia,Engenharia Civil,0,0,156.93,143.364,170.446,170.446
+811,1502,9754,Universidade de Lisboa,Faculdade de Belas-Artes,Escultura,0,0,156.764,150.218,163.255,163.255
+812,1503,9209,Universidade de Lisboa,Faculdade de Ciências,Matemática,0,0,163.8,164.04,163.56,163.56
+813,6800,9019,ISCTE,Instituto Universitário de Lisboa,Ciência Política,0,0,168.655,170.476,166.833,166.833
+814,3062,9853,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Educação Básica,0,0,155.671,142.643,162.661,162.661
+815,6800,L188,ISCTE,Instituto Universitário de Lisboa,Ciência de Dados,0,0,167.39,164.336,169.426,169.426
+816,3064,9105,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Eletromecânica,0,0,141.95,131.125,147.75,147.75
+817,1103,9015,Universidade do Porto,Faculdade de Ciências,Bioquímica,0,0,172.56,164.185,180.935,180.935
+818,903,9224,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Química Aplicada,0,0,157.893,140.933,169.2,169.2
+819,3061,9016,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Biotecnologia,0,0,140.095,116.318,152.864,152.864
+820,903,9015,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Bioquímica,0,0,168.47,162.594,172.388,172.388
+821,1000,9223,Universidade do Minho,D,Química,0,0,147.933,127.333,161.667,161.667
+822,3062,9717,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Comunicação Organizacional,0,0,153.891,142.349,160.07,160.07
+823,501,9455,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia Biomédica,0,0,172.042,164.195,179.844,179.844
+824,504,9494,Universidade de Coimbra,Faculdade de Farmácia,Ciências Farmacêuticas,0,0,161.636,142.198,174.594,174.594
+825,1103,L227,Universidade do Porto,Faculdade de Ciências,Inteligência Artificial e Ciência de Dados,0,0,188.472,189.542,187.4,187.4
+826,1502,L010,Universidade de Lisboa,Faculdade de Belas-Artes,Ciências da Arte e do Património,0,0,159.973,154.15,165.733,165.733
+827,3105,9178,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Gestão Turística e Hoteleira,0,0,133.221,114.526,143.263,143.263
+828,1105,9096,Universidade do Porto,Faculdade de Engenharia,Engenharia de Materiais,0,0,165.681,153.611,177.704,177.704
+829,3121,9853,Instituto Politécnico de Portalegre,Escola Superior de Educação e Ciências Sociais,Educação Básica,0,0,134.476,124.12,140.04,140.04
+830,3124,9119,Instituto Politécnico de Portalegre,"Escola Superior de Tecnologia, Gestão e Design",Engenharia Informática,0,0,155.043,151.071,157.143,157.143
+831,1000,8427,Universidade do Minho,D,Educação,1,0,142.856,134.0,148.76,148.76
+832,1000,9023,Universidade do Minho,D,Ciências da Comunicação,0,0,175.369,171.769,177.769,177.769
+833,1110,9708,Universidade do Porto,Instituto de Ciências Biomédicas Abel Salazar,Ciências do Meio Aquático,0,0,160.229,146.914,173.543,173.543
+834,906,L188,Universidade Nova de Lisboa,Instituto Superior de Estatística e Gestão de Informação,Ciência de Dados,0,0,181.209,182.411,180.533,180.533
+835,1000,9817,Universidade do Minho,D,Artes Visuais,0,0,172.25,177.269,167.231,167.231
+836,3064,L155,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Gestão Sustentável das Cidades,0,0,128.606,111.806,137.613,137.613
+837,3091,9652,Instituto Politécnico da Guarda,"Escola Superior de Educação, Comunicação e Desporto",Comunicação e Relações Públicas,0,0,128.503,115.459,135.486,135.486
+838,7055,9504,Instituto Politécnico de Portalegre,Escola Superior de Saúde,Fisioterapia,0,0,145.788,124.46,157.24,157.24
+839,903,9209,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Matemática,0,0,171.64,171.96,171.32,171.32
+840,300,9209,Universidade de Aveiro,D,Matemática,0,0,163.384,156.743,167.811,167.811
+841,1503,9119,Universidade de Lisboa,Faculdade de Ciências,Engenharia Informática,0,0,166.844,167.748,165.933,165.933
+842,1506,9040,Universidade de Lisboa,Faculdade de Letras,Ciências da Linguagem,0,0,143.906,140.938,146.875,146.875
+843,1516,9229,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Relações Internacionais,0,0,173.379,174.371,172.386,172.386
+844,3181,9681,Instituto Politécnico de Viseu,Escola Superior de Educação de Viseu,Artes Performativas,0,0,138.55,123.75,146.5,146.5
+845,501,9113,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia Física,0,0,163.521,156.721,170.265,170.265
+846,1506,9181,Universidade de Lisboa,Faculdade de Letras,História,0,0,165.041,167.475,162.607,162.607
+847,3042,9898,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Arte e Design,0,0,144.341,137.857,147.804,147.804
+848,3135,9098,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia de Telecomunicações e Informática,0,0,154.31,127.463,168.75,168.75
+849,1000,8494,Universidade do Minho,D,Design de Produto,0,0,168.891,164.879,172.879,172.879
+850,1000,9002,Universidade do Minho,D,Administração Pública,0,0,166.141,166.207,166.098,166.098
+851,1506,L288,Universidade de Lisboa,Faculdade de Letras,Estudos de Cultura e Comunicação Intercultural,0,0,159.991,168.232,151.75,151.75
+852,3112,L134,Instituto Politécnico de Lisboa,Escola Superior de Educação,Mediação Artística e Cultural,0,0,139.036,133.679,144.393,144.393
+853,3023,9152,Instituto Politécnico de Beja,Escola Superior de Tecnologia e de Gestão,Gestão de Empresas,0,0,135.1,120.111,143.139,143.139
+854,1506,8458,Universidade de Lisboa,Faculdade de Letras,Estudos Gerais,0,0,163.605,163.5,163.71,163.71
+855,1519,9121,Universidade de Lisboa,Instituto Superior Técnico (Tagus Park),Engenharia Informática e de Computadores,0,0,179.261,184.489,174.033,174.033
+856,501,9125,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia Química,0,0,142.161,126.457,157.826,157.826
+857,1105,L224,Universidade do Porto,Faculdade de Engenharia,Engenharia Informática e Computação,0,0,181.094,175.641,186.5,186.5
+858,3105,9016,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Biotecnologia,0,0,138.823,124.9,146.3,146.3
+859,3125,9130,Instituto Politécnico de Portalegre,Escola Superior de Biociências de Elvas,Equinicultura,0,0,139.96,117.9,151.8,151.8
+860,1000,9257,Universidade do Minho,D,Arquitetura,0,0,182.712,187.509,177.911,177.911
+861,1515,9011,Universidade de Lisboa,Instituto Superior de Agronomia,Biologia,0,0,148.482,137.618,159.289,159.289
+862,3083,9123,Universidade do Algarve,Instituto Superior de Engenharia,Engenharia Mecânica,0,0,151.814,140.679,157.786,157.786
+863,504,9819,Universidade de Coimbra,Faculdade de Farmácia,Ciências Bioanalíticas,0,0,141.104,115.87,157.926,157.926
+864,1502,8399,Universidade de Lisboa,Faculdade de Belas-Artes,Desenho,0,0,172.637,170.537,174.685,174.685
+865,3063,8519,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Secretariado de Direção e Administração,0,0,147.318,145.364,149.273,149.273
+866,1000,9096,Universidade do Minho,D,Engenharia de Materiais,0,0,151.785,131.741,165.148,165.148
+867,3092,L335,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Design de Equipamento e Ambientes,0,0,140.847,132.737,145.158,145.158
+868,3103,8126,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Design Gráfico e Multimédia,1,0,140.833,131.233,145.967,145.967
+869,1107,9040,Universidade do Porto,Faculdade de Letras,Ciências da Linguagem,0,0,152.925,145.0,158.208,158.208
+870,5402,9007,Universidade do Porto,Faculdade de Belas-Artes,Artes Plásticas,0,0,180.766,181.719,179.813,179.813
+871,1320,9500,Universidade da Madeira,Escola Superior de Saúde,Enfermagem,0,0,154.131,135.442,172.808,172.808
+872,3063,L023,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Marketing e Negócios Internacionais,0,0,155.905,148.534,159.828,159.828
+873,1107,L251,Universidade do Porto,Faculdade de Letras,Literatura e Estudos Interartes,0,0,164.7,154.714,171.357,171.357
+874,3092,9056,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Contabilidade,0,0,125.813,112.875,132.75,132.75
+875,1103,9146,Universidade do Porto,Faculdade de Ciências,Geologia,0,0,139.348,123.545,155.152,155.152
+876,1506,9133,Universidade de Lisboa,Faculdade de Letras,Estudos Clássicos,0,0,138.684,126.105,151.263,151.263
+877,1000,9813,Universidade do Minho,D,Medicina,0,0,187.129,181.822,192.443,192.443
+878,1506,8413,Universidade de Lisboa,Faculdade de Letras,Artes e Humanidades,0,0,152.008,147.159,156.857,156.857
+879,3105,8514,Instituto Politécnico de Leiria,Escola Superior de Turismo e Tecnologia do Mar,Gestão de Eventos,0,0,135.588,120.192,143.846,143.846
+880,3064,9455,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Biomédica,0,0,150.829,130.354,161.833,161.833
+881,1103,8258,Universidade do Porto,Faculdade de Ciências,Arquitetura Paisagista,0,0,162.86,157.68,168.04,168.04
+882,3091,9853,Instituto Politécnico da Guarda,"Escola Superior de Educação, Comunicação e Desporto",Educação Básica,0,0,133.68,119.571,141.257,141.257
+883,3113,8438,Instituto Politécnico de Lisboa,Escola Superior de Comunicação Social,Relações Públicas e Comunicação Empresarial,1,0,151.172,145.966,156.379,156.379
+884,300,9351,Universidade de Aveiro,D,Ciências Biomédicas,0,0,177.368,172.182,182.506,182.506
+885,3124,9991,Instituto Politécnico de Portalegre,"Escola Superior de Tecnologia, Gestão e Design",Gestão,1,0,129.9,111.0,140.0,140.0
+886,501,9448,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Antropologia,0,0,134.989,125.745,144.234,144.234
+887,3063,8029,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Finanças e Contabilidade,0,0,150.674,145.742,153.29,153.29
+888,3091,8339,Instituto Politécnico da Guarda,"Escola Superior de Educação, Comunicação e Desporto",Comunicação Multimédia,0,0,132.117,122.886,137.057,137.057
+889,3124,L308,Instituto Politécnico de Portalegre,"Escola Superior de Tecnologia, Gestão e Design",Design de Animação,0,0,156.113,154.563,156.906,156.906
+890,3043,9123,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Engenharia Mecânica,0,0,136.2,117.0,146.5,146.5
+891,3134,L070,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Criatividade e Inovação Empresarial,0,0,163.194,159.0,165.406,165.406
+892,3135,9089,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Civil,0,0,148.806,123.667,162.333,162.333
+893,300,9196,Universidade de Aveiro,D,Línguas e Relações Empresariais,0,0,161.408,153.211,166.873,166.873
+894,1000,9141,Universidade do Minho,D,Física,0,0,142.213,129.733,150.533,150.533
+895,1516,8364,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Relações Internacionais,1,0,158.75,156.315,161.185,161.185
+896,1502,9904,Universidade de Lisboa,Faculdade de Belas-Artes,Arte Multimédia,0,0,161.219,156.692,165.685,165.685
+897,3103,9729,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Design Gráfico e Multimédia,0,0,159.449,158.123,160.123,160.123
+898,502,8067,Universidade de Coimbra,Faculdade de Direito,Administração Público-Privada,0,0,171.69,175.452,167.929,167.929
+899,1000,9853,Universidade do Minho,D,Educação Básica,0,0,162.965,152.508,169.935,169.935
+900,1503,9146,Universidade de Lisboa,Faculdade de Ciências,Geologia,0,0,144.372,135.892,152.851,152.851
+901,6800,9240,ISCTE,Instituto Universitário de Lisboa,Sociologia,0,0,154.23,150.984,157.476,157.476
+902,903,9116,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia Geológica,0,0,144.825,124.875,158.125,158.125
+903,1103,9696,Universidade do Porto,Faculdade de Ciências,Ciência de Computadores,0,0,171.781,169.281,174.281,174.281
+904,1000,9139,Universidade do Minho,D,Filosofia,0,0,160.844,153.556,165.704,165.704
+905,1506,9182,Universidade de Lisboa,Faculdade de Letras,História da Arte,0,0,157.634,158.878,156.39,156.39
+906,1000,9147,Universidade do Minho,D,Gestão,0,0,180.964,178.309,182.734,182.734
+907,1503,9212,Universidade de Lisboa,Faculdade de Ciências,"Meteorologia, Oceanografia e Geofísica",0,0,128.896,115.522,142.261,142.261
+908,3087,9148,Universidade do Algarve,"Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",Gestão,0,1,125.9,114.167,132.167,132.167
+909,3113,9191,Instituto Politécnico de Lisboa,Escola Superior de Comunicação Social,Jornalismo,0,0,164.098,159.902,168.295,168.295
+910,1000,9134,Universidade do Minho,D,Estudos Culturais,0,0,158.295,157.238,159.0,159.0
+911,1000,L147,Universidade do Minho,D,Estudos Orientais: Estudos Chineses e Japoneses,0,0,157.735,162.1,154.825,154.825
+912,3062,9894,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Comunicação e Design Multimédia,0,0,154.615,138.026,163.513,163.513
+913,3181,9930,Instituto Politécnico de Viseu,Escola Superior de Educação de Viseu,Publicidade e Relações Públicas,0,0,136.697,124.735,143.103,143.103
+914,300,9853,Universidade de Aveiro,D,Educação Básica,0,0,155.384,149.96,160.76,160.76
+915,3083,9089,Universidade do Algarve,Instituto Superior de Engenharia,Engenharia Civil,0,0,156.371,142.429,163.857,163.857
+916,1105,L236,Universidade do Porto,Faculdade de Engenharia,Engenharia de Minas e Geo-Ambiente,0,0,133.5,117.75,149.2,149.2
+917,3063,L310,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Ciência de Dados para a Gestão,0,0,144.389,127.972,153.194,153.194
+918,1515,9086,Universidade de Lisboa,Instituto Superior de Agronomia,Engenharia Agronómica,0,0,140.452,130.022,150.826,150.826
+919,1000,8358,Universidade do Minho,D,Direito,1,0,171.375,164.438,176.0,176.0
+920,3061,L003,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Zootecnia,0,0,141.338,128.0,148.5,148.5
+921,1201,9086,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Agrárias e Veterinárias,Engenharia Agronómica,0,0,141.0,124.0,150.125,150.125
+922,911,9078,Universidade Nova de Lisboa,Faculdade de Direito,Direito,0,0,179.228,174.035,182.69,182.69
+923,1506,9135,Universidade de Lisboa,Faculdade de Letras,Estudos Europeus,0,0,159.895,160.316,159.474,159.474
+924,1516,9019,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Ciência Política,0,0,165.933,167.756,164.111,164.111
+925,1506,L097,Universidade de Lisboa,Faculdade de Letras,Estudos Comparatistas,0,0,137.063,129.25,144.875,144.875
+926,1516,8111,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Gestão de Recursos Humanos,1,0,149.577,145.712,153.442,153.442
+927,3061,L015,Instituto Politécnico de Coimbra,Escola Superior Agrária de Coimbra,Tecnologia Alimentar,0,0,128.775,107.625,140.125,140.125
+928,3064,9119,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Informática,0,0,154.438,145.029,159.464,159.464
+929,3243,9123,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Abrantes,Engenharia Mecânica,0,0,132.3,125.5,136.0,136.0
+930,1000,9785,Universidade do Minho,D,Negócios Internacionais,0,0,170.394,160.794,176.794,176.794
+931,300,L187,Universidade de Aveiro,D,Gestão e Planeamento em Turismo,0,0,151.446,143.577,156.692,156.692
+932,1503,9226,Universidade de Lisboa,Faculdade de Ciências,Química Tecnológica,0,0,132.808,119.208,146.333,146.333
+933,170,9147,Universidade dos Açores,Faculdade de Economia e Gestão,Gestão,0,0,143.658,128.511,151.778,151.778
+934,603,9069,Universidade de Évora,Escola de Artes,Design,0,0,165.311,165.541,165.162,165.162
+935,1519,9104,Universidade de Lisboa,Instituto Superior Técnico (Tagus Park),Engenharia e Gestão Industrial,0,0,176.477,172.432,180.469,180.469
+936,1103,9209,Universidade do Porto,Faculdade de Ciências,Matemática,0,0,181.47,182.598,180.339,180.339
+937,1502,9790,Universidade de Lisboa,Faculdade de Belas-Artes,Pintura,0,0,172.541,169.295,175.732,175.732
+938,206,9351,Universidade do Algarve,Faculdade de Medicina e Ciências Biomédicas,Ciências Biomédicas,0,0,160.755,144.991,169.226,169.226
+939,501,9891,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Design e Multimédia,0,0,163.838,168.743,158.932,158.932
+940,300,9223,Universidade de Aveiro,D,Química,0,0,158.733,151.833,163.333,163.333
+941,1000,9243,Universidade do Minho,D,Teatro,0,0,157.338,156.808,157.692,157.692
+942,1000,9353,Universidade do Minho,D,Educação,0,0,156.335,147.288,162.365,162.365
+943,1503,L214,Universidade de Lisboa,Faculdade de Ciências,Engenharia da Energia e Ambiente,0,0,140.229,127.786,152.619,152.619
+944,3042,9933,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Animação e Produção Artística,0,0,138.762,131.0,142.905,142.905
+945,1309,8083,Universidade da Madeira,Faculdade de Ciências da Vida,Ciclo Básico de Medicina,0,0,181.629,174.345,188.921,188.921
+946,603,9243,Universidade de Évora,Escola de Artes,Teatro,0,0,150.418,149.409,150.909,150.909
+947,1506,9131,Universidade de Lisboa,Faculdade de Letras,Estudos Africanos,0,0,131.452,125.952,136.952,136.952
+948,1000,9917,Universidade do Minho,D,Estudos Portugueses,0,0,147.294,136.344,154.594,154.594
+949,1516,9157,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Gestão de Recursos Humanos,0,0,161.152,161.864,160.439,160.439
+950,903,L231,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia de Micro e Nanotecnologias,0,0,139.256,123.977,149.442,149.442
+951,3091,9563,Instituto Politécnico da Guarda,"Escola Superior de Educação, Comunicação e Desporto",Desporto,0,0,131.612,114.353,140.863,140.863
+952,501,9089,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia Civil,0,0,140.187,125.141,155.179,155.179
+953,501,9104,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia e Gestão Industrial,0,0,165.218,155.018,175.368,175.368
+954,1000,9240,Universidade do Minho,D,Sociologia,0,0,154.94,145.825,161.018,161.018
+955,3092,9855,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Energia e Ambiente,0,0,113.9,97.0,123.0,123.0
+956,501,8408,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Química Medicinal,0,0,136.057,119.571,152.5,152.5
+957,903,9099,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia do Ambiente,0,0,145.244,131.319,154.528,154.528
+958,1000,9098,Universidade do Minho,D,Engenharia de Telecomunicações e Informática,0,0,137.406,114.389,152.75,152.75
+959,903,9348,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Biologia Celular e Molecular,0,0,177.031,171.538,180.692,180.692
+960,3032,9104,Instituto Politécnico do Cávado e do Ave,Escola Superior de Tecnologia,Engenharia e Gestão Industrial,0,0,149.238,127.906,160.688,160.688
+961,3092,9147,Instituto Politécnico da Guarda,Escola Superior de Tecnologia e Gestão,Gestão,0,0,133.982,117.982,142.564,142.564
+962,603,9347,Universidade de Évora,Escola de Artes,Artes Plásticas e Multimédia,0,0,152.553,160.118,148.441,148.441
+963,1105,9099,Universidade do Porto,Faculdade de Engenharia,Engenharia do Ambiente,0,0,153.824,138.5,169.088,169.088
+964,1000,9081,Universidade do Minho,D,Economia,0,0,176.074,171.863,178.881,178.881
+965,3091,9005,Instituto Politécnico da Guarda,"Escola Superior de Educação, Comunicação e Desporto",Animação Sociocultural,0,0,127.744,114.444,134.889,134.889
+966,508,9707,Universidade de Coimbra,Faculdade de Ciências do Desporto e Educação Física,Ciências do Desporto,0,0,147.088,129.236,156.667,156.667
+967,3064,9089,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Engenharia Civil,0,0,135.379,112.429,147.714,147.714
+968,3103,9074,Instituto Politécnico de Leiria,Escola Superior de Artes e Design,Design Industrial,0,0,154.689,149.464,157.464,157.464
+969,1105,L209,Universidade do Porto,Faculdade de Engenharia,Engenharia Eletrotécnica e de Computadores,0,0,164.215,153.415,174.965,174.965
+970,1503,9223,Universidade de Lisboa,Faculdade de Ciências,Química,0,0,161.1,154.037,168.111,168.111
+971,3054,9002,Instituto Politécnico de Castelo Branco,Escola Superior de Gestão de Idanha-a-Nova,Administração Pública,0,0,126.85,113.833,133.833,133.833
+972,3243,L143,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Abrantes,Informática e Tecnologias Multimédia,0,0,132.35,109.75,144.5,144.5
+973,501,L192,Universidade de Coimbra,Faculdade de Ciências e Tecnologia,Engenharia e Ciência de Dados,0,0,160.095,153.463,166.725,166.725
+974,3134,9866,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Comércio Internacional,1,0,154.1,145.292,158.792,158.792
+975,1516,9238,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Serviço Social,0,0,151.318,147.145,155.491,155.491
+976,1102,9257,Universidade do Porto,Faculdade de Arquitetura,Arquitetura,0,0,187.859,192.863,182.855,182.855
+977,3032,L181,Instituto Politécnico do Cávado e do Ave,Escola Superior de Tecnologia,Engenharia Informática Médica,0,0,141.762,128.327,148.962,148.962
+978,906,9155,Universidade Nova de Lisboa,Instituto Superior de Estatística e Gestão de Informação,Gestão de Informação,0,0,177.55,180.197,176.091,176.091
+979,3112,9005,Instituto Politécnico de Lisboa,Escola Superior de Educação,Animação Sociocultural,0,0,144.259,139.862,148.655,148.655
+980,3121,9084,Instituto Politécnico de Portalegre,Escola Superior de Educação e Ciências Sociais,Educação Social,0,0,128.66,113.24,136.92,136.92
+981,3135,9110,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Eletrotécnica - Sistemas Elétricos de Energia,0,0,143.849,118.944,157.244,157.244
+982,7105,9924,Escola Superior Náutica Infante D. Henrique,D,Gestão de Transportes e Logística,0,0,144.527,136.463,148.829,148.829
+983,3042,9082,Instituto Politécnico de Bragança,Escola Superior de Educação de Bragança,Educação Ambiental,0,0,138.133,116.667,149.667,149.667
+984,3033,L260,Instituto Politécnico do Cávado e do Ave,Escola Superior de Design,Design Audiovisual,0,0,163.642,157.871,166.71,166.71
+985,3134,9043,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Ciências e Tecnologias da Documentação e Informação,0,0,152.232,141.4,158.04,158.04
+986,3134,9009,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Assessoria e Tradução,0,0,164.305,167.127,162.745,162.745
+987,3032,9112,Instituto Politécnico do Cávado e do Ave,Escola Superior de Tecnologia,Engenharia Eletrotécnica e de Computadores,0,0,132.842,111.868,144.105,144.105
+988,3135,9117,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Geotécnica e Geoambiente,0,0,135.227,111.467,148.0,148.0
+989,3063,9186,Instituto Politécnico de Coimbra,Instituto Superior de Contabilidade e Administração de Coimbra,Informática de Gestão,0,0,142.266,127.098,150.39,150.39
+990,3145,L034,Instituto Politécnico de Santarém,Escola Superior de Desporto de Rio Maior,"Desporto, Condição Física e Saúde",0,0,133.848,118.44,144.121,144.121
+991,3062,8342,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Comunicação Organizacional,1,0,139.237,122.148,148.407,148.407
+992,6800,9189,ISCTE,Instituto Universitário de Lisboa,Informática e Gestão de Empresas,0,0,166.385,168.925,163.833,163.833
+993,7105,9121,Escola Superior Náutica Infante D. Henrique,D,Engenharia Informática e de Computadores,0,0,138.35,118.458,149.028,149.028
+994,300,L298,Universidade de Aveiro,D,"Meteorologia, Oceanografia e Clima",0,0,134.029,119.118,148.941,148.941
+995,1000,9019,Universidade do Minho,D,Ciência Política,0,0,164.903,160.935,167.548,167.548
+996,1000,L229,Universidade do Minho,D,Engenharia de Polímeros,0,0,143.53,121.975,157.9,157.9
+997,6800,8029,ISCTE,Instituto Universitário de Lisboa,Finanças e Contabilidade,0,0,165.599,163.382,167.792,167.792
+998,3043,9056,Instituto Politécnico de Bragança,Escola Superior de Tecnologia e de Gestão de Bragança,Contabilidade,0,0,125.341,109.415,133.878,133.878
+999,3153,9993,Instituto Politécnico de Setúbal,Escola Superior de Ciências Empresariais,Gestão da Distribuição e da Logística,1,0,128.388,116.122,134.959,134.959
+1000,1107,9694,Universidade do Porto,Faculdade de Letras,Ciência da Informação,0,0,154.383,144.745,160.809,160.809
+1001,3062,9054,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Comunicação Social,0,0,158.308,144.342,165.789,165.789
+1002,1516,8102,Universidade de Lisboa,Instituto Superior de Ciências Sociais e Políticas,Administração Pública,1,0,142.134,137.22,147.049,147.049
+1003,3112,9853,Instituto Politécnico de Lisboa,Escola Superior de Educação,Educação Básica,0,0,158.484,154.278,162.644,162.644
+1004,1000,9119,Universidade do Minho,D,Engenharia Informática,0,0,178.411,177.606,178.947,178.947
+1005,1000,L215,Universidade do Minho,D,Engenharia e Gestão de Sistemas de Informação,0,0,157.643,145.191,165.943,165.943
+1006,1519,9912,Universidade de Lisboa,Instituto Superior Técnico (Tagus Park),Engenharia Eletrónica,0,0,143.871,132.625,155.083,155.083
+1007,3064,9540,Instituto Politécnico de Coimbra,Instituto Superior de Engenharia de Coimbra,Bioengenharia,0,0,151.293,133.857,160.643,160.643
+1008,7055,9500,Instituto Politécnico de Portalegre,Escola Superior de Saúde,Enfermagem,0,0,130.785,114.063,139.75,139.75
+1009,1103,9086,Universidade do Porto,Faculdade de Ciências,Engenharia Agronómica,0,0,134.492,114.542,154.417,154.417
+1010,3033,9470,Instituto Politécnico do Cávado e do Ave,Escola Superior de Design,Design Gráfico,0,0,167.97,165.773,169.114,169.114
+1011,3134,8005,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Marketing,1,0,157.293,142.655,165.138,165.138
+1012,507,9026,Universidade de Coimbra,Faculdade de Psicologia e de Ciências da Educação,Ciências da Educação,0,0,155.61,154.192,157.027,157.027
+1013,1107,9181,Universidade do Porto,Faculdade de Letras,História,0,0,174.766,173.481,175.623,175.623
+1014,7055,9556,Instituto Politécnico de Portalegre,Escola Superior de Saúde,Higiene Oral,0,0,141.653,122.5,151.933,151.933
+1015,903,9104,Universidade Nova de Lisboa,Faculdade de Ciências e Tecnologia,Engenharia e Gestão Industrial,0,0,168.345,159.591,174.182,174.182
+1016,1103,9223,Universidade do Porto,Faculdade de Ciências,Química,0,0,145.955,126.0,165.85,165.85
+1017,1103,9113,Universidade do Porto,Faculdade de Ciências,Engenharia Física,0,0,166.378,156.3,176.4,176.4
+1018,1201,9129,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Agrárias e Veterinárias,Engenharia Zootécnica,0,0,148.8,126.125,161.0,161.0
+1019,1503,9141,Universidade de Lisboa,Faculdade de Ciências,Física,0,0,168.828,161.75,175.875,175.875
+1020,3062,9774,Instituto Politécnico de Coimbra,Escola Superior de Educação de Coimbra,Língua Gestual Portuguesa,0,0,132.381,119.226,139.419,139.419
+1021,1201,9847,Universidade de Trás-os-Montes e Alto Douro,Escola de Ciências Agrárias e Veterinárias,Medicina Veterinária,0,0,170.263,151.661,180.269,180.269
+1022,1309,9011,Universidade da Madeira,Faculdade de Ciências da Vida,Biologia,0,0,134.345,120.15,145.9,145.9
+1023,1105,L221,Universidade do Porto,Faculdade de Engenharia,Engenharia Aeroespacial,0,0,193.107,191.333,194.833,194.833
+1024,3134,9205,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Marketing,0,0,167.824,158.711,172.689,172.689
+1025,1103,9141,Universidade do Porto,Faculdade de Ciências,Física,0,0,164.371,153.676,175.029,175.029
+1026,1506,9252,Universidade de Lisboa,Faculdade de Letras,Tradução,0,0,153.892,153.695,154.034,154.034
+1027,3134,9058,Instituto Politécnico do Porto,Instituto Superior de Contabilidade e Administração do Porto,Contabilidade e Administração,0,0,158.749,148.947,163.991,163.991
+1028,1107,9139,Universidade do Porto,Faculdade de Letras,Filosofia,0,0,162.429,157.236,165.891,165.891
+1029,3124,9070,Instituto Politécnico de Portalegre,"Escola Superior de Tecnologia, Gestão e Design",Design de Comunicação,0,0,134.422,125.926,138.963,138.963
+1030,3161,9003,Instituto Politécnico de Viana do Castelo,Escola Superior Agrária,Agronomia,0,0,135.963,108.188,150.875,150.875
+1031,3162,9853,Instituto Politécnico de Viana do Castelo,Escola Superior de Educação,Educação Básica,0,0,151.744,138.492,158.869,158.869
+1032,7040,9549,Instituto Politécnico da Guarda,Escola Superior de Saúde da Guarda,Farmácia,0,0,127.035,110.941,137.765,137.765
+1033,3135,9123,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Mecânica,0,0,170.681,156.229,178.442,178.442
+1034,3152,L124,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,Tecnologias do Ambiente e do Mar,0,0,129.106,110.969,138.844,138.844
+1035,7080,9500,Universidade de Trás-os-Montes e Alto Douro,Escola Superior de Saúde,Enfermagem,0,0,148.808,126.858,163.442,163.442
+1036,3152,9092,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,"Engenharia de Automação, Controlo e Instrumentação",0,0,135.0,111.5,147.667,147.667
+1037,7020,L068,Instituto Politécnico de Castelo Branco,Escola Superior de Saúde Dr. Lopes Dias,Ciências Biomédicas Laboratoriais,0,0,136.263,114.542,147.917,147.917
+1038,3242,9644,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Tomar,Design e Tecnologia das Artes Gráficas,0,0,138.276,132.826,141.174,141.174
+1039,7040,L101,Instituto Politécnico da Guarda,Escola Superior de Saúde da Guarda,Biotecnologia Medicinal,0,0,125.671,112.857,134.214,134.214
+1040,3242,9645,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Tomar,Fotografia,0,0,139.9,132.032,144.097,144.097
+1041,7015,9500,Instituto Politécnico de Bragança,Escola Superior de Saúde de Bragança,Enfermagem,0,0,142.87,115.49,157.58,157.58
+1042,3135,9455,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Biomédica,0,0,175.545,159.265,184.286,184.286
+1043,3152,L069,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,Tecnologia Biomédica,0,0,140.849,121.633,151.163,151.163
+1044,3242,L142,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Tomar,Tecnologia Química,0,0,145.75,135.0,151.5,151.5
+1045,3331,9213,Instituto Politécnico do Porto,Escola Superior de Media Artes e Design,Multimédia,0,0,170.056,159.24,175.84,175.84
+1046,7075,9500,Instituto Politécnico de Viana do Castelo,Escola Superior de Saúde,Enfermagem,0,0,148.976,134.664,163.271,163.271
+1047,3152,9112,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,Engenharia Eletrotécnica e de Computadores,0,0,129.45,112.5,138.5,138.5
+1048,3165,9731,Instituto Politécnico de Viana do Castelo,Escola Superior de Desporto e Lazer,Desporto e Lazer,0,0,139.772,125.887,147.211,147.211
+1049,3331,9645,Instituto Politécnico do Porto,Escola Superior de Media Artes e Design,Fotografia,0,0,160.855,148.35,167.55,167.55
+1050,7030,9500,Universidade de Évora,Escola Superior de Enfermagem de São João de Deus,Enfermagem,0,0,148.523,132.5,157.123,157.123
+1051,3162,9473,Instituto Politécnico de Viana do Castelo,Escola Superior de Educação,Educação Social Gerontológica,0,0,134.219,119.538,142.077,142.077
+1052,7020,9500,Instituto Politécnico de Castelo Branco,Escola Superior de Saúde Dr. Lopes Dias,Enfermagem,0,0,143.778,120.157,156.463,156.463
+1053,7020,L066,Instituto Politécnico de Castelo Branco,Escola Superior de Saúde Dr. Lopes Dias,Imagem Médica e Radioterapia,0,0,140.963,119.958,152.25,152.25
+1054,7002,9500,Escola Superior de Enfermagem de Lisboa,D,Enfermagem,0,0,158.289,148.33,164.928,164.928
+1055,3161,9085,Instituto Politécnico de Viana do Castelo,Escola Superior Agrária,Enfermagem Veterinária,0,0,150.703,129.914,161.857,161.857
+1056,3242,9119,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Tomar,Engenharia Informática,0,0,132.35,107.411,145.75,145.75
+1057,3152,9123,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,Engenharia Mecânica,0,0,134.529,116.794,144.059,144.059
+1058,3161,9016,Instituto Politécnico de Viana do Castelo,Escola Superior Agrária,Biotecnologia,0,0,133.707,112.037,145.333,145.333
+1059,7015,9833,Instituto Politécnico de Bragança,Escola Superior de Saúde de Bragança,Gerontologia,0,0,131.3,102.0,147.0,147.0
+1060,7040,9500,Instituto Politécnico da Guarda,Escola Superior de Saúde da Guarda,Enfermagem,0,0,130.096,108.5,144.493,144.493
+1061,7045,9500,Instituto Politécnico de Leiria,Escola Superior de Saúde,Enfermagem,0,0,145.167,129.959,155.306,155.306
+1062,3135,9936,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Mecânica Automóvel,0,0,158.491,140.081,168.372,168.372
+1063,7010,9500,Universidade do Minho,Escola Superior de Enfermagem,Enfermagem,0,0,163.851,153.7,173.988,173.988
+1064,3152,9119,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,Engenharia Informática,0,0,151.82,136.557,160.0,160.0
+1065,7015,9501,Instituto Politécnico de Bragança,Escola Superior de Saúde de Bragança,Enfermagem (entrada no 2.º semestre),0,0,130.722,107.848,143.0,143.0
+1066,3135,L089,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Biorrecursos,0,0,154.614,136.893,164.107,164.107
+1067,7045,9504,Instituto Politécnico de Leiria,Escola Superior de Saúde,Fisioterapia,0,0,158.853,146.544,167.059,167.059
+1068,3331,9713,Instituto Politécnico do Porto,Escola Superior de Media Artes e Design,Cinema e Audiovisual,0,0,163.568,165.5,171.071,171.071
+1069,3162,L284,Instituto Politécnico de Viana do Castelo,Escola Superior de Educação,Artes e Cinema Digital,0,0,152.545,142.9,157.7,157.7
+1070,3331,L071,Instituto Politécnico do Porto,Escola Superior de Media Artes e Design,Tecnologias e Sistemas de Informação para a Web,0,0,144.226,121.059,156.647,156.647
+1071,3135,9112,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Eletrotécnica e de Computadores,0,0,151.953,128.344,164.647,164.647
+1072,3242,9380,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Tomar,Conservação e Restauro,0,0,150.236,142.212,154.515,154.515
+1073,7020,L067,Instituto Politécnico de Castelo Branco,Escola Superior de Saúde Dr. Lopes Dias,Fisiologia Clínica,0,0,140.581,118.038,152.654,152.654
+1074,3135,9119,Instituto Politécnico do Porto,Instituto Superior de Engenharia do Porto,Engenharia Informática,0,0,173.409,169.955,175.229,175.229
+1075,7015,8149,Instituto Politécnico de Bragança,Escola Superior de Saúde de Bragança,Dietética e Nutrição,0,0,129.067,105.024,142.0,142.0
+1076,3242,9112,Instituto Politécnico de Tomar,Escola Superior de Tecnologia de Tomar,Engenharia Eletrotécnica e de Computadores,0,0,154.5,140.5,162.0,162.0
+1077,7015,L068,Instituto Politécnico de Bragança,Escola Superior de Saúde de Bragança,Ciências Biomédicas Laboratoriais,0,0,131.117,109.862,142.517,142.517
+1078,3152,9862,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,Tecnologia e Gestão Industrial,0,1,126.493,117.067,131.533,131.533
+1079,7015,9504,Instituto Politécnico de Bragança,Escola Superior de Saúde de Bragança,Fisioterapia,0,0,152.65,127.792,166.0,166.0
+1080,7045,9890,Instituto Politécnico de Leiria,Escola Superior de Saúde,Terapia da Fala,0,0,143.308,127.788,153.654,153.654
+1081,7015,9549,Instituto Politécnico de Bragança,Escola Superior de Saúde de Bragança,Farmácia,0,0,130.669,111.962,140.692,140.692
+1082,7020,9504,Instituto Politécnico de Castelo Branco,Escola Superior de Saúde Dr. Lopes Dias,Fisioterapia,0,0,156.354,139.271,165.514,165.514
+1083,3152,8515,Instituto Politécnico de Setúbal,Escola Superior de Tecnologia de Setúbal,Tecnologias de Energia,0,0,135.118,115.882,145.441,145.441
+1084,3331,9069,Instituto Politécnico do Porto,Escola Superior de Media Artes e Design,Design,0,0,159.559,162.068,165.477,165.477
+1085,7045,8138,Instituto Politécnico de Leiria,Escola Superior de Saúde,Terapia Ocupacional,0,0,139.446,122.014,148.8,148.8
+1086,7045,8149,Instituto Politécnico de Leiria,Escola Superior de Saúde,Dietética e Nutrição,0,0,138.5,126.1,146.767,146.767
+1087,3162,L122,Instituto Politécnico de Viana do Castelo,Escola Superior de Educação,Artes Plásticas e Tecnologias Artísticas,0,0,155.323,151.133,157.533,157.533
+1088,7065,9500,Instituto Politécnico de Santarém,Escola Superior de Saúde de Santarém,Enfermagem,0,0,140.313,121.049,153.155,153.155

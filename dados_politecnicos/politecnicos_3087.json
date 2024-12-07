@@ -1,0 +1,272 @@
+{
+    "codigo_universidade": "3087",
+    "nome_universidade": "3087 - Universidade do Algarve - Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",
+    "cursos": [
+        {
+            "codigo_curso": "9147",
+            "nome_curso": "9147 - Gestão",
+            "colocados": [
+                {
+                    "codigo_aluno": "303(...)53",
+                    "nome_aluno": "BEATRIZ ISABEL PITA DA SILVA OLIVEIRA DOS SANTOS"
+                },
+                {
+                    "codigo_aluno": "154(...)06",
+                    "nome_aluno": "BEATRIZ SILVA CORREIA"
+                },
+                {
+                    "codigo_aluno": "308(...)81",
+                    "nome_aluno": "CATARINA CORREIA MARQUES"
+                },
+                {
+                    "codigo_aluno": "306(...)08",
+                    "nome_aluno": "CRISTIANO RODRIGO DA SILVA SEABRA"
+                },
+                {
+                    "codigo_aluno": "308(...)50",
+                    "nome_aluno": "DANIELA FILIPA DIAS MARQUES"
+                },
+                {
+                    "codigo_aluno": "313(...)41",
+                    "nome_aluno": "DIOGO ALEXANDRE MOREIRA COELHO"
+                },
+                {
+                    "codigo_aluno": "328(...)47",
+                    "nome_aluno": "ELSA CARINA SEMEDO MONTEIRO"
+                },
+                {
+                    "codigo_aluno": "154(...)65",
+                    "nome_aluno": "ENZO ALÉXIS PORTELA GUERREIRO"
+                },
+                {
+                    "codigo_aluno": "156(...)05",
+                    "nome_aluno": "ÉRICA REIGONES BRAZÃO PIRES"
+                },
+                {
+                    "codigo_aluno": "151(...)37",
+                    "nome_aluno": "GABRIEL ALEXANDRE LUIZ PRATA"
+                },
+                {
+                    "codigo_aluno": "152(...)50",
+                    "nome_aluno": "GABRIEL SUBTIL FERNANDES"
+                },
+                {
+                    "codigo_aluno": "303(...)25",
+                    "nome_aluno": "GONÇALO ALEXANDRE NOBRE MIMOSO"
+                },
+                {
+                    "codigo_aluno": "156(...)17",
+                    "nome_aluno": "INÊS MARIA DO ROSÁRIO VALENTE"
+                },
+                {
+                    "codigo_aluno": "152(...)99",
+                    "nome_aluno": "JOANA FILIPA BRAZ GONÇALO"
+                },
+                {
+                    "codigo_aluno": "158(...)00",
+                    "nome_aluno": "JOÃO MIGUEL FERNANDES LUÍS"
+                },
+                {
+                    "codigo_aluno": "153(...)30",
+                    "nome_aluno": "JOÃO PEDRO MARTINS FERRÃO"
+                },
+                {
+                    "codigo_aluno": "304(...)21",
+                    "nome_aluno": "JOÃO PEDRO PEREIRA FRANCISCO"
+                },
+                {
+                    "codigo_aluno": "301(...)74",
+                    "nome_aluno": "JULIO AMADU SANO JUNIOR"
+                },
+                {
+                    "codigo_aluno": "306(...)05",
+                    "nome_aluno": "LARA CERÍACO SIMÃO"
+                },
+                {
+                    "codigo_aluno": "309(...)31",
+                    "nome_aluno": "MARIA DO CARMO CARDOSO MENDES"
+                },
+                {
+                    "codigo_aluno": "156(...)18",
+                    "nome_aluno": "MARIANA FILIPA PIRES CARVALHO"
+                },
+                {
+                    "codigo_aluno": "300(...)01",
+                    "nome_aluno": "MARTIM MALVEIRO PINHO"
+                },
+                {
+                    "codigo_aluno": "157(...)19",
+                    "nome_aluno": "MIGUEL PARENTE LOPES"
+                },
+                {
+                    "codigo_aluno": "158(...)60",
+                    "nome_aluno": "MIGUEL SOARES LOURENÇO"
+                },
+                {
+                    "codigo_aluno": "306(...)91",
+                    "nome_aluno": "RITA SOFIA DIAS MARREIROS"
+                },
+                {
+                    "codigo_aluno": "311(...)44",
+                    "nome_aluno": "RODRIGO ALEXANDRE SÉRIO MOURÃO"
+                },
+                {
+                    "codigo_aluno": "152(...)78",
+                    "nome_aluno": "RODRIGO CORREIA BARBOSA"
+                },
+                {
+                    "codigo_aluno": "152(...)03",
+                    "nome_aluno": "RUBEN DUARTE NUNES"
+                },
+                {
+                    "codigo_aluno": "317(...)56",
+                    "nome_aluno": "SALOMÃO ALEXANDRE SAVELENKO"
+                },
+                {
+                    "codigo_aluno": "149(...)87",
+                    "nome_aluno": "TIAGO DANIEL DUARTE MARQUES"
+                },
+                {
+                    "codigo_aluno": "316(...)34",
+                    "nome_aluno": "TOMÁS MIGUEL MARIA RODRIGUES"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "9148",
+            "nome_curso": "9148 - Gestão (regime noturno)",
+            "colocados": [
+                {
+                    "codigo_aluno": "158(...)96",
+                    "nome_aluno": "BERNARDO ARI ENCARNAÇÃO GUITA"
+                },
+                {
+                    "codigo_aluno": "300(...)69",
+                    "nome_aluno": "DALILA NOVALIO PRATA"
+                },
+                {
+                    "codigo_aluno": "310(...)73",
+                    "nome_aluno": "DANIELA OLARESCU"
+                },
+                {
+                    "codigo_aluno": "312(...)55",
+                    "nome_aluno": "ENZO MATEUS DE OLIVEIRA AURELIO"
+                },
+                {
+                    "codigo_aluno": "156(...)58",
+                    "nome_aluno": "JOÃO NUNO GONÇALVES RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "306(...)91",
+                    "nome_aluno": "MARIA CLARA MATOS FERREIRA"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "9254",
+            "nome_curso": "9254 - Turismo",
+            "colocados": [
+                {
+                    "codigo_aluno": "319(...)19",
+                    "nome_aluno": "ANA RITA FILIPE DA CÂMARA SANTA BÁRBARA"
+                },
+                {
+                    "codigo_aluno": "301(...)40",
+                    "nome_aluno": "BÁRBARA ESTEVES SOUSA"
+                },
+                {
+                    "codigo_aluno": "304(...)92",
+                    "nome_aluno": "BEATRIZ ALEXANDRA DUARTE FRAZÃO"
+                },
+                {
+                    "codigo_aluno": "300(...)59",
+                    "nome_aluno": "CATARINA PEREIRA MARTINS"
+                },
+                {
+                    "codigo_aluno": "150(...)28",
+                    "nome_aluno": "DIOGO BAPTISTA DE ANDRADE"
+                },
+                {
+                    "codigo_aluno": "300(...)61",
+                    "nome_aluno": "DIOGO RIBEIRO SILVA"
+                },
+                {
+                    "codigo_aluno": "305(...)34",
+                    "nome_aluno": "DORA ALEXANDRA JESUS BRÁS"
+                },
+                {
+                    "codigo_aluno": "240(...)15",
+                    "nome_aluno": "DORIN BADULET"
+                },
+                {
+                    "codigo_aluno": "240(...)06",
+                    "nome_aluno": "FREDERICO FEGLER RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "311(...)89",
+                    "nome_aluno": "GONÇALO GARCIA CONDEÇA"
+                },
+                {
+                    "codigo_aluno": "301(...)74",
+                    "nome_aluno": "HELENA RAMOS COSME"
+                },
+                {
+                    "codigo_aluno": "305(...)26",
+                    "nome_aluno": "INÊS ALBANO CARDOSO"
+                },
+                {
+                    "codigo_aluno": "301(...)29",
+                    "nome_aluno": "JOÃO EDUARDO FELICIO BRITO"
+                },
+                {
+                    "codigo_aluno": "304(...)19",
+                    "nome_aluno": "JOÃO MIGUEL PAULINO CALDEIRA"
+                },
+                {
+                    "codigo_aluno": "318(...)97",
+                    "nome_aluno": "JOSÉ MIGUEL DA SILVA BATISTA"
+                },
+                {
+                    "codigo_aluno": "303(...)63",
+                    "nome_aluno": "MARIANA FERREIRA MANAIA"
+                },
+                {
+                    "codigo_aluno": "307(...)80",
+                    "nome_aluno": "MARTA SOTERO MARREIROS"
+                },
+                {
+                    "codigo_aluno": "147(...)63",
+                    "nome_aluno": "MIGUEL GASPAR DE AZEVEDO MARGATO GAD"
+                },
+                {
+                    "codigo_aluno": "154(...)57",
+                    "nome_aluno": "MIGUEL NOGUEIRA RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "152(...)05",
+                    "nome_aluno": "MIGUEL PADERNE FERNANDES"
+                },
+                {
+                    "codigo_aluno": "333(...)94",
+                    "nome_aluno": "PALOMA SOFIA DA VEIGA LOPES"
+                },
+                {
+                    "codigo_aluno": "156(...)33",
+                    "nome_aluno": "RODRIGO DA SILVA RELIQUIAS"
+                },
+                {
+                    "codigo_aluno": "309(...)80",
+                    "nome_aluno": "RODRIGO FARIA DO CARMO"
+                },
+                {
+                    "codigo_aluno": "310(...)42",
+                    "nome_aluno": "SABRINA CANDEIAS VILHENA"
+                },
+                {
+                    "codigo_aluno": "151(...)63",
+                    "nome_aluno": "SIMÃO DE ALMEIDA DIAS"
+                }
+            ]
+        }
+    ]
+}

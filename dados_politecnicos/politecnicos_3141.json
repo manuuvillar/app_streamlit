@@ -1,0 +1,272 @@
+{
+    "codigo_universidade": "3141",
+    "nome_universidade": "3141 - Instituto Politécnico de Santarém - Escola Superior Agrária de Santarém",
+    "cursos": [
+        {
+            "codigo_curso": "9003",
+            "nome_curso": "9003 - Agronomia",
+            "colocados": [
+                {
+                    "codigo_aluno": "306(...)65",
+                    "nome_aluno": "ANA INÊS DUARTE POMPÓNIO"
+                },
+                {
+                    "codigo_aluno": "306(...)51",
+                    "nome_aluno": "ANA MARGARIDA RIBEIRO DIONÍSIO"
+                },
+                {
+                    "codigo_aluno": "308(...)62",
+                    "nome_aluno": "ANDRÉ FILIPE SILVA RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "157(...)32",
+                    "nome_aluno": "CARLOS MARTIM MARTINS HENRIQUES"
+                },
+                {
+                    "codigo_aluno": "308(...)29",
+                    "nome_aluno": "CAROLINA FERREIRA FRANCO"
+                },
+                {
+                    "codigo_aluno": "314(...)85",
+                    "nome_aluno": "DIOGO RAFAEL VARELA CANADAS DE ARAÚJO"
+                },
+                {
+                    "codigo_aluno": "159(...)14",
+                    "nome_aluno": "GABRIEL LOURENÇO CUSTODIO"
+                },
+                {
+                    "codigo_aluno": "240(...)14",
+                    "nome_aluno": "JOÃO CAMPOS LIMA"
+                },
+                {
+                    "codigo_aluno": "307(...)62",
+                    "nome_aluno": "JOSÉ FRANCISCO DOS SANTOS FERREIRA CERQUEIRA TORRES"
+                },
+                {
+                    "codigo_aluno": "306(...)27",
+                    "nome_aluno": "MARIA CLARA DA SILVA LUCAS CAETANO PROA"
+                },
+                {
+                    "codigo_aluno": "312(...)04",
+                    "nome_aluno": "MARIA FRADE MENDES"
+                },
+                {
+                    "codigo_aluno": "309(...)09",
+                    "nome_aluno": "MIGUEL LEITÃO CÂNDIDO"
+                },
+                {
+                    "codigo_aluno": "159(...)78",
+                    "nome_aluno": "TIAGO OLIVEIRA LUÍS"
+                },
+                {
+                    "codigo_aluno": "314(...)18",
+                    "nome_aluno": "TOMÁS FILIPE BENTO AMARAL"
+                },
+                {
+                    "codigo_aluno": "306(...)42",
+                    "nome_aluno": "TOMAS HENRIQUE AGOSTINHO SANTOS"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "8419",
+            "nome_curso": "8419 - Agronomia (regime pós-laboral)",
+            "colocados": [
+                {
+                    "codigo_aluno": "151(...)82",
+                    "nome_aluno": "EDUARDO MARIA GORJÃO CLARA DE MIRA CRUZ"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "L259",
+            "nome_curso": "L259 - Biologia e Biotecnologia Alimentar",
+            "colocados": [
+                {
+                    "codigo_aluno": "310(...)80",
+                    "nome_aluno": "ANA BEATRIZ CORREIA VENÂNCIO"
+                },
+                {
+                    "codigo_aluno": "306(...)72",
+                    "nome_aluno": "ANA BELA CASTANHEIRO SEMEANO"
+                },
+                {
+                    "codigo_aluno": "311(...)77",
+                    "nome_aluno": "BIANCA RAFAELA SEMEDO FERREIRA MOREIRA"
+                },
+                {
+                    "codigo_aluno": "154(...)78",
+                    "nome_aluno": "DINIS LOBATO COELHO BARROCAS"
+                },
+                {
+                    "codigo_aluno": "308(...)67",
+                    "nome_aluno": "DIOGO JOSÉ DOS SANTOS BENTO"
+                },
+                {
+                    "codigo_aluno": "306(...)26",
+                    "nome_aluno": "GABRIELA TOMAZ BATISTA FLORES"
+                },
+                {
+                    "codigo_aluno": "156(...)15",
+                    "nome_aluno": "GUILHERME MARTINS PINTO"
+                },
+                {
+                    "codigo_aluno": "314(...)96",
+                    "nome_aluno": "HÉLDER RICARDO RODRIGUES MARTINS"
+                },
+                {
+                    "codigo_aluno": "151(...)17",
+                    "nome_aluno": "INÊS MARGARIDA LEONOR DE MIRA"
+                },
+                {
+                    "codigo_aluno": "152(...)42",
+                    "nome_aluno": "INÊS SOFIA MAURÍCIO NALHA"
+                },
+                {
+                    "codigo_aluno": "300(...)23",
+                    "nome_aluno": "JOÃO ALEXANDRE NORINHA MARQUES"
+                },
+                {
+                    "codigo_aluno": "307(...)56",
+                    "nome_aluno": "JOÃO ANDRÉ SANTOS ROSA"
+                },
+                {
+                    "codigo_aluno": "240(...)44",
+                    "nome_aluno": "JOÃO KIESSE QUILOMBO VALENTE"
+                },
+                {
+                    "codigo_aluno": "150(...)76",
+                    "nome_aluno": "JOAO PEDRO OURIVES AFOITO"
+                },
+                {
+                    "codigo_aluno": "309(...)35",
+                    "nome_aluno": "JOÃO RUI PATRÍCIO INÊS"
+                },
+                {
+                    "codigo_aluno": "311(...)50",
+                    "nome_aluno": "JOSUÉ OLIVEIRA SILVA"
+                },
+                {
+                    "codigo_aluno": "305(...)44",
+                    "nome_aluno": "MADALENA GONÇALVES DA SILVA"
+                },
+                {
+                    "codigo_aluno": "307(...)91",
+                    "nome_aluno": "MARIANA FILIPA BATISTA CRISTÓVÃO"
+                },
+                {
+                    "codigo_aluno": "151(...)46",
+                    "nome_aluno": "MARIANA LEBRE PALMA DA SILVA PENDÃO"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "L080",
+            "nome_curso": "L080 - Qualidade Alimentar e Nutrição Humana",
+            "colocados": [
+                {
+                    "codigo_aluno": "148(...)30",
+                    "nome_aluno": "ADRIANA CRISTÓVÃO ROQUE"
+                },
+                {
+                    "codigo_aluno": "303(...)82",
+                    "nome_aluno": "CATARINA ALEXANDRA ALMEIDA HENRIQUES"
+                },
+                {
+                    "codigo_aluno": "301(...)01",
+                    "nome_aluno": "DINIS ALEXANDRE DAS NEVES PEREIRA"
+                },
+                {
+                    "codigo_aluno": "154(...)13",
+                    "nome_aluno": "INÊS SANTO JUSTO"
+                },
+                {
+                    "codigo_aluno": "300(...)68",
+                    "nome_aluno": "JESSICA FILIPA FORTUNATO NORTE"
+                },
+                {
+                    "codigo_aluno": "304(...)11",
+                    "nome_aluno": "JOANA DAMIAO ABREU SÁ"
+                },
+                {
+                    "codigo_aluno": "317(...)11",
+                    "nome_aluno": "MAFALDA MARIA JESUS GONZALEZ PEREIRA"
+                },
+                {
+                    "codigo_aluno": "301(...)89",
+                    "nome_aluno": "MARIA MARGARIDA FERREIRA RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "303(...)15",
+                    "nome_aluno": "PEDRO DIOGO NUNES MASSENA MARQUES"
+                },
+                {
+                    "codigo_aluno": "308(...)27",
+                    "nome_aluno": "PEDRO MIGUEL TELINHOS VENTURA RAMOS COSTA"
+                },
+                {
+                    "codigo_aluno": "154(...)88",
+                    "nome_aluno": "RAFAEL ALVES SÁBIO"
+                },
+                {
+                    "codigo_aluno": "154(...)81",
+                    "nome_aluno": "RODRIGO FIDÉLIS LEITE DE SÁ PEDROSO"
+                },
+                {
+                    "codigo_aluno": "306(...)69",
+                    "nome_aluno": "SOFIA DE FERREIRA E MUNHÃO FEITINHA"
+                },
+                {
+                    "codigo_aluno": "307(...)07",
+                    "nome_aluno": "VASCO OLIVEIRA TAVARES"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "L003",
+            "nome_curso": "L003 - Zootecnia",
+            "colocados": [
+                {
+                    "codigo_aluno": "311(...)85",
+                    "nome_aluno": "CARLOS MIGUEL INÁCIO DA FONSECA FERNANDES"
+                },
+                {
+                    "codigo_aluno": "309(...)62",
+                    "nome_aluno": "CAROLINA ALEXANDRA PEREIRA BAPTISTA BARATA"
+                },
+                {
+                    "codigo_aluno": "157(...)16",
+                    "nome_aluno": "GABRIEL CARREIRA CONCEIÇÃO"
+                },
+                {
+                    "codigo_aluno": "156(...)59",
+                    "nome_aluno": "INÊS PEREIRA FONSECA"
+                },
+                {
+                    "codigo_aluno": "310(...)13",
+                    "nome_aluno": "LEONOR SALES CARONA"
+                },
+                {
+                    "codigo_aluno": "310(...)37",
+                    "nome_aluno": "MARIANA ALMEIDA DO CARMO"
+                },
+                {
+                    "codigo_aluno": "307(...)67",
+                    "nome_aluno": "MATEUS FARIA DOMINGOS"
+                },
+                {
+                    "codigo_aluno": "153(...)45",
+                    "nome_aluno": "RENATO SANTOS MOREIRA"
+                },
+                {
+                    "codigo_aluno": "157(...)41",
+                    "nome_aluno": "RODRIGO CANUDO MIRANDA"
+                },
+                {
+                    "codigo_aluno": "306(...)10",
+                    "nome_aluno": "SIMÃO FERREIRA FILIPE"
+                }
+            ]
+        }
+    ]
+}

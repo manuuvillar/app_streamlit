@@ -1,0 +1,184 @@
+{
+    "codigo_universidade": "3053",
+    "nome_universidade": "3053 - Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco",
+    "cursos": [
+        {
+            "codigo_curso": "9089",
+            "nome_curso": "9089 - Engenharia Civil",
+            "colocados": [
+                {
+                    "codigo_aluno": "309(...)17",
+                    "nome_aluno": "FÁBIO MANUEL NUNES FIGUEIREDO"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "8463",
+            "nome_curso": "8463 - Engenharia das Energias Renováveis",
+            "colocados": []
+        },
+        {
+            "codigo_curso": "9104",
+            "nome_curso": "9104 - Engenharia e Gestão Industrial",
+            "colocados": [
+                {
+                    "codigo_aluno": "304(...)90",
+                    "nome_aluno": "RODRIGO ANDRADE SANTOS FRAZÃO GONÇALVES"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "9111",
+            "nome_curso": "9111 - Engenharia Eletrotécnica e das Telecomunicações",
+            "colocados": []
+        },
+        {
+            "codigo_curso": "9119",
+            "nome_curso": "9119 - Engenharia Informática",
+            "colocados": [
+                {
+                    "codigo_aluno": "303(...)25",
+                    "nome_aluno": "ALEXANDRE DE MATOS PATINHO SOARES"
+                },
+                {
+                    "codigo_aluno": "306(...)01",
+                    "nome_aluno": "ALEXANDRE MANUEL COSTA ESTEVES"
+                },
+                {
+                    "codigo_aluno": "153(...)14",
+                    "nome_aluno": "ALEXANDRE MIGUEL OLIVEIRA ANTUNES"
+                },
+                {
+                    "codigo_aluno": "309(...)77",
+                    "nome_aluno": "ANDRÉ MIGUEL FONSECA SANTOS"
+                },
+                {
+                    "codigo_aluno": "311(...)07",
+                    "nome_aluno": "DANIEL RIAN NOGUEIRA PADRE"
+                },
+                {
+                    "codigo_aluno": "314(...)84",
+                    "nome_aluno": "DAVID ANDRÉ MARTINS CARVALHO"
+                },
+                {
+                    "codigo_aluno": "152(...)20",
+                    "nome_aluno": "DAVID MIGUEL COUTINHO CASTEL-BRANCO POWER"
+                },
+                {
+                    "codigo_aluno": "154(...)64",
+                    "nome_aluno": "DILAN MARQUES PEREIRA"
+                },
+                {
+                    "codigo_aluno": "152(...)35",
+                    "nome_aluno": "DINIS SILVEIRO SERRANO"
+                },
+                {
+                    "codigo_aluno": "147(...)36",
+                    "nome_aluno": "FILIPE MIGUEL DA CUNHA FÉLIX"
+                },
+                {
+                    "codigo_aluno": "157(...)71",
+                    "nome_aluno": "FRANCISCO RODRIGUES DUARTE"
+                },
+                {
+                    "codigo_aluno": "150(...)29",
+                    "nome_aluno": "JOANA ISABEL VICENTE NUNES"
+                },
+                {
+                    "codigo_aluno": "159(...)16",
+                    "nome_aluno": "JOÃO ALEXANDRE BRANCO FONTINHA"
+                },
+                {
+                    "codigo_aluno": "151(...)06",
+                    "nome_aluno": "JOÃO CARLOS OLIVEIRA NUNES"
+                },
+                {
+                    "codigo_aluno": "157(...)12",
+                    "nome_aluno": "JOSÉ PEDRO MENDES DIAS"
+                },
+                {
+                    "codigo_aluno": "301(...)82",
+                    "nome_aluno": "LEONARDO PINTO FIGUEIRA"
+                },
+                {
+                    "codigo_aluno": "316(...)12",
+                    "nome_aluno": "LUANA RITA SILVA MORGADO PINHEIRO"
+                },
+                {
+                    "codigo_aluno": "152(...)64",
+                    "nome_aluno": "LUÍS ANTÓNIO BEATO MENDES"
+                },
+                {
+                    "codigo_aluno": "300(...)38",
+                    "nome_aluno": "LUÍS JOSÉ BERNARDO MARTINS"
+                },
+                {
+                    "codigo_aluno": "159(...)42",
+                    "nome_aluno": "LUÍS MIGUEL GOUVEIA RODRIGUES"
+                },
+                {
+                    "codigo_aluno": "310(...)20",
+                    "nome_aluno": "MIGUEL ALEXANDRE MURÇA ABREU"
+                },
+                {
+                    "codigo_aluno": "301(...)23",
+                    "nome_aluno": "NUNO RODRIGO ANTUNES GONÇALVES"
+                },
+                {
+                    "codigo_aluno": "156(...)90",
+                    "nome_aluno": "ÓSCAR MIGUEL GOUVEIA VIEIRA"
+                },
+                {
+                    "codigo_aluno": "153(...)98",
+                    "nome_aluno": "PEDRO RIBEIRO DIAS"
+                },
+                {
+                    "codigo_aluno": "149(...)83",
+                    "nome_aluno": "RICARDO MACHADO DA SILVA"
+                },
+                {
+                    "codigo_aluno": "310(...)48",
+                    "nome_aluno": "RUBEN FILIPE CASTELEIRO SERRA"
+                },
+                {
+                    "codigo_aluno": "318(...)39",
+                    "nome_aluno": "RÚBEN GABRIEL RODRIGUES GUERRA"
+                },
+                {
+                    "codigo_aluno": "159(...)98",
+                    "nome_aluno": "SAMUEL ABRANTES BENTO"
+                },
+                {
+                    "codigo_aluno": "318(...)07",
+                    "nome_aluno": "SAMUEL SILVARES SANTOS"
+                },
+                {
+                    "codigo_aluno": "308(...)87",
+                    "nome_aluno": "TOMAS FRAGOSO CASTELO"
+                },
+                {
+                    "codigo_aluno": "311(...)85",
+                    "nome_aluno": "TOMÁS MIGUEL MENDES BELCHIOR"
+                },
+                {
+                    "codigo_aluno": "240(...)07",
+                    "nome_aluno": "VITOR BATISTA DA SILVA"
+                }
+            ]
+        },
+        {
+            "codigo_curso": "L275",
+            "nome_curso": "L275 - Informática e Multimédia",
+            "colocados": [
+                {
+                    "codigo_aluno": "155(...)93",
+                    "nome_aluno": "JOSÉ PEDRO DA COSTA BORGES"
+                },
+                {
+                    "codigo_aluno": "309(...)16",
+                    "nome_aluno": "MARIANA NUNES DE CAMPOS PINTO"
+                }
+            ]
+        }
+    ]
+}
