@@ -13,7 +13,7 @@ tabelas = {
     "candidatos_que_foram_colocados": "candidatos_que_foram_colocados.csv"
 }
 
-SENHA_CORRETA = '@@4$j'
+SENHA_CORRETA = ''
 
 def carregar_tabelas_no_sqlite(tabelas):
     conn = sqlite3.connect(":memory:")  
