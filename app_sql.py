@@ -6,9 +6,9 @@ import os
 
 
 tabelas = {
-    "candidatos": "C:\\Users\\Utilizador\\OneDrive - Universidade do Minho\\3-ano\\AMBIENTES DISTRIBUIDOS DE PROCESSAMENTO DE DADOS\\Projeto2\\candidatos.csv",
-    "colocados": "C:\\Users\\Utilizador\\OneDrive - Universidade do Minho\\3-ano\\AMBIENTES DISTRIBUIDOS DE PROCESSAMENTO DE DADOS\\Projeto2\\colocados.csv",
-    "candidatos_que_foram_colocados": "C:\\Users\\Utilizador\\OneDrive - Universidade do Minho\\3-ano\\AMBIENTES DISTRIBUIDOS DE PROCESSAMENTO DE DADOS\\Projeto2\\candidatos_que_foram_colocados.csv"
+    "candidatos": "candidatos.csv",
+    "colocados": "colocados.csv",
+    "candidatos_que_foram_colocados": "candidatos_que_foram_colocados.csv"
 }
 
 def carregar_tabelas_no_sqlite(tabelas):
