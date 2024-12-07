@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 import time
+import unicodedata  # Adicionando a importação de unicodedata para normalizar os nomes
 
 # Caminho relativo dos arquivos CSV
 tabelas = {
@@ -20,33 +21,27 @@ def carregar_tabelas_no_sqlite(tabelas):
         df.to_sql(nome, conn, if_exists="replace", index=False)  # Inserir no banco de dados SQLite
     return conn
 
-# Função para procurar aluno nas tabelas
+# Função para normalizar nome (remover acentuação e transformar em minúsculas)
 def normalizar_nome(nome):
-    # Remover acentuação
     nome_normalizado = unicodedata.normalize('NFKD', nome).encode('ASCII', 'ignore').decode('ASCII')
-    # Remover espaços extras antes e depois do nome
     return nome_normalizado.strip().lower()
 
 # Função para procurar aluno nas tabelas
 def buscar_aluno(conn, nome_aluno):
     nome_aluno_normalizado = normalizar_nome(nome_aluno)  # Normalizar o nome pesquisado
     
-    query_candidatos = f"""
-        SELECT codigo_estabelecimento, codigo_curso, "Nº Ordem (parcial)", cc, Nome, Nota, Opção, PI, "12º", "10º/11º", estabelecimento, escola, curso, regime_pos_laboral, regime_noturno
-        FROM candidatos
-        WHERE LOWER(Nome) LIKE '%{nome_aluno_normalizado}%'
-    """
-    
-    query_candidatos_que_foram_colocados = f"""
+    # Consulta modificada para buscar apenas na tabela 'colocados'
+    query_colocados = f"""
         SELECT codigo_estabelecimento, codigo_curso, "Nº Ordem (parcial)", cc, Nome, Nota, Opção, PI, "12º", "10º/11º", estabelecimento, escola, curso, regime_pos_laboral, regime_noturno
         FROM candidatos_que_foram_colocados
         WHERE LOWER(Nome) LIKE '%{nome_aluno_normalizado}%'
     """
     
-    candidatos = pd.read_sql_query(query_candidatos, conn)
-    colocados = pd.read_sql_query(query_candidatos_que_foram_colocados, conn)
+    # Executando a consulta na tabela 'colocados'
+    colocados = pd.read_sql_query(query_colocados, conn)
     
-    return candidatos, colocados
+    return colocados
+
 # Função para verificar a senha
 def verificar_senha(senha):
     return senha == SENHA_CORRETA
@@ -95,15 +90,9 @@ else:
 
             if nome_aluno_input:
                 # Buscar o aluno nas tabelas
-                candidatos, colocados = buscar_aluno(conn, nome_aluno_input)
+                colocados = buscar_aluno(conn, nome_aluno_input)
 
                 # Mostrar os resultados organizados
-                if not candidatos.empty:
-                    st.write(f"### Informações na Tabela 'Candidatos' para '{nome_aluno_input}':")
-                    st.dataframe(candidatos)  # Exibe os dados da tabela 'candidatos'
-                else:
-                    st.warning(f"Nenhum aluno encontrado na tabela 'Candidatos' para '{nome_aluno_input}'.")
-
                 if not colocados.empty:
                     st.write(f"### Informações na Tabela 'Candidatos que Foram Colocados' para '{nome_aluno_input}':")
                     st.dataframe(colocados)  # Exibe os dados da tabela 'candidatos_que_foram_colocados'
