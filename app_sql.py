@@ -21,9 +21,11 @@ def carregar_tabelas_no_sqlite(tabelas):
         df.to_sql(nome, conn, if_exists="replace", index=False)  # Inserir no banco de dados SQLite
     return conn
 
-# Função para normalizar nome (remover acentuação e transformar em minúsculas)
+
 def normalizar_nome(nome):
     nome_normalizado = unicodedata.normalize('NFKD', nome).encode('ASCII', 'ignore').decode('ASCII')
+    # Mantém os espaços, mas remove espaços extras antes e depois
+    nome_normalizado = " ".join(nome_normalizado.split())  # Remove espaços extras entre as palavras
     return nome_normalizado.strip().lower()
 
 # Função para procurar aluno nas tabelas
