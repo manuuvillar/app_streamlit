@@ -63,8 +63,8 @@ if "tentativas_falhas" not in st.session_state:
     st.session_state["tentativas_falhas"] = 0
 
 # Streamlit UI
-st.title("Interface de Visualização de Dados com SQL")
-st.write("Realize consultas SQL nos dados carregados. Modificações não são permitidas.")
+st.title("DGES-Busca por Nome de Colocado")
+st.write("Insira o nome de um colocado.")
 
 # Campo para digitar a senha
 senha_input = st.text_input("Digite a senha para acessar a consulta:", type="password")
