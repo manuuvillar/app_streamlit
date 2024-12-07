@@ -21,25 +21,32 @@ def carregar_tabelas_no_sqlite(tabelas):
     return conn
 
 # Função para procurar aluno nas tabelas
+def normalizar_nome(nome):
+    # Remover acentuação
+    nome_normalizado = unicodedata.normalize('NFKD', nome).encode('ASCII', 'ignore').decode('ASCII')
+    # Remover espaços extras antes e depois do nome
+    return nome_normalizado.strip().lower()
+
+# Função para procurar aluno nas tabelas
 def buscar_aluno(conn, nome_aluno):
-    nome_aluno = nome_aluno.lower()  # Tornar o nome pesquisado em minúsculo para pesquisa insensível a maiúsculas
+    nome_aluno_normalizado = normalizar_nome(nome_aluno)  # Normalizar o nome pesquisado
+    
     query_candidatos = f"""
         SELECT codigo_estabelecimento, codigo_curso, "Nº Ordem (parcial)", cc, Nome, Nota, Opção, PI, "12º", "10º/11º", estabelecimento, escola, curso, regime_pos_laboral, regime_noturno
         FROM candidatos
-        WHERE LOWER(Nome) LIKE '%{nome_aluno}%'
+        WHERE LOWER(Nome) LIKE '%{nome_aluno_normalizado}%'
     """
     
     query_candidatos_que_foram_colocados = f"""
         SELECT codigo_estabelecimento, codigo_curso, "Nº Ordem (parcial)", cc, Nome, Nota, Opção, PI, "12º", "10º/11º", estabelecimento, escola, curso, regime_pos_laboral, regime_noturno
         FROM candidatos_que_foram_colocados
-        WHERE LOWER(Nome) LIKE '%{nome_aluno}%'
+        WHERE LOWER(Nome) LIKE '%{nome_aluno_normalizado}%'
     """
     
     candidatos = pd.read_sql_query(query_candidatos, conn)
     colocados = pd.read_sql_query(query_candidatos_que_foram_colocados, conn)
     
     return candidatos, colocados
-
 # Função para verificar a senha
 def verificar_senha(senha):
     return senha == SENHA_CORRETA
